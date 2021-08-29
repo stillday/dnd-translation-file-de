@@ -1,1 +1,0 @@
-dnd-translation-file-de
