@@ -241,12 +241,13 @@
         },
         "Command": {
             "name": "Befehl",
-            "description": "<p>Du gibst einer Kreatur in Reichweite, die du sehen kannst, einen Befehl, bei dem es sich nur um ein einzelnes Wort handeln darf. Dem Ziel muss ein Weisheitsrettungswurf gelingen, sonst muss es den Befehl in seinem nächsten Zug befolgen. Der Zauber hat keine Auswirkungen, wenn das Ziel untot ist, es deine Sprache nicht versteht oder das Ausführen deines Befehls ihm unmittelbar schaden würde. Typische Befehle unten. Wenn du einen anderen Befehl nimmst, entscheidet der SL, wie das Ziel sich verhält. Kann das Ziel deinem Befehl nicht folgen, endet der Zauber.  </p>\n<p><strong>Komm</strong>: Das Ziel bewegt sich auf dem kürzesten und direktesten Weg auf dich zu und beendet seinen Zug, wenn es sich die auf 1,5m genähert hat.  </p>\n<p><strong>Fallenlassen</strong>: Das Ziel lässt fallen, was es in den Händen hält und beendet dann seinen Zug.  </p>\n<p><strong>Flieh</strong>: Das Ziel verbringt seinen Zug damit, sich schnellstmöglich von dir wegzubewegen.  </p>\n<p><strong>Kriech</strong>: Das Ziel erhält den Zustand liegend und beendet seinen Zug. </p>\n<p><strong>Stopp</strong>: Das Ziel bewegt sich nicht und führt keine Aktion aus. Eine fliegende Kreatur verbleibt schwebend an Ort und Stelle, wenn sie dazu imstande ist. Muss sie sich bewegen, um in der Luft zu bleiben, fliegt sie die Mindestentfernung, die notwendig ist, um nicht abzustürzen.  </p>\n<p>Wenn du diesen Spruch mit einem Zauberplatz des 2. Grades oder eines höheren Grades wirkst, kannst du für jeden Grad über den 1. Hinaus eine zusätzliche Kreatur als Ziel wählen. Die Kreaturen dürfen nicht weiter als 9m voneinander entfernt sein, wenn du den Zauber auf sie wirkst. </p>",
+            "description": "<p>Du gibst einer Kreatur in Reichweite, die du sehen kannst, einen Befehl von einem Wort. Das Ziel muss einen Weisheitsrettungswurf ablegen, sonst befolgt es den Befehl in seinem nächsten Zug. Der Zauber hat keine Auswirkungen, wenn das Ziel untot ist, wenn es deine Sprache nicht versteht oder wenn dein Befehl ihm unmittelbar schaden würde.</p>\n<p>Es folgen einige typische Befehle und ihre Auswirkungen. Du kannst andere Befehle als die geben, die hier beschrieben sind. Wenn du dies tust, entscheidet der SL, wie sich das Ziel verhält. Wenn das Ziel deinem Befehl nicht folgen kann, endet der Zauber.</p>\n<p><strong>Komm.</strong> Das Ziel bewegt sich auf dem kürzesten und direktesten Weg auf dich zu und beendet seinen Zug wenn es sich dir auf 1,5 Meter angenähert hat.</p>\n<p><strong>Fallenlassen.</strong> Das Ziel lässt fallen, was es in den Händen hält und beendet dann seinen Zug.</p>\n<p><strong>Flieh.</strong> Das Ziel verbringt seinen Zug damit, sich auf die schnellste verfügbare Weise von dir weg zu bewegen.</p>\n<p><strong>Krieche.</strong> Das Ziel erhält den Zustand liegend und beendet seinen Zug.</p>\n<p><strong>Stopp.</strong> Das Ziel bewegt sich nicht und führt keine Aktionen aus. Eine fliegende Kreatur bleibt in der Luft, wenn sie dazu imstande ist. Wenn sie sich bewegen muss, um in der Luft zu bleiben, dann bewegt sie sich die Mindestentfernung, die notwendig ist, um nicht abzustürzen.</p>\n<p><strong>Auf höheren Graden.</strong> Wenn du diesen Zauber mit einem Zauberplatz des 2. Grades oder höher wirkst, dann kannst du den Zauber für jeden Zauberplatz-Grad über dem ersten auf eine zusätzliche Kreatur wirken. Die Kreaturen dürfen nicht weiter als 9 Meter voneinander entfernt sein, wenn du den Zauber auf sie wirkst.</p>",
             "material": "",
             "source": "SHB S. 216"
         },
         "Commune": {
-            "name": ""
+            "name": "Heiliges Gespräch",
+            "source": "SHB S. 239"
         },
         "Commune with Nature": {
             "name": "Einswerden mit der Natur",
@@ -337,82 +338,97 @@
             "source": "SHB S. 253"
         },
         "Create Undead": {
-            "name": ""
+            "name": "Untote erschaffen",
+            "source": "SHB S. 277"
         },
         "Create or Destroy Water": {
-            "name": ""
+            "name": "Wasser erschaffen oder zerstören",
+            "source": "SHB S. 284"
         },
         "Creation": {
-            "name": ""
+            "name": "Erschaffung",
+            "source": "SHB S. 227"
         },
         "Cure Wounds": {
-            "name": ""
+            "name": "Wunden heilen",
+            "source": "SHB S. 287"
         },
         "Dancing Lights": {
-            "name": ""
+            "name": "Tanzende Lichter",
+            "source": "SHB S. 270"
         },
         "Darkness": {
-            "name": ""
+            "name": "Dunkelheit",
+            "source": "SHB S. 223"
         },
         "Darkvision": {
-            "name": ""
+            "name": "Dunkelsicht",
+            "source": "SHB S. 223"
         },
         "Daylight": {
-            "name": ""
+            "name": "Tageslicht",
+            "source": "SHB S. 270"
         },
         "Death Ward": {
-            "name": ""
+            "name": "Todesschutz",
+            "source": "SHB S. 275"
         },
         "Delayed Blast Fireball": {
             "name": "Spätzündender Feuerball",
             "description": "<p>Ein Strahl aus tiefgelbem Licht schießt aus deinem deutenden Finger, verdichtet sich und verweilt für die Wirkungsdauer als glühende Perle an einem Punkt deiner Wahl in Reichweite. Wenn der Zauber endet, entweder weil deine Konzentration unterbrochen wird oder weil du ihn beenden möchtest, erblüht die Perle mit einem lauten Brüllen in einer Explosion aus Flammen, die sich um Ecken ausbreiten können. Alle Kreaturen in einem Radius von 6 m, zentriert um den Zielpunkt, müssen einen Geschicklichkeitsrettungswurf ablegen. Bei einem Misserfolg erleidet ein Ziel Feuerschaden in Höhe des angesammelten Schadens (siehe unten) oder halb so viel Schaden bei einem erfolgreichen Rettungswurf.</p>\n<p>Der Basisschaden des Zaubers beträgt 12W6. Wenn die Perle am Ende deines Zuges noch nicht explodiert ist, steigt der Schaden jedes Mal um 1W6.</p>\n<p>Wird die glühende Perle berührt, bevor der Zauber endet, muss die entsprechende Kreatur einen Geschicklichkeitsrettungswurf ablegen. Misslingt er, endet der Zauber sofort und die Perle explodiert in Flammen. Bei einem erfolgreichen Rettungswurf kann die Kreatur die Perle bis zu 12 m weit werfen. Wenn sie eine Kreatur oder einen festen Gegenstand trifft, endet der Zauber und die Perle explodiert.</p>\n<p>Das Feuer beschädigt Gegenstände im Wirkungsbereich und entzündet brennbare Gegenstände, die nicht getragen oder in der Hand gehalten werden.</p>\n<p><strong>Auf höheren Graden:</strong> Wenn du diesen Spruch mit einem Zauberplatz des 8. oder 9. Grades wirkst, steigt der Basisschaden für jeden Grad über dem den 7. hinaus um 1W6.</p>",
             "material": "eine winzige Kugel aus Fledermauskot und Schwefel",
-            "source": "Phb. p. 266"
+            "source": "SHB S. 266"
         },
         "Demiplane": {
             "name": "Halbebene",
             "description": "<p>Du erschaffst eine schattenhafte Tür in einer festen Oberfläche in Reichweite, die du sehen kannst. Die Tür ist groß genug, dass mittelgroße Kreaturen problemlos hindurchgehen können.</p>\n<p>Wird die Tür geöffnet, führt sie zu einer Halbebene, die ein leerer Raum mit einer Kantenlänge von 9 m zu sein scheint und aus Holz oder Stein besteht. Wenn der Zauber endet, verschwindet die Tür, und Kreaturen oder Gegenstände in der Halbebene bleiben dort gefangen, da die Tür auf ihrer Seite ebenfalls verschwindet.</p>\n<p>Immer wenn du diesen Zauber wirkst, kannst du entweder eine neue Halbebene erschaffen oder die Schattentür mit einer Halbebene verbinden, die du bei einem vorherigen Wirken des Zaubers geformt hast. Ist dir außerdem die Natur und der Inhalt einer Halbebene bekannt, die durch diesen Zauber von einer anderen Kreatur erschaffen wurde, kannst du die Schattentür stattdessen auch mit dieser Halbebene verbinden.</p>",
-            "source": "Phb. p. 238"
+            "source": "SHB S. 238"
         },
         "Detect Evil and Good": {
             "name": "Gutes und Böses entdecken",
             "description": "<p>Für die Wirkungsdauer weißt du, ob sich Aberrationen, himmlische Wesen, Elementare, Feenwesen, Unholde oder Untote im Umkreis von 9 m befinden. Falls sich derartige Kreaturen in deiner Nähe aufhalten, kennst du ihre genaue Position. Gleichermaßen weißt du, ob sich im Umkreis von 9 m Orte oder Gegenstände befinden, die magisch geweiht oder entweiht wurden.</p>\n<p>Der Zauber kann die meisten Hindernisse durchdringen, wird aber blockiert von 30 cm Stein, 2,5 cm gewöhnlichem Metall, einer dünnen Schicht Blei oder 90 cm Holz oder Erde.</p>",
-            "source": "Phb. p. 238"
+            "source": "SHB S. 238"
         },
         "Detect Magic": {
-            "name": ""
+            "name": "Magie entdecken",
+            "source": "SHB S. 246"
         },
         "Detect Poison and Disease": {
-            "name": ""
+            "name": "Gift und Krankheit entdecken",
+            "source": "SHB S. 236"
         },
         "Detect Thoughts": {
-            "name": ""
+            "name": "Gedanken wahrnehmen",
+            "source": "SHB S. 233"
         },
         "Dimension Door": {
-            "name": ""
+            "name": "Dimensionstür",
+            "source": "SHB S. 221"
         },
         "Disguise Self": {
             "name": "Selbstverkleidung",
             "description": "<p>Mit diesem Zauber veränderst du dein Aussehen – inklusive deiner Kleidung, Rüstung, Waffen und anderen Besitztümer an deiner Person. Er bleibt für die Wirkungsdauer bestehen, wenn du keine Aktion verwendest, um ihn vorzeitig aufzuheben. Du kannst dich bis zu 30 cm kleiner oder größer erscheinen lassen sowie dick oder dünn beziehungsweise irgendetwas dazwischen. Deinen grundlegenden Körpertyp kannst du nicht ändern, du musst also eine Gestalt annehmen, welche die gleiche Anordnung von Gliedmaßen besitzt. Ansonsten bestimmst du, wie die Illusion aussieht.</p>\n<p>Die Veränderungen durch diesen Zauber halten einer körperlichen Untersuchung nicht stand. Nutzt du den Spruch beispielsweise, um deiner Kleidung einen Hut beizufügen, durchdringen Gegenstände diesen einfach. Jeder, der ihn berührt, würde nichts fühlen oder nur deinen Kopf und deine Haare spüren. Lässt du dich dünner erscheinen, als du bist, würde die Hand von jemandem, der dich berühren will, gegen dich stoßen, obwohl sie scheinbar noch in der Luft schwebt.</p>\n<p>Eine Kreatur kann ihre Aktion verwenden, um dich zu untersuchen. Sie legt einen Wurf auf Intelligenz (Nachforschungen) gegen den SG zum Widerstehen deiner Zauber ab. Bei Erfolg bemerkt sie, dass du auf irgendeine Art verkleidet bist.</p>",
-            "source": "Phb. p. 264"
+            "source": "SHB S. 264"
         },
         "Disintegrate": {
-            "name": ""
+            "name": "Auflösung",
+            "source": "SHB S. 215"
         },
         "Dispel Evil and Good": {
             "name": "Gutes und Böses bannen",
             "description": "<p>Flirrende Energie umgibt dich und beschützt dich vor Feenwesen, Untoten und anderen Kreaturen, die nicht von der Materiellen Ebene stammen. Für die Wirkungsdauer sind himmlische Wesen, Elementare, Feenwesen, Unholde und Untote im Nachteil bei Angriffswürfen gegen dich.</p>\n<p>Du kannst den Zauber vorzeitig beenden, indem du einen der folgenden speziellen Effekte nutzt.</p>\n<p><strong>Verzauberung brechen:</strong> Als Aktion berührst du eine Kreatur, die von einem himmlischen Wesen, einem Elementar, einem Feenwesen, einem Unhold oder einem Untoten bezaubert, verängstigt oder besessen ist. Die Kreatur, die du berührst, ist nicht länger bezaubert, verängstigt oder besessen.</p>\n<p><strong>Vertreiben:</strong> Als Aktion kannst du einen Nahkampf-Zauberangriff gegen ein himmlisches Wesen, einen Elementar, ein Feenwesen, einen Unhold oder einen Untoten ausführen, den du erreichen kannst. Bei einem Treffer muss die Kreatur einen erfolgreichen Charismarettungswurf ablegen, um nicht zurück auf ihre Heimatebene geschickt zu werden (falls sie nicht bereits dort ist). Wenn sie nicht auf ihrer Heimatebene sind, werden Untote in den Schattensaum geschickt und Feenwesen in die Feenwildnis.</p>",
             "material": "Weihwasser oder Silber- und Eisenpulver",
-            "source": "Phb. p. 238"
+            "source": "SHB S. 238"
         },
         "Dispel Magic": {
-            "name": ""
+            "name": "Magie bannen",
+            "source": "SHB S. 247"
         },
         "Divination": {
             "name": "Weissagung",
             "description": "<p>Deine Magie und ein Opfer lassen dich in Kontakt treten mit einem Gott oder dem Gesandten eines Gottes. Du darfst eine einzelne Frage über ein bestimmtes Ziel, Ereignis oder eine Aktivität stellen, die in den nächsten 7 Tagen stattfinden wird. Du bekommst eine wahre Antwort. Diese könnte in Form eines kurzen Satzes, eines kryptischen Reims oder eines Omens überbracht werden. Der Zauber nimmt nicht Rücksicht auf mögliche Umstände, die das Ergebnis verändern könnten, wie das Wirken zusätzlicher Zauber oder der Verlust eines Gefährten.</p>\n<p>Wenn du den Zauber zweimal oder öfter wirkst, bevor du eine lange Rast beendest, besteht eine kumulative Chance von 25 % für jeden Zauber nach dem ersten, dass du ein zufälliges Ergebnis erhältst. Der SL macht diesen Wurf verdeckt.</p>",
             "material": "Weihrauch und ein Opfer, das deinem Glauben entspricht; beides zusammen muss mindestens 25 GM wert sein und wird beim Wirken des Zaubers verbraucht",
-            "source": "Phb. p. 285"
+            "source": "SHB S. 285"
         },
         "Divine Favor": {
             "name": "Göttliche Gunst",
@@ -430,7 +446,8 @@
             "source": "SHB S. 272"
         },
         "Dominate Monster": {
-            "name": ""
+            "name": "Monster beherrschen",
+            "source": "SHB S. 251"
         },
         "Dominate Person": {
             "name": "Person beherrschen",
@@ -444,10 +461,12 @@
             "source": "SHB S. 276"
         },
         "Druidcraft": {
-            "name": ""
+            "name": "Druidenkunst",
+            "source": "SHB S. 223"
         },
         "Earthquake": {
-            "name": ""
+            "name": "Erdbeben",
+            "source": "SHB S. 226"
         },
         "Eldritch Blast": {
             "name": "Schauriger Strahl",
@@ -461,7 +480,8 @@
             "source": "SHB S. 214"
         },
         "Enlarge/Reduce": {
-            "name": ""
+            "name": "Vergrössern/Verkleinern",
+            "source": "SHB S. 279"
         },
         "Entangle": {
             "name": "Verstricken",
@@ -469,10 +489,12 @@
             "source": "SHB S. 280"
         },
         "Enthrall": {
-            "name": ""
+            "name": "Fesseln",
+            "source": "SHB S. 229"
         },
         "Etherealness": {
-            "name": ""
+            "name": "Ätherische Gestalten",
+            "source": "SHB S. 214"
         },
         "Expeditious Retreat": {
             "name": "Rascher Rückzug",
@@ -480,7 +502,8 @@
             "source": "SHB S. 255"
         },
         "Eyebite": {
-            "name": ""
+            "name": "Böser Blick",
+            "source": "SHB S. 218"
         },
         "Fabricate": {
             "name": "Verarbeitung",
@@ -493,124 +516,164 @@
             "source": "SHB S. 228"
         },
         "Faithful Hound": {
-            "name": ""
+            "name": "Treuer Hund",
+            "source": "SHB S. 253"
         },
         "False Life": {
-            "name": ""
+            "name": "Falsches Leben",
+            "source": "SHB S. 228"
         },
         "Fear": {
-            "name": ""
+            "name": "Furcht",
+            "source": "SHB S. 232"
         },
         "Feather Fall": {
-            "name": ""
+            "name": "Federfall",
+            "source": "SHB S. 228"
         },
         "Feeblemind": {
-            "name": ""
+            "name": "Schwachsinn",
+            "source": "SHB S. 263"
         },
         "Find Familiar": {
-            "name": ""
+            "name": "Vertrauten finden",
+            "source": "SHB S. 280"
         },
         "Find Steed": {
-            "name": ""
+            "name": "Reittier finden",
+            "source": "SHB S. 258"
         },
         "Find Traps": {
-            "name": ""
+            "name": "Fallen finden",
+            "source": "SHB S. 228"
         },
         "Find the Path": {
-            "name": ""
+            "name": "Weg finden",
+            "source": "SHB S. 284"
         },
         "Finger of Death": {
-            "name": ""
+            "name": "Finger des Todes",
+            "source": "SHB S. 230"
         },
         "Fire Bolt": {
-            "name": ""
+            "name": "Feuerpfeil",
+            "source": "SHB S. 229"
         },
         "Fire Shield": {
-            "name": ""
+            "name": "Feuerschild",
+            "source": "SHB S. 229"
         },
         "Fire Storm": {
-            "name": ""
+            "name": "Feuersturm",
+            "source": "SHB S. 229"
         },
         "Fireball": {
-            "name": ""
+            "name": "Feuerball",
+            "source": "SHB S. 229"
         },
         "Flame Blade": {
-            "name": ""
+            "name": "Flammenklinge",
+            "source": "SHB S. 231"
         },
         "Flame Strike": {
-            "name": ""
+            "name": "Flammenschlag",
+            "source": "SHB S. 231"
         },
         "Flaming Sphere": {
-            "name": ""
+            "name": "Flammenkugel",
+            "source": "SHB S. 231"
         },
         "Flesh to Stone": {
-            "name": ""
+            "name": "Fleisch zu Stein",
+            "source": "SHB S. 231"
         },
         "Floating Disk": {
-            "name": ""
+            "name": "Schwebende Scheibe",
+            "source": "SHB S. 272"
         },
         "Fly": {
-            "name": ""
+            "name": "Fliegen",
+            "source": "SHB S. 232"
         },
         "Fog Cloud": {
-            "name": ""
+            "name": "Nebelwolke",
+            "source": "SHB S. 253"
         },
         "Forbiddance": {
-            "name": ""
+            "name": "Zutritt verwehren",
+            "source": "SHB S. 289"
         },
         "Forcecage": {
-            "name": ""
+            "name": "Energiekäfig",
+            "source": "SHB S. 226"
         },
         "Foresight": {
-            "name": ""
+            "name": "Voraussicht",
+            "source": "SHB S. 282"
         },
         "Freedom of Movement": {
-            "name": ""
+            "name": "Bewegungsfreiheit",
+            "source": "SHB S. 217"
         },
         "Freezing Sphere": {
-            "name": ""
+            "name": "Frostsphäre",
+            "source": "SHB S. 254"
         },
         "Gaseous Form": {
-            "name": ""
+            "name": "Gasförmige Gestalt",
+            "source": "SHB S. 233"
         },
         "Gate": {
-            "name": ""
+            "name": "Tor",
+            "source": "SHB S. 275"
         },
         "Geas": {
-            "name": ""
+            "name": "Geas",
+            "source": "SHB S. 233"
         },
         "Gentle Repose": {
-            "name": ""
+            "name": "Sanfte Ruhe",
+            "source": "SHB S. 260"
         },
         "Giant Insect": {
-            "name": ""
+            "name": "Rieseninsekt",
+            "source": "SHB S. 258"
         },
         "Glibness": {
-            "name": ""
+            "name": "Redegewandheit",
+            "source": "SHB S. 257"
         },
         "Globe of Invulnerability": {
-            "name": ""
+            "name": "Kugel der Unverwundbarkeit",
+            "source": "SHB S. 245"
         },
         "Glyph of Warding": {
-            "name": ""
+            "name": "Glyphe des Schutzes",
+            "source": "SHB S. 236"
         },
         "Goodberry": {
-            "name": ""
+            "name": "Gute Beeren",
+            "source": "SHB S. 238"
         },
         "Grease": {
-            "name": ""
+            "name": "Schmieren",
+            "source": "SHB S. 261"
         },
         "Greater Invisibility": {
-            "name": ""
+            "name": "Mächtige Unsichtbarkeit",
+            "source": "SHB S. 247"
         },
         "Greater Restoration": {
-            "name": ""
+            "name": "Vollständige Genesung",
+            "source": "SHB S. 281"
         },
         "Guardian of Faith": {
-            "name": ""
+            "name": "Hüter des Glaubens",
+            "source": "SHB S. 241"
         },
         "Guards and Wards": {
-            "name": ""
+            "name": "Wächter und Hüter",
+            "source": "SHB S. 282"
         },
         "Guidance": {
             "name": "Göttliche Führung",
@@ -618,523 +681,696 @@
             "source": "SHB S. 236"
         },
         "Guiding Bolt": {
-            "name": ""
+            "name": "Lenkendes Geschoss",
+            "source": "SHB S. 246"
         },
         "Gust of Wind": {
-            "name": ""
+            "name": "Windstoss",
+            "source": "SHB S. 286"
         },
         "Hallow": {
-            "name": ""
+            "name": "Weihen",
+            "source": "SHB S. 285"
         },
         "Hallucinatory Terrain": {
-            "name": ""
+            "name": "Scheingelände",
+            "source": "SHB S. 260"
         },
         "Harm": {
-            "name": ""
+            "name": "Leid",
+            "source": "SHB S. 245"
         },
         "Haste": {
-            "name": ""
+            "name": "Hast",
+            "source": "SHB S. 239"
         },
         "Heal": {
-            "name": ""
+            "name": "Heilung",
+            "source": "SHB S. 239"
         },
         "Healing Word": {
-            "name": ""
+            "name": "Heilendes Wort",
+            "source": "SHB S. 239"
         },
         "Heat Metal": {
-            "name": ""
+            "name": "Metall erhitzen",
+            "source": "SHB S. 249"
         },
         "Hellish Rebuke": {
-            "name": ""
+            "name": "Höllischer Tadel",
+            "source": "SHB S. 240"
         },
         "Heroes' Feast": {
-            "name": ""
+            "name": "Heldenmahl",
+            "source": "SHB S. 240"
         },
         "Heroism": {
-            "name": ""
+            "name": "Heldenmut",
+            "source": "SHB S. 240"
         },
         "Hideous Laughter": {
-            "name": ""
+            "name": "Fürchterlicher Lachanfall",
+            "source": "SHB S. 271"
         },
         "Hold Monster": {
-            "name": ""
+            "name": "Monster festhalten",
+            "source": "SHB S. 251"
         },
         "Hold Person": {
-            "name": ""
+            "name": "Person festhalten",
+            "source": "SHB S. 255"
         },
         "Holy Aura": {
-            "name": ""
+            "name": "Heilige Aura",
+            "source": "SHB S. 239"
         },
         "Hunter's Mark": {
-            "name": ""
+            "name": "Zeichen des Jägers",
+            "source": "SHB S. 288"
         },
         "Hypnotic Pattern": {
-            "name": ""
+            "name": "Hypnotisches Muster",
+            "source": "SHB S. 241"
         },
         "Ice Storm": {
-            "name": ""
+            "name": "Eissturm",
+            "source": "SHB S. 225"
         },
         "Identify": {
-            "name": ""
+            "name": "Identifizieren",
+            "source": "SHB S. 241"
         },
         "Illusory Script": {
-            "name": ""
+            "name": "Illusionsschrift",
+            "source": "SHB S. 241"
         },
         "Imprisonment": {
-            "name": ""
+            "name": "Einkerkerung",
+            "source": "SHB S. 224"
         },
         "Incendiary Cloud": {
-            "name": ""
+            "name": "Flammende Wolke",
+            "source": "SHB S. 231"
         },
         "Inflict Wounds": {
-            "name": ""
+            "name": "Wunden verursachen",
+            "source": "SHB S. 287"
         },
         "Insect Plague": {
-            "name": ""
+            "name": "Insektenplage",
+            "source": "SHB S. 241"
         },
         "Instant Summons": {
-            "name": ""
+            "name": "Sofortige Herbeizauberung",
+            "source": "SHB S. 222"
         },
         "Invisibility": {
-            "name": ""
+            "name": "Unsichtbarkeit",
+            "source": "SHB S. 277"
         },
         "Irresistible Dance": {
-            "name": ""
+            "name": "Unwiderstehlicher Tanz",
+            "source": "SHB S. 254"
         },
         "Jump": {
-            "name": ""
+            "name": "Springen",
+            "source": "SHB S. 268"
         },
         "Knock": {
-            "name": ""
+            "name": "Klopfen",
+            "source": "SHB S. 243"
         },
         "Legend Lore": {
-            "name": ""
+            "name": "Sagenkunde",
+            "source": "SHB S. 260"
         },
         "Lesser Restoration": {
-            "name": ""
+            "name": "Schwache Genesung",
+            "source": "SHB S. 263"
         },
         "Levitate": {
-            "name": ""
+            "name": "Schweben",
+            "source": "SHB S. 263"
         },
         "Light": {
-            "name": ""
+            "name": "Licht",
+            "source": "SHB S. 246"
         },
         "Lightning Bolt": {
-            "name": ""
+            "name": "Blitz",
+            "source": "SHB S. 218"
         },
         "Locate Animals or Plants": {
-            "name": ""
+            "name": "Tier oder Pflanze aufspüren",
+            "source": "SHB S. 273"
         },
         "Locate Creature": {
-            "name": ""
+            "name": "Kreatur aufspüren",
+            "source": "SHB S. 244"
         },
         "Locate Object": {
-            "name": ""
+            "name": "Gegenstand aufspüren",
+            "source": "SHB S. 234"
         },
         "Longstrider": {
-            "name": ""
+            "name": "Lange Schritte",
+            "source": "SHB S. 245"
         },
         "Mage Armor": {
-            "name": ""
+            "name": "Magierrüstung",
+            "source": "SHB S. 248"
         },
         "Mage Hand": {
-            "name": ""
+            "name": "Magierhand",
+            "source": "SHB S. 247"
         },
         "Magic Circle": {
-            "name": ""
+            "name": "Schutzkreis",
+            "source": "SHB S. 262"
         },
         "Magic Jar": {
-            "name": ""
+            "name": "Magisches Gefäß",
+            "source": "SHB S. 248"
         },
         "Magic Missile": {
-            "name": ""
+            "name": "Magisches Geschoss",
+            "source": "SHB S. 248"
         },
         "Magic Mouth": {
-            "name": ""
+            "name": "Magischer Mund",
+            "source": "SHB S. 248"
         },
         "Magic Weapon": {
-            "name": ""
+            "name": "Magische Waffe",
+            "source": "SHB S. 248"
         },
         "Magnificent Mansion": {
-            "name": ""
+            "name": "Herrliches Herrenhaus",
+            "source": "SHB S. 251"
         },
         "Major Image": {
-            "name": ""
+            "name": "Mächtiges Trugbild",
+            "source": "SHB S. 247"
         },
         "Mass Cure Wounds": {
-            "name": ""
+            "name": "Massen-Wunden Heilen",
+            "source": "SHB S. 249"
         },
         "Mass Heal": {
-            "name": ""
+            "name": "Massen-Heilung",
+            "source": "SHB S. 249"
         },
         "Mass Healing Word": {
-            "name": ""
+            "name": "Massen-Heilendes Wort",
+            "source": "SHB S. 249"
         },
         "Mass Suggestion": {
-            "name": ""
+            "name": "Massen-Einflüsterung",
+            "source": "SHB S. 249"
         },
         "Maze": {
-            "name": ""
+            "name": "Irrgarten",
+            "source": "SHB S. 242"
         },
         "Meld into Stone": {
-            "name": ""
+            "name": "Mit Stein verschmelzen",
+            "source": "SHB S. 250"
         },
         "Mending": {
-            "name": ""
+            "name": "Ausbessern",
+            "source": "SHB S. 216"
         },
         "Message": {
-            "name": ""
+            "name": "Botschaft",
+            "source": "SHB S. 219"
         },
         "Meteor Swarm": {
-            "name": ""
+            "name": "Meteoritenschwarm",
+            "source": "SHB S. 250"
         },
         "Mind Blank": {
-            "name": ""
+            "name": "Gedankenleere",
+            "source": "SHB S. 234"
         },
         "Minor Illusion": {
-            "name": ""
+            "name": "Einfache Illusion",
+            "source": "SHB S. 223"
         },
         "Mirage Arcane": {
-            "name": ""
+            "name": "Arkane Spiegelung",
+            "source": "SHB S. 213"
         },
         "Mirror Image": {
-            "name": ""
+            "name": "Spiegelbilder",
+            "source": "SHB S. 266"
         },
         "Mislead": {
-            "name": ""
+            "name": "Ablenkung",
+            "source": "SHB S. 211"
         },
         "Misty Step": {
-            "name": ""
+            "name": "Nebelschritt",
+            "source": "SHB S. 253"
         },
         "Modify Memory": {
-            "name": ""
+            "name": "Erinnerung verändern",
+            "source": "SHB S. 227"
         },
         "Moonbeam": {
-            "name": ""
+            "name": "Mondstrahl",
+            "source": "SHB S. 251"
         },
         "Move Earth": {
-            "name": ""
+            "name": "Erde bewegen",
+            "source": "SHB S. 226"
         },
         "Nondetection": {
-            "name": ""
+            "name": "Unauffindbarkeit",
+            "source": "SHB S. 277"
         },
         "Pass without Trace": {
-            "name": ""
+            "name": "Spurloses gehen",
+            "source": "SHB S. 268"
         },
         "Passwall": {
-            "name": ""
+            "name": "Wände passieren",
+            "source": "SHB S. 283"
         },
         "Phantasmal Killer": {
-            "name": ""
+            "name": "Tödliches Phantom",
+            "source": "SHB S. 275"
         },
         "Phantom Steed": {
-            "name": ""
+            "name": "Geisterross",
+            "source": "SHB S. 235"
         },
         "Planar Ally": {
-            "name": ""
+            "name": "Verbündeter aus den Ebenen",
+            "source": "SHB S. 279"
         },
         "Planar Binding": {
-            "name": ""
+            "name": "Bindung der Ebenen",
+            "source": "SHB S. 217"
         },
         "Plane Shift": {
-            "name": ""
+            "name": "Ebenenwechsel",
+            "source": "SHB S. 223"
         },
         "Plant Growth": {
-            "name": ""
+            "name": "Pflanzenwachstum",
+            "source": "SHB S. 255"
         },
         "Poison Spray": {
-            "name": ""
+            "name": "Gift versprühen",
+            "source": "SHB S. 236"
         },
         "Polymorph": {
-            "name": ""
+            "name": "Verwandlung",
+            "source": "SHB S. 281"
         },
         "Power Word Kill": {
-            "name": ""
+            "name": "Wort der Macht: Tod",
+            "source": "SHB S. 287"
         },
         "Power Word Stun": {
-            "name": ""
+            "name": "Wort der Macht: Betäubung",
+            "source": "SHB S. 287"
         },
         "Prayer of Healing": {
-            "name": ""
+            "name": "Gebet der Heilung",
+            "source": "SHB S. 233"
         },
         "Prestidigitation": {
-            "name": ""
+            "name": "Taschenspielerei",
+            "source": "SHB S. 271"
         },
         "Prismatic Spray": {
-            "name": ""
+            "name": "Regenbogenspiel",
+            "source": "SHB S. 257"
         },
         "Prismatic Wall": {
-            "name": ""
+            "name": "Regenbogenwand",
+            "source": "SHB S. 257"
         },
         "Private Sanctum": {
-            "name": ""
+            "name": "Privates Heiligtum",
+            "source": "SHB S. 252"
         },
         "Produce Flame": {
-            "name": ""
+            "name": "Flammen erzeugen",
+            "source": "SHB S. 230"
         },
         "Programmed Illusion": {
-            "name": ""
+            "name": "Vorbestimmtes Trugbild",
+            "source": "SHB S. 282"
         },
         "Project Image": {
-            "name": ""
+            "name": "Trugbild projizieren",
+            "source": "SHB S. 276"
         },
         "Protection from Energy": {
-            "name": ""
+            "name": "Schutz vor Energie",
+            "source": "SHB S. 262"
         },
         "Protection from Evil and Good": {
-            "name": ""
+            "name": "Schutz vor Gut und Böse",
+            "source": "SHB S. 262"
         },
         "Protection from Poison": {
-            "name": ""
+            "name": "Schutz vor Gift",
+            "source": "SHB S. 262"
         },
         "Purify Food and Drink": {
-            "name": ""
+            "name": "Nahrung und Wasser reinigen",
+            "source": "SHB S. 253"
         },
         "Raise Dead": {
-            "name": ""
+            "name": "Tote erwecken",
+            "source": "SHB S. 276"
         },
         "Ray of Enfeeblement": {
-            "name": ""
+            "name": "Schwächestrahl",
+            "source": "SHB S. 263"
         },
         "Ray of Frost": {
-            "name": ""
+            "name": "Kältestrahl",
+            "source": "SHB S. 243"
         },
         "Regenerate": {
-            "name": ""
+            "name": "Regeneration",
+            "source": "SHB S. 257"
         },
         "Reincarnate": {
-            "name": ""
+            "name": "Wiedergeburt",
+            "source": "SHB S. 286"
         },
         "Remove Curse": {
-            "name": ""
+            "name": "Fluch brechen",
+            "source": "SHB S. 232"
         },
         "Resilient Sphere": {
-            "name": ""
+            "name": "Unverwüstliche Sphäre",
+            "source": "SHB S. 254"
         },
         "Resistance": {
-            "name": ""
+            "name": "Resistenz",
+            "source": "SHB S. 258"
         },
         "Resurrection": {
-            "name": ""
+            "name": "Auferstehung",
+            "source": "SHB S. 215"
         },
         "Reverse Gravity": {
-            "name": ""
+            "name": "Schwerkraft umkehren",
+            "source": "SHB S. 264"
         },
         "Revivify": {
-            "name": ""
+            "name": "Wiederbeleben",
+            "source": "SHB S. 286"
         },
         "Rope Trick": {
-            "name": ""
+            "name": "Seiltrick",
+            "source": "SHB S. 264"
         },
         "Sacred Flame": {
-            "name": ""
+            "name": "Heilige Flamme",
+            "source": "SHB S. 239"
         },
         "Sanctuary": {
-            "name": ""
+            "name": "Heiligtum",
+            "source": "SHB S. 239"
         },
         "Scorching Ray": {
-            "name": ""
+            "name": "Sengender Strahl",
+            "source": "SHB S. 264"
         },
         "Scrying": {
-            "name": ""
+            "name": "Ausspähung",
+            "source": "SHB S. 216"
         },
         "Secret Chest": {
-            "name": ""
+            "name": "Geheime Truhe",
+            "source": "SHB S. 246"
         },
         "See Invisibility": {
-            "name": ""
+            "name": "Unsichtbares Sehen",
+            "source": "SHB S. 277"
         },
         "Seeming": {
-            "name": ""
+            "name": "Äusserlichkeiten",
+            "source": "SHB S. 216"
         },
         "Sending": {
-            "name": ""
+            "name": "Verständigung",
+            "source": "SHB S. 280"
         },
         "Sequester": {
-            "name": ""
+            "name": "Verbergen",
+            "source": "SHB S. 278"
         },
         "Shapechange": {
-            "name": ""
+            "name": "Gestaltwandel",
+            "source": "SHB S. 235"
         },
         "Shatter": {
-            "name": ""
+            "name": "Zerbersten",
+            "source": "SHB S. 288"
         },
         "Shield": {
-            "name": ""
+            "name": "Schild",
+            "source": "SHB S. 260"
         },
         "Shield of Faith": {
-            "name": ""
+            "name": "Schild des Glaubens",
+            "source": "SHB S. 260"
         },
         "Shillelagh": {
-            "name": ""
+            "name": "Shillelagh",
+            "source": "SHB S. 265"
         },
         "Shocking Grasp": {
-            "name": ""
+            "name": "Schockgriff",
+            "source": "SHB S. 261"
         },
         "Silence": {
-            "name": ""
+            "name": "Stille",
+            "source": "SHB S. 269"
         },
         "Silent Image": {
-            "name": ""
+            "name": "Lautloses Trugbild",
+            "source": "SHB S. 245"
         },
         "Simulacrum": {
-            "name": ""
+            "name": "Simulakrum",
+            "source": "SHB S. 265"
         },
         "Sleep": {
-            "name": ""
+            "name": "Schlaf",
+            "source": "SHB S. 261"
         },
         "Sleet Storm": {
-            "name": ""
+            "name": "Schneesturm",
+            "source": "SHB S. 261"
         },
         "Slow": {
-            "name": ""
+            "name": "Verlangsamen",
+            "source": "SHB S. 279"
         },
         "Spare the Dying": {
-            "name": ""
+            "name": "Verschonung der Toten",
+            "source": "SHB S. 280"
         },
         "Speak with Animals": {
-            "name": ""
+            "name": "Mit Tieren sprechen",
+            "source": "SHB S. 250"
         },
         "Speak with Dead": {
-            "name": ""
+            "name": "Mit Toten sprechen",
+            "source": "SHB S. 250"
         },
         "Speak with Plants": {
-            "name": ""
+            "name": "Mit Pflanzen sprechen",
+            "source": "SHB S. 250"
         },
         "Spider Climb": {
-            "name": ""
+            "name": "Spinnenklettern",
+            "source": "SHB S. 266"
         },
         "Spike Growth": {
-            "name": ""
+            "name": "Dornenwuchs",
+            "source": "SHB S. 222"
         },
         "Spirit Guardians": {
-            "name": ""
+            "name": "Schutzgeister",
+            "source": "SHB S. 262"
         },
         "Spiritual Weapon": {
-            "name": ""
+            "name": "Waffe des Glaubens",
+            "source": "SHB S. 282"
         },
         "Stinking Cloud": {
-            "name": ""
+            "name": "Stinkende Wolke",
+            "source": "SHB S. 269"
         },
         "Stone Shape": {
-            "name": ""
+            "name": "Stein formen",
+            "source": "SHB S. 268"
         },
         "Stoneskin": {
-            "name": ""
+            "name": "Steinhaut",
+            "source": "SHB S. 268"
         },
         "Storm of Vengeance": {
-            "name": ""
+            "name": "Sturm der Vergeltung",
+            "source": "SHB S. 269"
         },
         "Suggestion": {
-            "name": ""
+            "name": "Einflüsterung",
+            "source": "SHB S. 224"
         },
         "Sunbeam": {
-            "name": ""
+            "name": "Sonnenstrahl",
+            "source": "SHB S. 266"
         },
         "Sunburst": {
-            "name": ""
+            "name": "Sonnenfeuer",
+            "source": "SHB S. 266"
         },
         "Symbol": {
-            "name": ""
+            "name": "Symbol",
+            "source": "SHB S. 270"
         },
         "Telekinesis": {
-            "name": ""
+            "name": "Telekinese",
+            "source": "SHB S. 271"
         },
         "Telepathic Bond": {
-            "name": ""
+            "name": "Telepathisches Band",
+            "source": "SHB S. 257"
         },
         "Teleport": {
-            "name": ""
+            "name": "Teleportieren",
+            "source": "SHB S. 271"
         },
         "Teleportation Circle": {
-            "name": ""
+            "name": "Kreis der Teleportation",
+            "source": "SHB S. 244"
         },
         "Thaumaturgy": {
-            "name": ""
+            "name": "Thaumaturgie",
+            "source": "SHB S. 272"
         },
         "Thunderwave": {
-            "name": ""
+            "name": "Donnerwoge",
+            "source": "SHB S. 221"
         },
         "Time Stop": {
-            "name": ""
+            "name": "Zeitstop",
+            "source": "SHB S. 288"
         },
         "Tiny Hut": {
-            "name": ""
+            "name": "Winzige Hütte",
+            "source": "SHB S. 246"
         },
         "Tongues": {
-            "name": ""
+            "name": "Zungen",
+            "source": "SHB S. 289"
         },
         "Transport via Plants": {
-            "name": ""
+            "name": "Pflanzentor",
+            "source": "SHB S. 255"
         },
         "Tree Stride": {
-            "name": ""
+            "name": "Hölzerner Weg",
+            "source": "SHB S. 241"
         },
         "True Polymorph": {
-            "name": ""
+            "name": "Wahre Verwandlung",
+            "source": "SHB S. 283"
         },
         "True Resurrection": {
-            "name": ""
+            "name": "Wahre Auferstehung",
+            "source": "SHB S. 283"
         },
         "True Seeing": {
-            "name": ""
+            "name": "Wahrer Blick",
+            "source": "SHB S. 283"
         },
         "True Strike": {
-            "name": ""
+            "name": "Zielsicherer Schlag",
+            "source": "SHB S. 289"
         },
         "Unseen Servant": {
-            "name": ""
+            "name": "Unsichtbarer Diener",
+            "source": "SHB S. 277"
         },
         "Vampiric Touch": {
-            "name": ""
+            "name": "Vampirgriff",
+            "source": "SHB S. 278"
         },
         "Vicious Mockery": {
-            "name": ""
+            "name": "Gehässiger Spott",
+            "source": "SHB S. 235"
         },
         "Wall of Fire": {
-            "name": ""
+            "name": "Feuerwand",
+            "source": "SHB S. 230"
         },
         "Wall of Force": {
-            "name": ""
+            "name": "Energiewand",
+            "source": "SHB S. 226"
         },
         "Wall of Ice": {
-            "name": ""
+            "name": "Eiswand",
+            "source": "225"
         },
         "Wall of Stone": {
-            "name": ""
+            "name": "Steinwand",
+            "source": "SHB S. 268"
         },
         "Wall of Thorns": {
-            "name": ""
+            "name": "Dornenwand",
+            "source": "SHB S. 222"
         },
         "Warding Bond": {
-            "name": ""
+            "name": "Schützendes Band",
+            "source": "SHB S. 262"
         },
         "Water Breathing": {
-            "name": ""
+            "name": "Wasser atmen",
+            "source": "SHB S. 284"
         },
         "Water Walk": {
-            "name": ""
+            "name": "Auf Wasser gehen",
+            "source": "SHB S. 215"
         },
         "Web": {
-            "name": ""
+            "name": "Spinnennetz",
+            "source": "SHB S. 266"
         },
         "Weird": {
-            "name": ""
+            "name": "Unheimliches Schicksal",
+            "source": "SHB S. 277"
         },
         "Wind Walk": {
-            "name": ""
+            "name": "Windwandeln",
+            "source": "SHB S. 287"
         },
         "Wind Wall": {
-            "name": ""
+            "name": "Windwall",
+            "source": "SHB S. 286"
         },
         "Wish": {
-            "name": ""
+            "name": "Wunsch",
+            "source": "SHB S. 287"
         },
         "Word of Recall": {
-            "name": ""
+            "name": "Rückruf",
+            "source": "SHB S. 259"
         },
         "Zone of Truth": {
-            "name": ""
+            "name": "Zone der Wahrheit",
+            "source": "SHB S. 289"
         }
     },
     "label": "Zauber (SRD)",
