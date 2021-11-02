@@ -76,24 +76,34 @@
             "source": "SHB S. 25"
         },
         "Hellish Resistance": {
-            "name": ""
+            "name": "Höllische Resistenz",
+            "description": "<p>Du besitzt eine Resistenz gegen Feuerschaden.</p>",
+            "source": "SHB S. 43"
         },
         "High Elf": {
-            "description": "",
+            "name": "Hochelfen",
+            "description": "<p><em>Als Hochelf verfügst du über, einen scharfen Verstand und hast zumindest die Grundlagen der Magie bereits gemeistert. In vielen fantastischen Spielwelten gibt es zwei Arten von Hochelfen. Die eine ist hochnäsig und einsiedlerisch. Sie sieht sich Nichtelfen gegenüber als überlegen - wenn nicht sogar auch anderen Elfen. Die zweite Art ist verbreiteter und offener. Man trifft sie oft unter Menschen und anderen Völkern an.</em></p>\n<p><em><strong>Attributswerterhöhung:</strong></em> Dein Intelligenzwert wird um 1 Punkt erhöht.</p>\n<p><em><strong>Elfischewaffenvertrautheit:</strong></em> Du bist geübt im Umgang mit Langschwertern, Kurzschwertern, Langbögen und Kurzbögen.</p>\n<p><em><strong>Zaubertrick:</strong></em>Du beherrschst einen Zaubertrick deiner Wahl aus der Zauberliste des Magiers. Das Attribut, mit dem du diesen wirkst, ist Intelligenz.</p>\n<p><em><strong>Zusätzliche Sprache:</strong></em>Du kannst dir eine weitere Sprache aussuchen, die du lesen, schreiben und sprechen kannst.</p>",
             "source": "SHB S. 20"
         },
         "Hill Dwarf": {
-            "name": ""
+            "name": "Hügelzwerge",
+            "description": "<p><em>Als Hügelzwerg besitzt du scharfe Sinne, eine starke Intuition und eine bemerkenswerte Widerstandsfähigkeit.</em></p>\n<p><em><strong>Attributswerterhöhung: </strong></em> Dein Weisheitswert wird um 1 Punkt erhöht.</p>\n<p><em><strong>Zwergische Zähigkeit: </strong></em> Dein Trefferpunktemaximum erhöht sich um 1 Punkt und um 1 weiteren Punkt jedes Mal, wenn du eine Stufe aufsteigst.</p>",
+            "source": "SHB S. 31"
         },
         "Human": {
-            "description": "",
+            "name": "Menschen",
+            "description": "<p><em>Obwohl es schwierig ist, die Kulturen der Menschen zu verallgemeinern, besitzt dein menschlicher Charakter folgende  Merkmale.</em></p>\n<p><em><strong>Attributswerterhöhung:</strong></em> Jeder einzelne Attributswert wird um 1 Punkt erhöht.</p>\n<p><em><strong>Alter:</strong></em> Menschen erreichen das Erwachsenenalter mit 16 bis 20 Jahren und leben weniger als ein Jahrhundert.</p>\n<p><em><strong>Gesinnung: </strong></em>Menschen neigen nicht zu einer bestimmten Gesinnung. Man findet die Besten und die Schlimmsten unter ihnen.</p>\n<p><em><strong>Größe:</strong></em>Körperbau und Wuchs der Menschen schwanken stark, sie werden von kaum 150 cm bis weit über 180 cm groß. Unabhängig davon, wo du in dieser Spanne angesiedelt bist, ist deine Größenkategorie mittelgroß.</p>\n<p><em><strong>Bewegungsrate:</strong></em> Deine Grundbewegungsrate beträgt 9 m.</p>\n<p><em><strong>Sprachen: </strong></em>Du kannst sowohl die Gemeinsprache als auch eine andere Sprache deiner Wahl lesen, schreiben und sprechen. Typischerweise lernen Menschen die Sprache der Leute, mit denen sie am meisten zu tun haben, sogar undeutliche Dialekte. Sie streuen beim Reden gern Worte aus anderen Sprachen ein, zum Beispiel orkische Flüche, elfische Ausdrücke für Musik, zwergische Militarbegriffe und dergleichen.</p>",
             "source": "SHB S. 26"
         },
         "Infernal Legacy": {
-            "name": ""
+            "name": "Infernalisches Erbe",
+            "description": "<p>Du beherrscht den Zaubertrick @Compendium[dnd5e.spells.MUO1uYN7JR1hm4dR]. Ab der 3. Stufe kannst du dank dieses Merkmals den Spruch @Compendium[dnd5e.spells.22dPoeXfaaAv4K3h] des 2. Grades einmal wirken. Du musst eine lange Rast beenden, bevor du dies erneut kannst. Mit Erreichen der 5. Stufe bist du in der Lage, den Zauber @Compendium[dnd5e.spells.S7VbUetIfVT7B6Eq] auf die gleiche Weise einmal täglich einzusetzen. Das Attribut, mit dem du diese Zauber wirkst, ist Charisma.</p>",
+            "source": "SHB S. 43"
         },
         "Lightfoot Halfling": {
-            "name": ""
+            "name": "Leichtfuß-Halblinge",
+            "description": "<p><em>Als Leichtfuß-Halbling kannst du dich mühelos verstecken und sogar andere Leute als Deckung verwenden. Du neigst dazu, umgänglich zu sein, und kommst gut mit anderen aus.</em></p>\n<p><em> Im Vergleich zu den übrigen Halblingen sind sie besonders anfällig für die Wanderlust. Daher tummeln sie sich oft bei anderen Völkern oder pflegen einen nomadischen Lebensstil.</em></p>\n<p><em><strong>Attributswerterhöhung:</strong></em> Dein Charismawert wird um 1 Punkt erhöht.</p>\n<p><strong><em>Angeborene Verstohlenheit: </em></strong> @Compendium[dnd5e.races.GWPjKFeIthBBeCFJ] Du kannst sogar versuchen, dich zu verstecken, wenn du nur von einer Kreatur verschleiert wirst, die lediglich eine Größenkategorie größer ist als du selbst.</p>",
+            "source": "SHB S. 25"
         },
         "Lucky": {
             "name": "Halblingsglück",
@@ -101,7 +111,9 @@
             "source": "SHB S. 25"
         },
         "Naturally Stealthy": {
-            "name": ""
+            "name": "Angeborene Verstohlenheit",
+            "description": "<p>Du kannst sogar versuchen, dich zu verstecken, wenn du nur von einer Kreatur verschleiert wirst, die lediglich eine Größenkategorie größer ist als du selbst.</p>",
+            "source": "SHB S. 25"
         },
         "Relentless Endurance": {
             "name": "Durchhaltevermögen",
@@ -124,7 +136,8 @@
             "source": "SHB S. 31"
         },
         "Tiefling": {
-            "description": "",
+            "name": "Tieflinge",
+            "description": "<p><em>Als Folge ihrer infernalischen Abstammung teilen sich alle Tieflinge bestimmte Volksmerkmale. </em></p>\n<p><em><strong>Attributswerterhöhung: </strong></em> Dein Intelligenzwert wird um 1 Punkt erhöht, dein Charismawert um 2 Punkte.</p>\n<p><em><strong>Alter: </strong></em>  Tieflinge werden genauso schnell erwachsen wie Menschen, leben jedoch einige wenige Jahre länger.</p>\n<p><em><strong>Gesinnung: </strong></em> Tieflinge besitzen zwar keine angeborene Tendenz zum Bösen, doch viele von ihnen enden bei einer solchen Lebensanschauung. Böse oder nicht, ihre unabhängige Natur lässt sie oft eine chaotische Gesinnung annehmen. </p>\n<p><em><strong>Größe: </strong></em>  Tiefiinge sind etwa so groß wie Menschen und ähnlich gebaut. Deine Größenkategorie ist mittelgroß.</p>\n<p><em><strong>Bewegungsrate: </strong></em>Deine Grundbewegungsrate beträgt 9 m.</p>\n<p><em><strong>Dunkelsicht: </strong></em> Dank deines infernalischen Erbes besitzt du eine überlegene Sicht in dunklen und dämmrigen Lichtverhältnissen. Behandle im Umkreis von 18 m dämmriges Licht wie helles Licht und Dunkelheit wie dämmriges Licht. Allerdings kannst du im Dunkeln keine Farben erkennen, nur Graustufen. </p>\n<p><em><strong>Höllische Resistenz: </strong></em>@Compendium[dnd5e.races.q71Pe1F8RRtEJt8Q] Du besitzt eine Resistenz gegen Feuerschaden.</p>\n<p><em><strong>Infernalisches Erbe: </strong></em> @Compendium[dnd5e.races.wJc88B8OP1y1xzMw] Du beherrscht den Zaubertrick @Compendium[dnd5e.spells.MUO1uYN7JR1hm4dR]. Ab der 3. Stufe kannst du dank dieses Merkmals den Spruch @Compendium[dnd5e.spells.22dPoeXfaaAv4K3h] des 2. Grades einmal wirken. Du musst eine lange Rast beenden, bevor du dies erneut kannst. Mit Erreichen der 5. Stufe bist du in der Lage, den Zauber @Compendium[dnd5e.spells.S7VbUetIfVT7B6Eq] auf die gleiche Weise einmal täglich einzusetzen. Das Attribut, mit dem du diese Zauber wirkst, ist Charisma.</p>\n<p><em><strong>Sprachen: </strong></em> Du kannst Infernalisch und die Gemeinsprache lesen, schreiben und sprechen. </p>",
             "source": "SHB S. 42"
         },
         "Tinker": {
@@ -135,10 +148,7 @@
     },
     "label": "Völker (SRD)",
     "mapping": {
-        "name": {
-            "converter": "race",
-            "path": "name"
-        },
         "source": "data.source"
     }
 }
+
