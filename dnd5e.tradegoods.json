@@ -1,8 +1,8 @@
 {
     "entries": {
         "Canvas": {
-            "description": "<p>Ein Quadratmeter Segeltuch von durchschnittlicher Qualität und durchschnittlichem Gewicht. Wird für alle Artikel und Kleidungsstücke verwendet.</p>\n<p>Je niedriger die Zahl, desto besser die Qualität und desto schwerer das Gewicht. Das Segeltuch Nr. 1 wiegt etwa 1,7 Pfund pro Quadratmeter, während das schwächere, leichtere Segeltuch Nr. 12 nur 0,7 Pfund wiegen kann.</p>",
             "name": "Segeltuch",
+            "description": "<p>Ein Quadratmeter Segeltuch von durchschnittlicher Qualität und durchschnittlichem Gewicht. Wird für alle Artikel und Kleidungsstücke verwendet.</p>\n<p>Je niedriger die Zahl, desto besser die Qualität und desto schwerer das Gewicht. Das Segeltuch Nr. 1 wiegt etwa 1,7 Pfund pro Quadratmeter, während das schwächere, leichtere Segeltuch Nr. 12 nur 0,7 Pfund wiegen kann.</p>",
             "source": "SHB S. 157"
         },
         "Chicken": {

@@ -41,6 +41,7 @@
         },
         "Aura of Devotion": {
             "name": "Aura der Hingabe",
+            "description": "<p>Beginnend mit Stufe 7 können du und verbündete Kreaturen innerhalb von 3 m nicht mehr bezaubert werden, solange du bei Bewusstsein bist. <br />Auf der 18. Stufe erhöht sich der Radius de Aura auf 9 m.</p>",
             "source": "SHB S. 102"
         },
         "Aura of Protection": {
