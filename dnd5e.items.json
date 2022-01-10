@@ -1,7 +1,7 @@
 {
     "entries": {
         "Abacus": {
-            "name": "Abakus",
+            "name": "Abakus ",
             "description": "<p>Der Abakus, auch Zählrahmen genannt, ist ein Rechenwerkzeug.</p>",
             "source": "SHB S. 150"
         },
@@ -180,10 +180,14 @@
             "name": ""
         },
         "Basic Poison": {
-            "name": ""
+            "name": "Gift, einfach",
+            "description": "<p>Du kannst das Gift in diesem Gefäß verwenden, um als Aktion eine Hieb- oder Stichwaffe oder 3 Geschosse zu vergiften. Eine Kreatur, die von einer vergifteten Waffe oder einem vergifteten Geschoss getroffen wird, muss einen Konstitutionsrettungswurf gegen SG 10 ablegen oder nimmt 1W4 Giftschaden. Ist das Gift erst einmal aufgetragen, behält es seine Wirksamkeit für 1 Minute, bevor es eintrocknet.</p>",
+            "source": "SHB S. 151"
         },
         "Basket": {
-            "name": ""
+            "name": "Korb",
+            "description": "<p>60 Liter Fassungsvermögen/30 Pfd. Ausrüstung</p>",
+            "source": "SHB S. 153"
         },
         "Battleaxe": {
             "name": ""
@@ -1098,7 +1102,9 @@
             "name": ""
         },
         "Iron Pot": {
-            "name": ""
+            "name": "Topf, Eisen-",
+            "description": "<p>Ein Eisentopf fasst 4 Liter Flüssigkeit.</p>",
+            "source": "SHB S. 153"
         },
         "Iron Spike": {
             "name": ""

@@ -1,7 +1,8 @@
 {
     "entries": {
         "Ability Score Improvement": {
-            "name": "Attributswerterhöhung"
+            "name": "Attributswerterhöhung",
+            "description": "<p>Beim Erreichen der 4. Stufe und dann wieder auf der 8., 12., 16. und 19. Stufe kannst du einen Attributswert deiner Wahl um 2 Punkte erhöhen. Du kannst stattdessen auch zwei Attributswerte um jeweils 1 Punkt erhöhen. Kein Attribut darf auf diese Weise über einen Wert von 20 steigen.</p>"
         },
         "Ability Score Improvement (Fighter)": {
             "name": "Attributswerterhöhung (Kämpfer)",
@@ -37,6 +38,7 @@
         },
         "Aura of Courage": {
             "name": "Aura der Tapferkeit",
+            "description": "<p>Beginnend ab der 10. Stufe können du und verbündete Kreaturen innerhalb von 3 m nicht verängstigt werden, solange du bei Bewusstsein bist.<br /><br />Auf der 18. Stufe erhöht sich der Radius der Aura auf 9 m.</p>",
             "source": "SHB S. 100"
         },
         "Aura of Devotion": {
@@ -46,6 +48,7 @@
         },
         "Aura of Protection": {
             "name": "Aura des Schutzes",
+            "description": "<p>Immer wenn nach dem Erreichen der 6. Stufe du oder eine verbündete Kreatur innerhalb von 3 m einen Rettungswurf ablegen müssen, erhält die entsprechende Kreatur einen Bonus in Höhe deines Charismamodifikators (mindestens +1). Du musst bei Bewusstsein sein, damit dieser Bonus gewährt wird.<br /><br />Auf der 18. Stufe erhöht sich der Radius der Aura auf 9 m.</p>",
             "source": "SHB S. 100"
         },
         "Bard College": {
@@ -115,6 +118,7 @@
         },
         "Cleansing Touch": {
             "name": "Reinigende Berührung",
+            "description": "<p>Mit Erreichen von Stufe 14 kannst du deine Aktion verwenden, um durch Berührung einen Zauber zu beenden, der auf dich oder eine Kreatur wirkt, die deine Berührung bereitwillig zulässt.<br /><br />Du kannst diese Fähigkeit so oft einsetzen, wie es der Höhe deines Charismamodifikators entspricht (mindestens 1 Mal). Nach einer langen Rast stehen dir alle verbrauchten Anwendungen wieder zur Verfügung.</p>\n<p><em>**Foundry note: Beachte, dass die Nutzungsanzahl auf dem Standardwert 1 pro langer Rast gesetzt ist. Passe sie bei Bedarf an.<br /></em></p>",
             "source": "SHB S. 100"
         },
         "Countercharm": {
@@ -175,6 +179,7 @@
         },
         "Divine Health": {
             "name": "Göttliche Gesundheit",
+            "description": "<p>Mit der 3. Stufe wirst du aufgrund der göttlichen Magie, die dich durchfließt, immun gegen Krankheiten.</p>",
             "source": "SHB S. 100"
         },
         "Divine Intervention": {
@@ -183,10 +188,12 @@
         },
         "Divine Sense": {
             "name": "Göttliches Gespür",
+            "description": "<p>Deine Sinne nehmen die Gegenwart von starkem Bösen wie den Geruch der Verderbnis wahr, wohingegen das machtvolle Gute wie himmlische Musik in deinen Ohren klingt. Als Aktion kannst du deine Aufmerksamkeit auf die Suche nach solchen Kräften richten. Bis zum Ende deines nächsten Zuges ist dir innerhalb von 18 m der Standort jeglicher himmlischen und untoten Kreatur sowie jedes Unholds bekannt, außer eine Kreatur befindet sich in voller Deckung. Dir ist die Art dieser Wesen bewusst (himmlisch, untot, Unhold), doch ihre Identität (etwa der Vampir Graf Strahd von Zarovich) bleibt dir verborgen. Innerhalb desselben Radius spürst du auch die Präsenz jedes Ortes oder Gegenstandes, der geweiht beziehungsweise entweiht wurde (wie etwa durch den Zauber @Compendium[dnd5e.spells.SLxA9QhrggTz0taU]{Weihen}).<br /><br />Diese Fähigkeit kannst du so oft nutzen, wie es deinem Charismamodifikator + 1 entspricht. Beendest du eine lange Rast, stehen dir alle verbrauchten Anwendungen wieder zur Verfügung.</p>\n<p>**<em>Foundry note: Beachte, dass die Nutzungsanzahl auf den Standardwert von 1 pro langer Rast eingestellt ist. Passe sie bei Bedarf manuell an.</em></p>",
             "source": "SHB S. 99"
         },
         "Divine Smite": {
             "name": "Göttliches Niederstrecken",
+            "description": "<p>Wenn du ab der 2. Stufe eine Kreatur mit einem Nahkampf-Waffenangriff triffst, kannst du einen Zauberplatz aufgeben, um dem Ziel (zusätzlich zu dem Waffenschaden) gleißenden Schaden zuzufügen. Der zusätzliche Schaden beträgt 2W8+1W8 für jeden Grad des Zauberplatzes über den 1. hinaus, bis zu einem Maximum von 5W8. Der Schaden erhöht sich nochmals um 1W8 bis zu einem Maximum von 6W8, wenn es sich bei dem Ziel um einen Unhold oder einen Untoten handelt.</p>\n<p><em>**Foundry note: Beachte, dass die Nutzungsanzahl auf den Standardwert 1 pro kurze oder lange Rast eingestellt ist. Passe ihn nach Bedarf an.<br /></em></p>",
             "source": "SHB S. 100"
         },
         "Divine Strike": {
@@ -258,7 +265,8 @@
             "source": "SHB S. 106"
         },
         "Extra Attack": {
-            "name": "Zusätzlicher Angriff"
+            "name": "Zusätzlicher Angriff",
+            "description": "<p>Du kannst zweimal anstatt einmal angreifen, wenn du eine Angriffsaktion in deinem Zug ausführst.</p>"
         },
         "Extra Attack (Fighter)": {
             "name": "Zusätzlicher Angriff (Kämpfer)",
@@ -298,18 +306,22 @@
         },
         "Fighting Style: Defense": {
             "name": "Kampfstil: Verteidigung",
+            "description": "<p>Solange du eine Rüstung trāgst, erhältst du einen Bonus von +1 auf deine Rüstungsklasse (RK).</p>",
             "source": "SHB S. 71"
         },
         "Fighting Style: Dueling": {
             "name": "Kampfstil: Duellieren",
+            "description": "<p>Kämpfst du nur mit einer einhändig geführten Nahkampfwaffe und keiner Waffe in der anderen Hand, erhältst du einen Bonus von +2 auf die Schadenswürfe mit dieser Waffe.</p>",
             "source": "SHB S. 71"
         },
         "Fighting Style: Great Weapon Fighting": {
             "name": "Kampfstil: Kampf mit grossen Waffen",
+            "description": "<p>Greifst du mit einer beidhändig geführten Nahkampfwaffe an und würfelst bei deinem Schadenswurf eine 1 oder 2. darfst du den entsprechenden Schadenswürfel erneut würfeln. Das zweite Ergebnis musst du verwenden, auch wenn es wieder eine 1 oder 2 sein sollte. Die Waffe muss die Waffeneigenschaft zweihändig oder vielseitig besitzen, um diesen Vorzug zu gewähren.</p>",
             "source": "SHB S. 71"
         },
         "Fighting Style: Protection": {
             "name": "Kampfstil: Leibwache",
+            "description": "<p>Führt eine Kreatur, die du sehen kannst, einen Angriff auf eine bis zu 1,50 m von dir entfernt stehende Kreatur aus (die nicht du selbst bist), kannst du deine Reaktion verwenden, damit der Angreifer bei seinem Wurf im Nachteil ist. Du musst dafür einen Schild tragen.</p>",
             "source": "SHB S. 71"
         },
         "Fighting Style: Two Weapon Fighting": {
@@ -370,6 +382,7 @@
         },
         "Improved Divine Smite": {
             "name": "Verbessertes Göttliches Niederstrecken",
+            "description": "<p>Ab Stufe 11 bist du derart von rechtschaffener Macht durchdrungen, dass alle deine Nahkampf-Waffenangriffe göttliche Kraft in sich bergen.</p>\n<p>Jedes Mal, wenn du eine Kreatur mit einer Nahkampfwaffe triffst, erleidet sie zusätzlich 1W8 gleißenden Schaden.</p>",
             "source": "SHB S. 100"
         },
         "Indomitable": {
@@ -559,6 +572,7 @@
         },
         "Lay on Hands": {
             "name": "Handauflegen",
+            "description": "<p>Deine gesegnete Berührung kann Wunden heilen. Du besitzt einen Vorrat an Heilkraft, der sich wieder auffüllt, sobald du eine lange Rast abgeschlossen hast. Dieser Vorrat reicht aus, um eine Trefferpunktanzahl in Höhe deiner 5-fachen Stufe als Paladin wiederherzustellen.<br /><br />Als Aktion kannst du eine Kreatur berühren und bei ihr eine Anzahl Trefferpunkte wiederherstellen, die deine aktuell im Vorrat befindlichen Punkte nicht übersteigen darf.<br /><br />Alternativ kannst du 5 Punkte aus deinem Vorrat aufwenden, um die Kreatur von einer Krankheit zu heilen oder ein Gift zu neutralisieren, das auf sie einwirkt. Du kannst mehrere Gifte und Krankheiten mit einer Anwendung von Handauflegen unschädlich machen, musst aber jeweils einzeln die entsprechenden Punkte ausgeben.<br /><br />Diese Fähigkeit wirkt nicht bei Konstrukten oder Untoten.</p>\n<p><em>**Foundry note: Beachte, dass die Anzahl der heilbaren Trefferpunkte auf den Standardwert von 5 pro langer Rast eingestellt ist. Passe sie bei Bedarf manuell an.</em></p>",
             "source": "SHB S. 99"
         },
         "Magical Secrets": {
@@ -762,6 +776,7 @@
         },
         "Sacred Oath": {
             "name": "Heiliger Schwur",
+            "description": "<p>Wenn du die 3. Stufe erreicht hast, leistest du einen heiligen Schwur, der dich als Paladin auf ewig bindet. Bis zu diesem Zeitpunkt befandest du dich in einer Vorbereitungsphase, in der du dich zwar dem Weg der Gerechtigkeit gewidmet hast, doch noch nicht auf diesen eingeschworen warst. Jetzt entscheidest du dich zwischen dem Schwur der Hingabe, dem Schwur der Alten oder dem Schwur der Rache, die alle ausführlich am Ende dieses Abschnitts beschrieben sind.<br /><br />Deine Wahl verleiht dir auf den Stufen 3, 7, 15 und 20 jeweils ein Merkmal. Diese Merkmale umfassen sowohl Schwurzauber als auch die Fähigkeit, Göttliche Macht zu fokussieren.</p>\n<h3>Schwurzauber</h3>\n<p>Zu jedem Schwur gehört eine Liste von Zaubern, die mit ihm in Verbindung stehen. Du erlangst Zugang zu diesen Sprüchen, wenn du die entsprechenden Stufen als Paladin erreichst. Schwurzauber, die dir zur Verfügung stehen, gelten immer als vorbereitet und zählen nicht in Bezug auf deine maximale Anzahl vorbereiter Zauber.<br /><br />Solltest du einen Schwurzauber lernen, der nicht in der Zauberliste des Paladins aufgeführt ist, gilt er für dich trotzdem als Paladinzauber.</p>\n<h3>Göttliche Macht fokussieren</h3>\n<p>@Compendium[dnd5e.classfeatures.8M7uOPhbTxoxxJSo]{Göttliche Macht fokussieren}</p>",
             "source": "SHB S. 100"
         },
         "Sculpt Spells": {
@@ -824,6 +839,7 @@
         },
         "Spellcasting (Paladin)": {
             "name": "Zauberwirken (Paladin)",
+            "description": "<p>Mit Erreichen von Stufe 2 lernst du, durch Meditation und Gebete von der göttlichen Magie zu zehren, um wie ein Kleriker Zauber zu wirken. Für allgemeine Informationen zum Wirken von Zaubern siehe Kapitel 10.Zauber wirken\" und für die Zauberliste des Paladins Kapitel 11 „Zauber\".</p>\n<h3>Vorbereiten und Wirken von Zaubern</h3>\n<p>Du musst Zaubersprüche vorbereiten, um sie wirken zu können. Wähle dazu eine Anzahl von Paladinzaubern, die deiner halben Stufe als Paladin + deinem Charismamodifikator entspricht (mindestens 1), und notiere sie in einer Liste. Du kannst nur Sprüche aussuchen, für deren Grad du auch Zauberplätze besitzt.<br /><br />Bist du zum Beispiel ein Paladin der 5. Stufe, verfügst du über vier Zauberplätze des 1. Grades und zwei des 2. Grades. Bei einem Charismawert von 14 kann deine Liste vorbereiteter Zauber vier beliebige Sprüche (halbierte Stufe 2 + Modifikator 2) des 1. oder 2. Grades umfassen,<br /><br />Die Aufstiegstabelle des Paladins gibt an, wie viele Zauberplätze pro Grad dir auf jeder Stufe zur Verfügung stehen. Um einen Spruch aus deiner Liste vorbereiteter Zauber zu wirken, musst du einen Zauberplatz des gleichen oder eines höheren Grades verbrauchen. Alle verbrauchten Zauberplätze stehen dir nach einer langen Rast wieder zur Verfügung. Hast du beispielsweise den Zauber Wunden heilen des 1. Grades vorbereitet, kannst du sowohl einen Zauberplatz des 1. Grades als auch einen des 2. Grades verwenden, um Wunden heilen zu wirken.<br /><br />Einen Spruch zu wirken, entfernt ihn nicht von deiner Liste der vorbereiteten Zauber. Diese kannst du nach jeder langen Rast ändern. Eine neue Liste vorzubereiten, erfordert mindestens 1 Minute im Gebet oder in Meditation je Zaubergrad pro Spruch.</p>\n<table border=\"0\" cellspacing=\"0\">\n<thead>\n<tr>\n<td rowspan=\"2\">Stufe</td>\n<td colspan=\"5\">Zauberplätze pro Grad</td>\n</tr>\n<tr>\n<td>1.</td>\n<td>2.</td>\n<td>3.</td>\n<td>4.</td>\n<td>5.</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>2</td>\n<td>2</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>3</td>\n<td>3</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>4</td>\n<td>3</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>5</td>\n<td>4</td>\n<td>2</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>6</td>\n<td>4</td>\n<td>2</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>7</td>\n<td>4</td>\n<td>3</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>8</td>\n<td>4</td>\n<td>3</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>9</td>\n<td>4</td>\n<td>3</td>\n<td>2</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>10</td>\n<td>4</td>\n<td>3</td>\n<td>2</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>11</td>\n<td>4</td>\n<td>3</td>\n<td>3</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>12</td>\n<td>4</td>\n<td>3</td>\n<td>3</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>13</td>\n<td>4</td>\n<td>3</td>\n<td>3</td>\n<td>1</td>\n<td>-</td>\n</tr>\n<tr>\n<td>14</td>\n<td>4</td>\n<td>3</td>\n<td>3</td>\n<td>1</td>\n<td>-</td>\n</tr>\n<tr>\n<td>15</td>\n<td>4</td>\n<td>3</td>\n<td>3</td>\n<td>2</td>\n<td>-</td>\n</tr>\n<tr>\n<td>16</td>\n<td>4</td>\n<td>3</td>\n<td>3</td>\n<td>2</td>\n<td>-</td>\n</tr>\n<tr>\n<td>17</td>\n<td>4</td>\n<td>3</td>\n<td>3</td>\n<td>3</td>\n<td>1</td>\n</tr>\n<tr>\n<td>18</td>\n<td>4</td>\n<td>3</td>\n<td>3</td>\n<td>3</td>\n<td>1</td>\n</tr>\n<tr>\n<td>19</td>\n<td>4</td>\n<td>3</td>\n<td>3</td>\n<td>3</td>\n<td>2</td>\n</tr>\n<tr>\n<td>20</td>\n<td>4</td>\n<td>3</td>\n<td>3</td>\n<td>3</td>\n<td>2</td>\n</tr>\n</tbody>\n</table>\n<h3>Attribut zum Zauberwirken</h3>\n<p style=\"text-align: left;\">Das Attribut, mit dem du deine Paladinzauber wirkst, ist Charisma, da du deine Magie aus der Hingabe zu deiner gerechten Sache schöpfst.<br /><br />Immer wenn sich ein Zauber auf das zum Zauberwirken nötige Attribut bezieht, verwendest du Charisma. Wird der Schwierigkeitsgrad für einen Rettungswurf gegen deine Paladinzauber bestimmt, ziehst du deinen Charismamodifikator hinzu. Bei Angriffen mit deinen Paladinzaubern findet ebenfalls der Charismamodifikator Anwendung.</p>\n<p style=\"text-align: center;\"><strong>SG für Rettungswürfe</strong> = 8 + dein Übungsbonus + dein Charismamodifikator</p>\n<p style=\"text-align: center;\"><strong>Modifikator für Zauberangriffe</strong> = dein Übungsbonus + dein Charismamodifikator</p>\n<h3 style=\"text-align: left;\">Zauberfokus</h3>\n<p style=\"text-align: left;\">Du kannst ein heiliges Symbol (siehe Kapitel 5 , Ausrüstung\") als Zauberfokus für deine Paladinzauber verwenden.</p>\n<p style=\"text-align: left;\"> </p>",
             "source": "SHB S. 99"
         },
         "Spellcasting (Ranger)": {
