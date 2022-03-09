@@ -1,7 +1,7 @@
 {
     "entries": {
         "Acid Arrow": {
-            "name": "Säurepfeil ",
+            "name": "Säurepfeil",
             "description": "<p>Ein schimmernder grüner Pfeil schießt auf ein Ziel in Reichweite zu und explodiert in einem Sprühregen aus Säure. Führe eine Fernkampf-Zauberangriff gegen das Ziel aus. Bei einem Treffer erleidet es sofort 4W4 Säureschaden und 2W4 Säureschaden am Ende seines nächsten Zuges. Verfehlst du, spritzt genug Säure auf das Ziel, um die Hälfte des anfänglichen Schadens zu verursachen, ohne jedoch Schaden am Ende des nächsten Zuges zuzufügen.</p>\n<p><strong>Auf höheren Graden:</strong> Wenn du diesen Zauber mit einem Zauberplatz des 3. oder höheren Grades wirkst, steigt der Schaden (sowohl der anfängliche als auch der spätere) für jeden Grad über den 2. hinaus um 1W4.</p>",
             "material": "ein zerstoßenes Rhabarberblatt und der Magen der Natter",
             "source": "SHB. S. 249"
@@ -570,7 +570,7 @@
             "source": "SHB S. 228"
         },
         "Faithful Hound": {
-            "name": "Mordenkainens treuer Hund",
+            "name": "Treuer Hund",
             "description": "<p>Du beschwörst einen geisterhaften Wachhund in einem nicht besetzten Bereich, der sich in Reichweite befindet und den du sehen kannst. Der Wachhund bleibt bestehen, bis du eine Aktion verwendest, um ihn fortzuschicken, oder du dich mehr als 30 m von ihm entfernst.<br /><br />Der Hund ist unsichtbar für alle Kreaturen mit Ausnahme von dir selbst und kann keinen Schaden erleiden. Wenn sich eine Kreatur der Größenkategorie klein oder größer dem Hund auf 9 m nähert, ohne das Passwort auszusprechen, das du beim Wirken des Zaubers festgelegt hast, beginnt der Hund laut zu bellen. Er sieht unsichtbare Kreaturen, kann auf die Ätherebene blicken und ignoriert Illusionen.<br /><br />Zu Beginn eines jeden deiner Züge versucht der Hund, eine Kreatur im Umkreis von 1,50 m um sich zu beißen, die dir feindlich gesonnen ist. Der Angriffsbonus des Hundes entspricht dem Modifikator deines zum Zaubern relevanten Attributs + deinem Übungsbonus. Bei einem Treffer verursacht er 4W8 Stichschaden.</p>",
             "material": "eine winzige Silberpfeife, ein Stück Knochen und ein Faden",
             "source": "SHB S. 252"
@@ -714,7 +714,7 @@
             "source": "SHB S. 217"
         },
         "Freezing Sphere": {
-            "name": "Otilukes Frostsphäre",
+            "name": "Frostsphäre",
             "description": "<p>Eine frostklirrende Kugel aus Kälte schießt aus deinen Fingerspitzen zu einem Punkt deiner Wahl in Reichweite, wo sie als Sphäre mit einem Radius von 18 m explodiert. Jede Kreatur in diesem Bereich muss einen Konstitutionsrettungswurf ablegen. Bei einem Misserfolg erleidet eine Kreatur 10W6 Kälteschaden oder halb so viel Schaden bei einem erfolgreichen Rettungswurf.<br /><br />Wenn die Kugel eine Fläche aus Wasser oder einer Flüssigkeit trifft, die größtenteils aus Wasser besteht (dazu gehören keine Wasserkreaturen), lässt sie diese in einem quadratischen Bereich mit 9 m Seitenlänge und einer Tiefe von 15 cm gefrieren. Das Eis bleibt für 1 Minute bestehen. Kreaturen, die an der Oberfläche des Wassers schwimmen, werden vom Eis gefangen. Eine gefangene Kreatur kann eine Aktion verwenden, um einen Stärkewurf gegen den SG zum Widerstehen deiner Zauber abzulegen. Bei einem Erfolg gelingt es ihr, sich zu befreien.<br /><br />Wenn du möchtest, kannst du das Abfeuern der Kugel verzögern, nachdem du den Zauber gewirkt hast. In diesem Fall erscheint eine kleine kühle Kugel, ungefähr von der Größe eines Schleudersteins, in deiner Hand. Zu jedem späteren Zeitpunkt kannst du oder eine Kreatur, der du die Kugel gibst, diese werfen (mit einer Reichweite von 12 m) oder mit einer Schleuder verschießen (mit der normalen Reichweite der Waffe). Die Kugel zerbricht, wenn sie aufschlägt, was den gleichen Effekt wie das normale Wirken des Zaubers auslöst. Du kannst die Kugel auch ablegen, ohne sie zu zerbrechen. Ist sie nach 1 Minute nicht zerbrochen, explodiert sie.<br /><br /><strong>Auf höheren Graden:</strong> Wenn du diesen Spruch mit einem Zauberplatz des 7. oder eines höheren Grades wirkst, steigt der Schaden für jeden Grad über den 6. hinaus um 1W6.</p>",
             "material": "eine kleine Kugel aus Kristall",
             "source": "SHB S. 253"
@@ -946,7 +946,7 @@
             "source": "SHB S. 241"
         },
         "Instant Summons": {
-            "name": "Drawmijs Sofortige Herbeizauberung",
+            "name": "Sofortige Herbeizauberung",
             "description": "<p>Du berührst einen Gegenstand, der 10 Pfund oder weniger wiegt und dessen größte Ausdehnung maximal 1,80 m beträgt. Der Zauber hinterlässt ein unsichtbares Mal auf der Oberfläche des Gegenstands und schreibt dessen Namen auf den Saphir, den du als Materialkomponente nutzt. Für jeden verzauberten Gegenstand benötigst du einen eigenen Saphir.<br /><br />Anschließend kannst du zu einem beliebigen Zeitpunkt deine Aktion verwenden, um den Namen des Gegenstands auszusprechen und den Saphir zu zerschmettern. Der Gegenstand erscheint sofort in deiner Hand, unabhängig von seiner physischen oder planaren Entfernung, und der Zauber endet.<br /><br />Wenn eine andere Kreatur den Gegenstand trägt oder in der Hand hält, wird er nicht zu dir transportiert. Aber du erfährst. wer die Kreatur ist, die den Gegenstand in ihrem Besitz hat, und wo sie sich in diesem Augenblick ungefähr aufhält.<br /><br />Magie bannen oder ein ähnlicher Effekt, der erfolgreich auf den Saphir gewirkt wird, beendet den Zauber.</p>",
             "material": "ein Saphir im Wert von 1.000 GM",
             "source": "SHB S. 222"
@@ -958,7 +958,7 @@
             "source": "SHB S. 277"
         },
         "Irresistible Dance": {
-            "name": "Ottos Unwiderstehlicher Tanz",
+            "name": "Unwiderstehlicher Tanz",
             "description": "<p>Wähle eine Kreatur in Reichweite, die du sehen kannst. Das Ziel beginnt auf absurde und belustigende Weise auf der Stelle zu tanzen, für die Wirkungsdauer wiegt es sich, tippt mit den FüBen und springt umher. Kreaturen, die nicht bezaubert werden können, sind immun gegen diesen Zauber.<br /><br />Eine betroffene Kreatur muss ihre gesamte Bewegung zum Tanzen aufwenden, ohne sich von der Stelle zu bewegen, und ist im Nachteil bei Geschicklichkeitsrettungswürfen und Angriffswürfen. Solange das Ziel unter dem Effekt dieses Zaubers steht, sind andere Kreaturen im Vorteil bei Angriffen gegen es. Als Aktion kann eine tanzende Kreatur einen Weisheitsrettungswurf ablegen, um sich wieder unter Kontrolle zu bringen. Bei einem Erfolg endet der Zauber.</p>",
             "material": "",
             "source": "SHB S. 254"
@@ -1067,7 +1067,7 @@
             "source": "SHB S. 248"
         },
         "Magnificent Mansion": {
-            "name": "Mordenkainens Herrliches Herrenhaus",
+            "name": "Herrliches Herrenhaus",
             "description": "<p>Du beschwörst eine extradimensionale Behausung, die sich in Reichweite befinden muss und die für die Wirkungsdauer bestehen bleibt. Du entscheidest, wo der Eingang zu der Behausung liegen soll. Dieser schimmert leicht und ist 1,50 m breit sowie 3 m hoch. Du und Kreaturen, die du beim Wirken des Zaubers festlegst, können die extradimensionale Behausung betreten, solange das als Eingang erscheinende Portal geöffnet ist. Dieses kannst du öffnen oder schließen, wenn du dich innerhalb von 9 m befindest. Solange das Portal geschlossen ist, ist es unsichtbar. Hinter dem Eingang befindet sich eine prachtvolle Vorhalle, von der zahlreiche Räume abgehen. Die Atmosphäre ist sauber, frisch und warm.<br /><br />Beim Wirken des Zaubers kannst du eine beliebige Raumaufteilung erschaffen, solange die Behausung aus maximal 50 Wür. feln besteht, die jeweils eine Kantenlänge von 3 m besitzen. Die Behausung ist so möbliert und dekoriert, wie du es möchtest. Es ist ausreichend Nahrung vorhanden, um ein Menü von neun Gängen für bis zu 100 Personen zu servieren. Ein Stab von 100 geisterhaften Dienern kümmert sich um alle, die eintreten. Du entscheidest, wie diese Diener aussehen und was sie tragen. Sie folgen jedem deiner Befehle.<br /><br />Die Diener können jegliche Aufgabe erfüllen, die lebendige Diener erfüllen könnten, es ist ihnen jedoch nicht möglich, anzugreifen oder Aktionen auszuführen, die direkt einer anderen Kreatur schaden würde. Sie sind also in der Lage, Gegenstände zu holen, sauber zu machen und zu reparieren, Kleider zusammenzulegen, Feuer zu entzünden, Essen zu servieren, Wein einzuschenken und so weiter.<br /><br />Die Diener können sich im Herrenhaus frei bewegen, es aber nicht verlassen. Möbel und andere Gegenstände, die durch diesen Zauber erschaffen werden, lösen sich in Rauchschwaden auf, wenn sie aus dem Herrenhaus entfernt werden. Endet der Zauber, werden alle Kreaturen im Inneren des extradimensionalen Raumes in einen offenen Bereich gestoßen, der dem Ausgang am nächsten ist.</p>",
             "material": "ein Miniaturportal aus Elfenbein, ein kleines Stück polierter Marmor und ein winziger Silberlöffel, wobei jeder Gegenstand mindestens 5 GM wert sein muss",
             "source": "SHB S. 251"
@@ -1267,7 +1267,7 @@
             "source": "SHB S. 257"
         },
         "Private Sanctum": {
-            "name": "Mordenkainens Privates Heiligtum",
+            "name": "Privates Heiligtum",
             "description": "<p>Du machst einen Bereich in Reichweite auf magische Weise sicher. Der Bereich ist ein Würfel, der eine Kantenlänge zwischen 1,50 m und 30 m haben darf. Der Zauber bleibt für die Wirkungsdauer bestehen, wenn du keine Aktion verwendest, um ihn aufzuheben.<br /><br />Beim Wirken des Zaubers entscheidest du, welche Art von Sicherheit er bietet, wobei du beliebig viele der folgenden Eigenschaften auswählen kannst:</p>\n<ul>\n<li>Geräusche können nicht durch die Barriere am Rand des geschützten Bereichs dringen.</li>\n<li>Die Barriere des geschützten Bereichs erscheint dunkel und nebelig, sodass sie nicht mit Blicken durchdrungen werden kann auch nicht mit Dunkelsicht).</li>\n<li>Sensoren, die von Erkenntniszaubern erschaffen werden, können nicht im geschützten Bereich erscheinen oder die Barriere an ihrem äußeren Rand passieren.</li>\n<li>Kreaturen in dem Bereich können nicht Ziel von Erkenntniszaubern werden.</li>\n<li>Nichts kann in den geschützten Bereich hinein oder hinaus teleportiert werden.</li>\n<li>Ebenenreisen sind innerhalb des geschützten Bereichs nicht möglich.</li>\n</ul>\n<p>Wirkst du den Zauber für 1 Jahr jeden Tag an demselben Ort, wird der Effekt permanent.<br /><br /><strong>Auf höheren Graden:</strong> Wenn du diesen Spruch mit einem Zauberplatz des 5. oder eines höheren Grades wirkst, vergröBert sich die Kantenlänge des Würfels um 30 m für jeden Grad über den 4. hinaus. Somit könntest du einen Würfel mit einer Kantenlänge von 60 m beschützen, wenn du einen Zauberplatz des 5. Grades verbrauchst.</p>",
             "material": "ein dünne Blech aus Blei, ein Stück undurchsichtiges Glas, ein Bausch Baumwolle oder Stoff und zerstoßener Crysolith",
             "source": "SHB S. 252"
@@ -1345,7 +1345,7 @@
             "source": "SHB S. 232"
         },
         "Resilient Sphere": {
-            "name": "Otilukes Unverwüstliche Sphäre",
+            "name": "Unverwüstliche Sphäre",
             "description": "<p>Eine Sphäre aus schimmernder Energie umschließt eine Kreatur oder einen Gegenstand der Größenkategorie groß oder kleiner in Reichweite. Eine unwillige Kreatur muss einen erfolgreichen Geschicklichkeitsrettungswurf ablegen, um nicht für die Wirkungsdauer von der Sphäre umschlossen zu werden.<br /><br />Weder physische Gegenstände noch magische Energie oder andere Zaubereffekte vermögen die Barriere zu durchdringen, nicht von außen und auch nicht von innen, eine Kreatur in der Sphäre kann jedoch normal atmen. Die Sphäre ist immun gegen alle Arten von Schaden, und Kreaturen oder Gegenstände in ihrem Inneren können von Angriffen oder Effekten, die von außerhalb kommen, nicht betroffen werden. Ebensowenig ist es der Kreatur im Inneren der Sphäre möglich, etwas außerhalb zu beeinflussen.<br /><br />Die Sphäre ist gewichtslos und gerade groß genug, um die Kreatur oder den Gegenstand aufzunehmen. Eine umschlossene Kreatur kann ihre Aktion verwenden, um sich gegen die Wand der Sphäre zu drücken und sich so mit ihrer halben Bewegungsrate rollend fortzubewegen. Gleichermaßen kann die Sphäre von anderen Kreaturen ins Rollen gebracht und bewegt werden, die sich außerhalb befinden.<br /><br />Wird der Zauber <em>Auflösen </em>auf die Sphäre gewirkt, zerstört er sie, ohne etwas im Inneren zu beschädigen.</p>",
             "material": "ein halbkreisförmiges Stück klaren Kristalls und eine entsprechende Halbkugel aus Gummiarabikum",
             "source": "SHB S. 254"
@@ -1403,7 +1403,7 @@
             "source": "SHB S. 216"
         },
         "Secret Chest": {
-            "name": "Leomunds Geheime Truhe",
+            "name": "Geheime Truhe",
             "description": "<p>Du verbirgst eine Truhe und ihren gesamten Inhalt auf der Ätherebene. Beim Wirken des Zaubers musst du die Truhe und die Replik berühren, die als Materialkomponenten dienen. Die Truhe kann bis zu 0,324 Kubikmeter nicht lebender Materialien aufnehmen (90 x 60 x 60 cm).<br /><br />Solange sich die Truhe auf der Ätherebene befindet, kannst du als Aktion die Replik berühren, um die Truhe herbeizurufen. Sie erscheint in einem nicht besetzten Bereich auf dem Boden innerhalb von 1,50 m. Du kannst die Truhe zurück auf die Ätherebene schicken, indem du als Aktion sowohl die Truhe als auch die Replik berührst.<br /><br />Nach 60 Tagen besteht eine kumulative Chance von 5 % pro Tag, dass der Zauber endet. Er endet ebenfalls, wenn du ihn erneut wirkst, die kleine Repliktruhe zerstört wird oder du den Zauber als Aktion aufhebst. Wenn der Zauber endet, während sich die größere Truhe auf der Ätherebene befindet, ist sie unwiderbringlich verloren.</p>",
             "material": "eine exquisite Truhe, 90 x 60 x 60 cm, erschaffen aus seltenen Materialien im Wert von mindestens 5.000 GM und eine sehr kleine Replik der Truhe aus den gleichen Materialien im Wert von 50 GM",
             "source": "SHB S. 246"
@@ -1597,7 +1597,7 @@
             "source": "SHB S. 271"
         },
         "Telepathic Bond": {
-            "name": "Rarys Telepathisches Band",
+            "name": "Telepathisches Band",
             "description": "<p>Du erschaffst ein telepathisches Band zwischen bis zu acht bereitwilligen Kreaturen deiner Wahl in Reichweite. Dieses verbindet sie für die Wirkungsdauer geistig miteinander. Kreaturen mit Intelligenz 2 oder niedriger werden von diesem Zauber nicht betroffen.<br /><br />Bis der Zauber endet, sind die Ziele in der Lage, telepathisch miteinander zu kommunizieren, gleichgültig ob sie eine gemeinsame Sprache sprechen oder nicht. Die Kommunikation ist auf jede Entfernung möglich, reicht allerdings nicht bis auf andere Existenzebenen.</p>",
             "material": "Stücke von Eierschalen von zwei unterschiedlichen Arten von Kreaturen",
             "source": "SHB S. 257"
@@ -1629,7 +1629,7 @@
             "source": "SHB S. 288"
         },
         "Tiny Hut": {
-            "name": "Leomunds Winzige Hütte",
+            "name": "Winzige Hütte",
             "description": "<p>Eine unbewegliche Kuppel aus Energie mit einem Radius von 3 m entsteht um dich herum und bleibt für die Wirkungsdauer an ihrem Standort. Der Zauber endet, wenn du den Bereich verlässt. Außer dir passen neun mittelgroße oder kleinere Kreaturen in die Kuppel. Der Zauber schlägt fehl, wenn der Bereich eine größere Kreatur oder mehr als neun beinhaltet. Kreaturen und Gegenstände, die sich beim Wirken des Zaubers in der Kuppel aufhalten, können sich frei durch sie bewegen. Allen anderen Kreaturen und Gegenständen ist es nicht möglich, sie zu durchschreiten. Zauber und andere magische Effekte können weder in die Kuppel eindringen noch durch sie hindurch gesprochen werden. Die Atmosphäre innerhalb des Bereichs ist angenehm und trocken, ungeachtet des Wetters außerhalb.<br /><br />Bis der Zauber endet, kannst du bestimmen, ob das Innere der Kuppel dämmrig beleuchtet oder dunkel sein soll. Die Kuppel ist von außen undurchsichtig und hat eine Farbe deiner Wahl, von innen aber ist sie transparent.</p>",
             "material": "eine kleine Kristallperle",
             "source": "SHB S. 246"
