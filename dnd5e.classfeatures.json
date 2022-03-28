@@ -230,22 +230,27 @@
         },
         "Eldritch Master": {
             "name": "Mystischer Meister",
+            "description": "<p>Ab Stufe 20 bist du mit Hilfe deines Schutzherren dazu in der Lage, von deinen inneren Reserven an mystischer Energie zu zehren, um Zauber zu wirken. Flehst du deinen Schutzherren 1 Minute lang an, erlangst du alle verbrauchten Zauberplätze deines Merkmals Paktmagie zurück. Diese Fähigkeit kannst du erst nach einer langen Rast erneut anwenden.</p>",
             "source": "SHB S. 65"
         },
         "Elemental Affinity": {
             "name": "Elementare Affinität",
+            "description": "<p>Angefangen mit der 6. Stufe kannst du deinen Charismamodifikator zum Schadenswurf eines Zaubers addieren, dessen Schadensart der deines Drachenvorfahren entspricht. Gleichzeitig kannst du 1 Zaubereipunkt ausgeben, um für 1 Stunde eine Resistenz gegen diese Schadensart zu erhalten.</p>",
             "source": "SHB S. 118"
         },
         "Elusive": {
             "name": "Schwer zu fassen",
+            "description": "<p>Beginnend mit der 18. Stufe hast du deine Fähigkeit auszuweichen so perfektioniert, dass Angreifer kaum die Oberhand über dich gewinnen. Kein Angriffswurf gegen dich ist im Vorteil, solange du nicht kampfunfähig bist.</p>",
             "source": "SHB S. 106"
         },
         "Empowered Evocation": {
             "name": "Mächtige Hervorrufung",
+            "description": "<p>Beginnend mit Stufe 10 kannst du einem der Schadenswürfe eines beliebigen Hervorrufungszaubers deinen Intelligenzmodifikator hinzufügen.</p>",
             "source": "SHB S. 88"
         },
         "Evasion": {
             "name": "Entrinnen",
+            "description": "<p>Ab der 7. Stufe kannst du dich dank deiner instinktiven Gewandheit dem Wirkungsbereich bestimmter Effekte entziehen, wie etwa dem Blitzodem eines blauen Drachen oder dem Zauber <em>Feuerball</em>. Bist du einem Effekt ausgesetzt, der einen Geschicklichkeitsrettungswurf erlaubt, um den Schaden zu halbieren, nimmst du bei einem erfolgreichen Rettungswurf gar keinen Schaden und bei einem Misserfolg lediglich die Hälfte des Schadens.</p>",
             "source": "SHB S. 106"
         },
         "Evocation Savant": {
