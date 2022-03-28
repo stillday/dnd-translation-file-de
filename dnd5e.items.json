@@ -36,8 +36,8 @@
             "source": "SLH S.150"
         },
         "Adamantine Ring Mail": {
-            "name": "",
-            "description": "<p>Die Rüstung ist mit Adamant verstärkt, eines der härtesten Materialien, die es gibt.<br /><br />Jeder kritischer Treffer, der dich trifft, wird zu einem normalen Treffer, während du dieses Rüstung trägst.</p>",
+            "name": "Adamantrüstung",
+            "description": "<p><em>Rüstung (mittelschwer oder schwer, kein Fell), ungewöhnlich</em></p>\n<p>Diese Rüstung ist mit Adamant verstärkt, eines der härtesten Materialien, die es gibt. Jeder kritischer Treffer, der dich trifft, wird zu einem normalen Treffer, während du dieses Rüstung trägst.</p>",
             "source": "SLH S.150"
         },
         "Adamantine Scale Mail": {
@@ -101,6 +101,7 @@
         },
         "Apparatus of the Crab": {
             "name": "Der Apparat von Kwalish",
+            "description": "<p><em>Wundersamer Gegenstand, legendär</em></p>\n<p>Auf den ersten Blick, scheint der Gegenstand ein großes Eisenfass mit rund 500 Pfund Gewicht zu sein. Das Fass hat einen geheimen Riegel, der gefunden werden kann, wenn ein Wurf auf Intelligenz (Nachforschungen) gegen SG 20 gelingt. Wenn der Riegel betätigt wird, öffnet sich am Ende des Fasses eine Luke, die mittelgroßen oder kleineren Kreaturen erlaubt, hineinzukriechen. Zehn verschiedene Hebel befinden sich in einer Reihe am anderen Ende, jeder in einer neutralen Position, bereit, nach ober oder unten geschaltet zu werden, wird sich der Apparat in einer Form ähnlich eines riesigen Hummers verwandeln.</p>\n<p>Der Apparat von Kwalish ist ein großes Objekt mit folgenden Werten:</p>\n<p style=\"line-height: 1.5;\"><strong>Rüstungsklasse:</strong> 20<br /><strong>Trefferpunkte:</strong> 200<br /><strong>Bewegungsrate:</strong> 9 m, schwimmen 9 m. (Oder 0 m für beides, wenn die Beine und der Schwanz nicht ausgefahren sind.)<br /><strong>Schadensimmunitäten:</strong> Gift, psychisch</p>\n<p>Um als Transportmittel benutzt zu werden, benötigt der Apparat einen Piloten. Während die Luke des Apparats geschlossen ist, ist er sowohl luft- als auch wasserundurchlässig. Das Innere enthält grundsätzlich genug Luft, um 10 Stunden kang zu atmen, muss aber durch die Anzahl Kreaturen im Apparat geteilt werden.</p>\n<p>Der Apparat treibt auf dem Wasser. Er kann auch bis zu einer Tiefe von 270 m tauchen. Wenn er tiefer geht, nimmt er pro Minute 2W6 Wuchtschaden aufgrund des Wasserdrucks. Eine Kreatur innerhalb des Apparats kann eine Aktion aufbrauchen, um bis zu zwei der Hebel im Apparat hoch oder runter zu drücken. Nach jeder Benutzung kehrt der Hebel auf die neutrale Position zurück. Von links nach rechts funktionieren die Hebel des Apparats von Kwalish wie folgt:</p>\n<table style=\"border-collapse: collapse; width: 121.698%; height: 552px; border-style: double;\" border=\"1\">\n<tbody>\n<tr style=\"height: 22.3906px;\">\n<td style=\"width: 14.7577%; height: 22.3906px; border-style: double;\"><strong>Hebel</strong></td>\n<td style=\"width: 40.7781%; height: 22.3906px; border-style: double;\"><strong>Hoch</strong></td>\n<td style=\"width: 44.273%; height: 22.3906px; border-style: double;\"><strong>Runter</strong></td>\n</tr>\n<tr style=\"height: 89.5625px;\">\n<td style=\"width: 14.7577%; text-align: center; height: 89.5625px; vertical-align: top; border-style: double;\">1</td>\n<td style=\"width: 40.7781%; height: 89.5625px; vertical-align: top; border-style: double;\">Beine und Schwanz werden ausgefahren und erlauben dem Apparat, zu laufen und zu schwimmen.</td>\n<td style=\"width: 44.273%; height: 89.5625px; vertical-align: top; border-style: double;\">Beine und Schwanz werden eingezogen, wobei seine Bewegungsrate auf 0 fällt und er nicht mehr in der Lage ist, von Bewegungsboni zu profitieren.</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td style=\"width: 14.7577%; text-align: center; height: 22.3906px; vertical-align: top; border-style: double;\">2</td>\n<td style=\"width: 40.7781%; height: 22.3906px; vertical-align: top; border-style: double;\">Der Fensterschutz vorne öffnet sich.</td>\n<td style=\"width: 44.273%; height: 22.3906px; vertical-align: top; border-style: double;\">Der Fensterschutz vorne schließt sich.</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td style=\"width: 14.7577%; text-align: center; height: 22.3906px; vertical-align: top; border-style: double;\">3</td>\n<td style=\"width: 40.7781%; height: 22.3906px; vertical-align: top; border-style: double;\">Die Fensterschütze seitlich öffnen sich. (Zwei pro Seite)</td>\n<td style=\"width: 44.273%; height: 22.3906px; vertical-align: top; border-style: double;\">Die Fensterschütze seitlich schließen sich (Zwei pro Seite)</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td style=\"width: 14.7577%; text-align: center; height: 22.3906px; vertical-align: top; border-style: double;\">4</td>\n<td style=\"width: 40.7781%; height: 22.3906px; vertical-align: top; border-style: double;\">Zwei Scheren an der Vorderseite des Apparats werden ausgefahren.</td>\n<td style=\"width: 44.273%; height: 22.3906px; vertical-align: top; border-style: double;\">Die Scheren werden eingefahren.</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td style=\"width: 14.7577%; text-align: center; height: 22.3906px; vertical-align: top; border-style: double;\">5</td>\n<td style=\"width: 40.7781%; height: 22.3906px; vertical-align: top; border-style: double;\">Jede der ausgefahrenen Scheren macht den folgenden Nahkampf-Waffenangriff: Angriffswurf + 8, Reichweite 1,5 Meter, ein Ziel, <em>Treffer:</em> 7 (2W6) Wuchtschaden</td>\n<td style=\"width: 44.273%; height: 22.3906px; vertical-align: top; border-style: double;\">Jede der ausgefahrenen Scheren macht den folgenden Nahkampf-Waffenangriff: Angriffswurf + 8, Reichweite 1,5 Meter, ein Ziel, <em>Treffer:</em> Das Ziel wird gepackt (Flucht SG 15).</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td style=\"width: 14.7577%; text-align: center; height: 22.3906px; vertical-align: top; border-style: double;\">6</td>\n<td style=\"width: 40.7781%; height: 22.3906px; vertical-align: top; border-style: double;\">Der Apparat geht oder schwimmt vorwärts.</td>\n<td style=\"width: 44.273%; height: 22.3906px; vertical-align: top; border-style: double;\">Der Apparat geht oder schwimmt rückwärts.</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td style=\"width: 14.7577%; text-align: center; height: 22.3906px; vertical-align: top; border-style: double;\">7</td>\n<td style=\"width: 40.7781%; height: 22.3906px; vertical-align: top; border-style: double;\">Der Apparat dreht sich um 90 Grad nach links.</td>\n<td style=\"width: 44.273%; height: 22.3906px; vertical-align: top; border-style: double;\">Der Apparat dreht sich um 90 Grad nach rechts.</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td style=\"width: 14.7577%; text-align: center; height: 22.3906px; vertical-align: top; border-style: double;\">8</td>\n<td style=\"width: 40.7781%; height: 22.3906px; vertical-align: top; border-style: double;\">Augenartige Fixierungen senden helles Licht in 9 Meter Radius und dämmriges Licht in zusätzlichen 9 Meter aus.</td>\n<td style=\"width: 44.273%; height: 22.3906px; vertical-align: top; border-style: double;\">Das Licht geht aus.</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td style=\"width: 14.7577%; text-align: center; height: 22.3906px; vertical-align: top; border-style: double;\">9</td>\n<td style=\"width: 40.7781%; height: 22.3906px; vertical-align: top; border-style: double;\">Der Apparat sinkt bis zu 6 Meter in Flüssigkeiten.</td>\n<td style=\"width: 44.273%; height: 22.3906px; vertical-align: top; border-style: double;\">Der Apparat taucht bis zu 6 Meter in Flüssigkeiten empor.</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td style=\"width: 14.7577%; text-align: center; height: 22.3906px; vertical-align: top; border-style: double;\">10</td>\n<td style=\"width: 40.7781%; height: 22.3906px; vertical-align: top; border-style: double;\">Die hintere Luke entsiegelt und öffnet sich.</td>\n<td style=\"width: 44.273%; height: 22.3906px; vertical-align: top; border-style: double;\">Die hintere Luke schließt und versiegelt sich.</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
             "source": "SLH S.151"
         },
         "Armor of Invulnerability": {
@@ -110,6 +111,7 @@
         },
         "Armor of Vulnerability": {
             "name": "Rüstung der Verwundbarkeit",
+            "description": "<p><em>Rüstung (Ritterrüstung), selten (benötigt Einstimmung)</em></p>\n<p>Während du diese Rüstung trägst, hast du Resistenz gegen einen der folgenden Schadensarten: Wucht, Stich oder Hieb. Der SL wählt den Typen oder legt ihn zufällig fest.</p>\n<p><strong>Verflucht.</strong> Diese Rüstung ist verflucht, was nur herausgefunden werden kann, wenn ein <em>Identifzieren</em> Zauber darauf gewirkt wird oder während einer Einstimmung. Wenn du dich darauf einstimmst, wirst du verflucht, bis du Ziel eines <em>Fluch brechen</em>-Zaubers oder ähnlicher Magie wirst; die Rüstung abzulegen, kann den Fluch nicht brechen. Während du verflucht bist, hast du Anfälligkeit gegenüber den anderen beiden oben genannten Schadensarten (nicht gegenüber dem, gegen die die Rüstung Resistenz verleiht).</p>",
             "source": "SLH S.183"
         },
         "Arrow +1": {
@@ -128,12 +130,16 @@
             "source": "SHB S.150"
         },
         "Arrow of Slaying": {
-            "name": ""
+            "name": "Pfeil des Tötens",
+            "description": "<p>Ein <em>Pfeil des Tötens</em> ist ein Pfeil, der dazu bestimmt ist, eine bestimmte Art Kreatur zu töten. Manche sind etwas fokusierter als andere: Beispielsweise gibt es sowohl <em>Pfeile des Drachentötens</em> als auch <em>Pfeile des Blaue-Drachentötens</em>. Wenn eine Kreatur, die zu diesem Typen, dieser Rasse oder Gruppe gehört, von einem <em>Pfeil des Tötens</em> getroffen wird und Schaden nimmt, muss die Kreatur einen Konstitutionsrettungswurf gegen SG 17 durchführen. Bei einem Fehlschlag nimmt sie zusätzlich 6W10 Stichschaden und halb so viel Extraschaden bei einem erfolgreichen Wurf.</p>\n<p>Sobald ein <em>Pfeil des Tötens</em> seinen Extraschaden zugefügt hat, wird er zu einem nicht-magischen Pfeil.</p>\n<p>Andere Arten dieser magischen Munition existieren, wie z.B. der <em>Bolzen des Tötens</em>, welcher für Armbrüste gedacht ist, aber Pfeile sind am häufigsten.</p>",
+            "source": "SLH S. 174"
         },
         "Arrow-Catching Shield": {
-            "name": ""
+            "name": "Pfeil-fangender Schild",
+            "description": "<p><em>Rüstung (Schild), selten (benötigt Einstimmung)</em></p>\n<p>Du erhältst einen +2 Bonus auf die Rüstungsklasse gegen Fernkampfangriffe, solange du diesen Schild trägst. Dieser Bonus kommt zu dem normalen RK-Bonus des Schildes hinzu. Darüber hinaus kannst du jedes Mal, wenn ein Angreifer auf ein Feld innerhalb von 1,50 Meter Radius von dir einen Fernkampfangriff ausführt, deine Reaktion benutzen, um selbst Ziel des Angriffs zu werden. </p>",
+            "source": "SLH S. 174"
         },
-        "Arrows": {
+        "Arrow": {
             "name": "Pfeile",
             "description": "<p>Standardmunition für Bögen aller Art. Diese mondänen Pfeile bestehen aus glatten Holzschäften mit Gänsefedernbefiederung und Hammermetall-Spitzen.</p>",
             "source": "SHB S. 150"
@@ -144,13 +150,19 @@
             "source": "SHB S. 153"
         },
         "Bag of Beans": {
-            "name": ""
+            "name": "Bohnenbeutel",
+            "description": "<p><em>Wundersamer Gegenstand, selten</em></p>\n<p>Im Inneren dieses schweren Stoffbeutels befinden sich 3W4 trockene Bohnen. Der Beutel wiegt ½ Pfund plus ¼ Pfund für jede Bohne, die er enthält.</p>\n<p>Wenn du den Beutelinhalt auf den Boden schüttest, explodiert er in einem Radius von 3 Metern von den Bohnen ausgehend. Jede Kreatur, dich eingeschlossen, muss dann einen Geschicklichkeitsrettungswurf gegen SG 15 durchführen. Bei einem Fehlschlag werden 5W4 Feuerschaden zugefügt, bei einem Erfolg nur halb so viel. Das Feuer entzündet brennbare Gegenstände in der Umgebung, die nicht am Körper getragen werden.</p>\n<p>Wenn du eine Bohne aus der Tasche nimmst, pflanze sie in Erde oder Sand und gieße sie anschließend, und die Bohne wird eine Minute später einen Effekt von diesem Platz aus haben. Der Spielleiter kann den Effekt in der folgenden Tabelle aussuchen, ihn zufällig festlegen oder sich selbst etwas einfallen lassen.</p>\n<table style=\"border-collapse: collapse; width: 108.255%; height: 628px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 12.8949%; vertical-align: top;\"><strong>W100</strong></td>\n<td style=\"width: 87.1051%; vertical-align: top;\"><strong>Effekt</strong></td>\n</tr>\n<tr>\n<td style=\"width: 12.8949%; vertical-align: top; text-align: center;\">01</td>\n<td style=\"width: 87.1051%; vertical-align: top;\">5W4 Giftpilze sprießen. Wenn eine Kreatur einen der Giftpilze isst, wirf irgendeinen Würfel. Bei einem ungeraden Wurf muss der Esser einen Konstitutionsrettungswurf gegen SG 15 schaffen oder er erleidet 5W6 Giftschaden und ist eine Stunde lang vergiftet. Bei einem geraden Ergebnis, erlangt der Esser eine Stunde lang 5W6 temporäre Trefferpunkte.</td>\n</tr>\n<tr>\n<td style=\"width: 12.8949%; vertical-align: top; text-align: center;\">02-10</td>\n<td style=\"width: 87.1051%; vertical-align: top;\">EIn Geysir bricht hervor und sprüht Wasser, Bier, Beerensaft, Tee, Essig, Wein oder Öl (Entscheidung des Spielleiters) für 1W12 Runden 9 Meter in die Luft.</td>\n</tr>\n<tr>\n<td style=\"width: 12.8949%; vertical-align: top; text-align: center;\">11-20</td>\n<td style=\"width: 87.1051%; vertical-align: top;\">Ein <strong>Baumhirte</strong> sprießt (siehe das <em>Monsterhandbuch</em> für dessen Werte). Es besteht eine Wahrscheinlichkeit von 50%, dass der Baumhirte chaotisch böse ist und angreift.</td>\n</tr>\n<tr>\n<td style=\"width: 12.8949%; vertical-align: top; text-align: center;\">21-30</td>\n<td style=\"width: 87.1051%; vertical-align: top;\">Eine lebende, unbewegliche Statue mit deinem Aussehen erhebt sich, welche dich verbal bedroht. Wenn du sie allein lässt und andere in ihre Nähe kommen, wird sie dich als den abscheulichsten aller Bösewichte beschimpfen und die Neulinge davon überzeugen, dich zu suchen und anzugreifen. Wenn du auf der gleichen Ebene wie die Statue bist, weiß sie, wo du dich befindest. Nach 24 Stunden wird die Statue unbelebt.</td>\n</tr>\n<tr>\n<td style=\"width: 12.8949%; vertical-align: top; text-align: center;\">31-40</td>\n<td style=\"width: 87.1051%; vertical-align: top;\">Ein Lagerfeuer mit blauen Flammen bricht los und brennt für 24 Stunden (oder bis es gelöscht wird).</td>\n</tr>\n<tr>\n<td style=\"width: 12.8949%; vertical-align: top; text-align: center;\">41-50</td>\n<td style=\"width: 87.1051%; vertical-align: top;\">1W6 + 6 <strong>Kreischerpilze</strong> sprießen (siehe das <em>Monsterhandbuch</em> für dessen Werte).</td>\n</tr>\n<tr>\n<td style=\"width: 12.8949%; vertical-align: top; text-align: center;\">51-60</td>\n<td style=\"width: 87.1051%; vertical-align: top;\">1W4 + 8 leuchtend rosarote Kröten kriechen umher. Jedes Mal, wenn eine Kröte berührt wird, verwandelt sie sich in ein großes oder kleineres Monster nach Wahl des SL. Das Monster bleibt 1 Minute lang bestehen, bevor es in einer Wolke hellen, pinken Rauchs verschwindet.</td>\n</tr>\n<tr>\n<td style=\"width: 12.8949%; vertical-align: top; text-align: center;\">61-70</td>\n<td style=\"width: 87.1051%; vertical-align: top;\">Ein hungriger <strong>Landhai</strong> tauch auf und greift  an (siehe das <em>Monsterhandbuch</em> für dessen Werte).</td>\n</tr>\n<tr>\n<td style=\"width: 12.8949%; vertical-align: top; text-align: center;\">71-80</td>\n<td style=\"width: 87.1051%; vertical-align: top;\">Ein Obstbaum wächst. Er hat 1W10 + 20 Früchte, von denen 1W8 als zufällig bestimmte magische Tränke wirken, während eine als einnehmbares Gift nach Wahl des SL fungiert. Der Baum verschwindet nach 1 Stunde. Gepflückte Früchtebleiben bestehen und behalten ihre Magie für 30 Tage.</td>\n</tr>\n<tr>\n<td style=\"width: 12.8949%; vertical-align: top; text-align: center;\">81-90</td>\n<td style=\"width: 87.1051%; vertical-align: top;\">Ein Nest von 1W4 + 3 Eiern taucht auf. Jede Kreatur, die ein Ei isst, muss einen Konstitutionsrettungswurf gegen SG 20 durchführen. Bei einem erfolgreichen Wurf erhöht eine Kreatur dauerhaft ihren niedrigsten Attributswert um 1, dabei wird bei gleichermaßen niedrigen Attributswerten zufällig ausgewählt. Bei einem gescheiterten Wurf nimmt die Kreatur 10W6 Energieschaden aufgrund einer inneren magischen Explosion.</td>\n</tr>\n<tr>\n<td style=\"width: 12.8949%; vertical-align: top; text-align: center;\">91-99</td>\n<td style=\"width: 87.1051%; vertical-align: top;\">Eine Pyramide, deren Basis ein Quadrat mit 18 Metern Seitenlänge ist, schießt empor. Im Inneren befindet sich ein Sarkophag mit einem <strong>Mumienfürst</strong> (siehe das <em>Monsterhandbuch</em> für dessen Werte). Die Pyramide wird wie die Höhle des Mumienfürsten behandelt, und sein Sarkophag enthält Schätze nach Wahl des SL.</td>\n</tr>\n<tr>\n<td style=\"width: 12.8949%; vertical-align: top; text-align: center;\">00</td>\n<td style=\"width: 87.1051%; vertical-align: top;\">Eine riesige Bohnenstange sprießt empor und wächst so hoch, wie der SL es möchte. Die Spitze führt zu einem Ort nach Wahl des SL, wie beispielsweise zu einer tollen Aussicht, einem Wolkenriesen, einer Burg, oder einer anderen Existenzebene.</td>\n</tr>\n</tbody>\n</table>",
+            "source": "SLH S. 153"
         },
         "Bag of Devouring": {
-            "name": ""
+            "name": "Frassbeutel",
+            "description": "<p><em>Wundersamer Gegenstand, sehr selten</em></p>\n<p>Diese Tasche ähnelt oberflächlich einem <em>Nimmervollen Beutel</em>, ist aber in Wahrheit eine Fütterungsöffnung für ein gigantisches extradimensionales Geschöpf. Wendet man das innere des Beutels nach außen, schließt sich die Öffnung.</p>\n<p>Die extradimensionale Kreatur, die zum Beutel gehört, spürt, was in diesen gelegt wird. Tiere oder pflanzliche Stoffe, die vollständig in den Beutel gelegt werden, werden aufgefressen und sind für immer verloren. Wenn ein Teil eines Lebewesens in den Beutel gelangt, wie es beispielsweise geschieht, wenn jemand die Hand reinsteckt, gibt es eine 5O-prozentige Chance, dass die Kreatur ganz hineingezogen wird. Eine Kreatur in der Tasche kann ihre Aktion benutzen, um zu versuchen, mit einem Wurf auf Stärke gegen SG 15 zu entkommen. Eine andere Kreatur kann ihre Aktion nutzen, um in den Beutel zu greifen und so die Kreatur herauszuziehen. Dies wird mit einem Wurf auf Stärke gegen SG 20 erreicht (insofern sie nicht ebenfalls ins Innere des Beutels gezogen wird). Jede Kreatur, die ihren Zug in der Tasche beginnt, wird verschlungen, ihr Körper zerstört. Unbelebte Gegenstände können in dem Beutel gelagert werden, welcher 27 Liter dieses Materials fassen kann. Einmal täglich verschluckt der Beutel jedoch alle Objekte in ihm und spuckt sie in einer anderen Existenzebene wieder aus. Der SL bestimmt den Zeitpunkt und die Ebene.</p>\n<p>Wenn der Beutel durchbohrt oder zerrissen wird, wird er zerstört und alles, was darin enthalten ist, wird an einen zufälligen Ort auf der Astralebene transportiert.</p>",
+            "source": "SLH S. 162"
         },
         "Bag of Holding": {
-            "name": ""
+            "name": "Nimmervoller Beutel",
+            "description": "<p><em>Wundersamer Gegenstand, ungewöhnlich</em></p>\n<p>Dieser Beutel hat einen Innenraum, der erheblich größer ist als seine Außenabmessungen, ungefähr 0,6 Meter Durchmesser an der Öffnung und 1,2 Meter Tiefe. Der Beutel kann bis zu 500 Pfund tragen,jedoch nicht mehr als ein Volumen von 1,75 Kubikmeter. Der Beutel wiegt unabhängig von seinem Inhalt 15 Pfund. Ein Objekt aus dem Beutel zu holen, erfordert eine Aktion. Wenn der Beutel überlastet, durchbohrt oder zerrissen wird, platzt er und wird zerstört, und sein Inhalt ist in der Astralebene zerstreut. Wenn der Beutel nach innen gedreht wird, wird sein Inhalt unversehrt verschüttet, aber der Beutel muss richtig herumgedreht werden, bevor er erneut verwendet werden kann.</p>\n<p>Atmende Wesen im Inneren des Beutels können bis zu 10 Minuten darin überleben, wobei die Minuten geteilt werden durch die Anzahl der darin befindlichen Kreaturen (mindestens 1 Minute pro Kopf). Nach dieser Zeit beginnen sie zu ersticken.</p>\n<p>Das Platzieren eines <em>Nimmervollen Beutels</em> in einem extradimensionalen Raum, der beispielsweise von <em>Hewards Praktischem Rucksack</em>, einem <em>Tragbaren Loch</em> oder einem ähnlichen Gegenstand geschaffen wurde, zerstört beide Gegenstände sofort und öffnet ein Tor zur Astralebene. Das Tor entsteht dort, wo der eine Gegenstand innerhalb des anderen platziert wurde.Jede Kreatur innerhalb von 3 m des Tores wird hindurch gesogen zu einem willkürlichen Ort auf der Astralebene. Das Tor schließt sich daraufhin. Das Tor ist einseitig und kann nicht wieder geöffnet werden.</p>",
+            "source": "SLH S. 173"
         },
         "Bag of Sand": {
             "name": "Beutel mit Sand",
@@ -158,13 +170,19 @@
             "source": ""
         },
         "Bag of Tricks (Grey)": {
-            "name": ""
+            "name": "Trickbeutel (grau)",
+            "description": "<p><em>Wundersamer Gegenstand, ungewöhnlich</em></p>\n<p>Dieser gewöhnliche Beutel ist aus grauem, rostfarbenem oder hellbraunem Stoff gemacht und erscheint leer. Wenn man hineingreift, zeigt sich jedoch das Vorhandensein eines kleinen, flauschigen Objekts. Der Beutel wiegt 1/2 Pfund. Du kannst eine Aktion verwenden, um das flauschige Objekt aus dem Beutel zu holen und es bis zu 6 Meter weit zu werfen. Wenn das Objekt landet, verwandelt es sich in eine Kreatur, die du durch das Werfen eines W8 bestimmst, anhand der Tabelle, die der Farbe des Beutels entspricht. Siehe das <em>Monster Manual (Monsterhandbuch)</em> für die Werte der Kreatur. Die Kreatur verschwindet bei der nächsten Dämmerung, oder wenn ihre Trefferpunkte auf O sinken.</p>\n<p>Die Kreatur ist freundlich zu dir und deinen Begleitern, und sie agiert zu deinem Zug. Du kannst eine Bonusaktion verwenden, um der Kreatur zu befehlen, wie sie sich bewegen und welche Handlung sie in der nächsten Runde ausüben soll, oder um ihr allgemeine Befehle zu geben, wie beispielsweise deine Feinde anzugreifen. Ohne solche Befehle wird die Kreatur sich ihrer Natur entsprechend verhalten. Sobald drei der flauschigen Objekte aus dem Beutel genommen wurden, kann der Beutel bis zur nächsten Morgendämmerung nicht erneut verwendet werden.</p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 26.7686%; text-align: center; vertical-align: top;\"><strong>W8</strong></td>\n<td style=\"width: 73.2314%;\"><strong>Kreatur</strong></td>\n</tr>\n<tr>\n<td style=\"width: 26.7686%; text-align: center; vertical-align: top;\">1</td>\n<td style=\"width: 73.2314%;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.WOdeacKCYVhgLDuN]{Weasel}</span></td>\n</tr>\n<tr>\n<td style=\"width: 26.7686%; text-align: center; vertical-align: top;\">2</td>\n<td style=\"width: 73.2314%;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.q1YJIeIt6rK8fCKn]{Giant Rat}</span></td>\n</tr>\n<tr>\n<td style=\"width: 26.7686%; text-align: center; vertical-align: top;\">3</td>\n<td style=\"width: 73.2314%;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.oQvORD924obyPdCc]{Badger}</span></td>\n</tr>\n<tr>\n<td style=\"width: 26.7686%; text-align: center; vertical-align: top;\">4</td>\n<td style=\"width: 73.2314%;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.lZR4lhNmYSf89s4Q]{Boar}</span></td>\n</tr>\n<tr>\n<td style=\"width: 26.7686%; text-align: center; vertical-align: top;\">5</td>\n<td style=\"width: 73.2314%;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.AijNdqMurWxDxUSl]{Panther}</span></td>\n</tr>\n<tr>\n<td style=\"width: 26.7686%; text-align: center; vertical-align: top;\">6</td>\n<td style=\"width: 73.2314%;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.OSKoYxdiQ8jYqOGH]{Giant Badger}</span></td>\n</tr>\n<tr>\n<td style=\"width: 26.7686%; text-align: center; vertical-align: top;\">7</td>\n<td style=\"width: 73.2314%;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.EYiQZ3rFL25fEJY5]{Dire Wolf}</span></td>\n</tr>\n<tr>\n<td style=\"width: 26.7686%; text-align: center; vertical-align: top;\">8</td>\n<td style=\"width: 73.2314%;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.hQt3qIahnB1Odb40]{Giant Elk}</span></td>\n</tr>\n</tbody>\n</table>",
+            "source": "SLH S. 196"
         },
         "Bag of Tricks (Rust)": {
-            "name": ""
+            "name": "Trickbeutel (rostfarben)",
+            "description": "<p><em>Wundersamer Gegenstand, ungewöhnlich</em></p>\n<p>Dieser gewöhnliche Beutel ist aus grauem, rostfarbenem oder hellbraunem Stoff gemacht und erscheint leer. Wenn man hineingreift, zeigt sich jedoch das Vorhandensein eines kleinen, flauschigen Objekts. Der Beutel wiegt 1/2 Pfund. Du kannst eine Aktion verwenden, um das flauschige Objekt aus dem Beutel zu holen und es bis zu 6 Meter weit zu werfen. Wenn das Objekt landet, verwandelt es sich in eine Kreatur, die du durch das Werfen eines W8 bestimmst, anhand der Tabelle, die der Farbe des Beutels entspricht. Siehe das <em>Monster Manual (Monsterhandbuch)</em> für die Werte der Kreatur. Die Kreatur verschwindet bei der nächsten Dämmerung, oder wenn ihre Trefferpunkte auf O sinken.</p>\n<p>Die Kreatur ist freundlich zu dir und deinen Begleitern, und sie agiert zu deinem Zug. Du kannst eine Bonusaktion verwenden, um der Kreatur zu befehlen, wie sie sich bewegen und welche Handlung sie in der nächsten Runde ausüben soll, oder um ihr allgemeine Befehle zu geben, wie beispielsweise deine Feinde anzugreifen. Ohne solche Befehle wird die Kreatur sich ihrer Natur entsprechend verhalten. Sobald drei der flauschigen Objekte aus dem Beutel genommen wurden, kann der Beutel bis zur nächsten Morgendämmerung nicht erneut verwendet werden.</p>\n<table style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\" border=\"1\">\n<tbody>\n<tr>\n<td><strong>W8</strong></td>\n<td><strong>Kreatur</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>@Compendium[dnd5e.monsters.pozQUPTnLZW8epox]{Rat}</td>\n</tr>\n<tr>\n<td>2</td>\n<td>@Compendium[dnd5e.monsters.d0prpsGSAorDadec]{Owl}</td>\n</tr>\n<tr>\n<td>3</td>\n<td>@Compendium[dnd5e.monsters.YTpL2c3NO4sOn2UA]{Mastiff}</td>\n</tr>\n<tr>\n<td>4</td>\n<td>@Compendium[dnd5e.monsters.y8sRU8Ks2lcrGsaf]{Goat}</td>\n</tr>\n<tr>\n<td>5</td>\n<td>@Compendium[dnd5e.monsters.N3ahWNjmxk9Ro1aG]{Giant Goat}</td>\n</tr>\n<tr>\n<td>6</td>\n<td>@Compendium[dnd5e.monsters.55z2VqYdUb8BWgyc]{Giant Boar}</td>\n</tr>\n<tr>\n<td>7</td>\n<td>@Compendium[dnd5e.monsters.hjhERRzafCiFFVLA]{Lion}</td>\n</tr>\n<tr>\n<td>8</td>\n<td>@Compendium[dnd5e.monsters.omcDpBoB69esCXeM]{Brown Bear}</td>\n</tr>\n</tbody>\n</table>",
+            "source": "SLH S. 196"
         },
         "Bag of Tricks (Tan)": {
-            "name": ""
+            "name": "Trickbeutel (hellbraun)",
+            "description": "<p><em>Wundersamer Gegenstand, ungewöhnlich</em></p>\n<p>Dieser gewöhnliche Beutel ist aus grauem, rostfarbenem oder hellbraunem Stoff gemacht und erscheint leer. Wenn man hineingreift, zeigt sich jedoch das Vorhandensein eines kleinen, flauschigen Objekts. Der Beutel wiegt 1/2 Pfund. Du kannst eine Aktion verwenden, um das flauschige Objekt aus dem Beutel zu holen und es bis zu 6 Meter weit zu werfen. Wenn das Objekt landet, verwandelt es sich in eine Kreatur, die du durch das Werfen eines W8 bestimmst, anhand der Tabelle, die der Farbe des Beutels entspricht. Siehe das <em>Monster Manual (Monsterhandbuch)</em> für die Werte der Kreatur. Die Kreatur verschwindet bei der nächsten Dämmerung, oder wenn ihre Trefferpunkte auf O sinken.</p>\n<p>Die Kreatur ist freundlich zu dir und deinen Begleitern, und sie agiert zu deinem Zug. Du kannst eine Bonusaktion verwenden, um der Kreatur zu befehlen, wie sie sich bewegen und welche Handlung sie in der nächsten Runde ausüben soll, oder um ihr allgemeine Befehle zu geben, wie beispielsweise deine Feinde anzugreifen. Ohne solche Befehle wird die Kreatur sich ihrer Natur entsprechend verhalten. Sobald drei der flauschigen Objekte aus dem Beutel genommen wurden, kann der Beutel bis zur nächsten Morgendämmerung nicht erneut verwendet werden.</p>\n<table style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\" border=\"1\">\n<tbody>\n<tr>\n<td><strong>W8</strong></td>\n<td><strong>Kreatur</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>@Compendium[dnd5e.monsters.MZYCPIVoBs918qGZ]{Jackal}</td>\n</tr>\n<tr>\n<td>2</td>\n<td>@Compendium[dnd5e.monsters.K5cKmPoFkpuOotis]{Ape}</td>\n</tr>\n<tr>\n<td>3</td>\n<td>@Compendium[dnd5e.monsters.JW8bXggOMBx1S6tF]{Baboon}</td>\n</tr>\n<tr>\n<td>4</td>\n<td>@Compendium[dnd5e.monsters.SXXvwaLBNuzBymp3]{Axe Beak}</td>\n</tr>\n<tr>\n<td>5</td>\n<td>@Compendium[dnd5e.monsters.D5WjGwKskeUT8HXa]{Black Bear}</td>\n</tr>\n<tr>\n<td>6</td>\n<td>@Compendium[dnd5e.monsters.8VXxqeBvN54rPh81]{Giant Weasel}</td>\n</tr>\n<tr>\n<td>7</td>\n<td>@Compendium[dnd5e.monsters.oBXgFDnwGehbpmKN]{Giant Hyena}</td>\n</tr>\n<tr>\n<td>8</td>\n<td>@Compendium[dnd5e.monsters.FayqbnjBMszO6Pat]{Tiger}</td>\n</tr>\n</tbody>\n</table>",
+            "source": "SLH S. 196"
         },
         "Bagpipes": {
             "name": "Dudelsack",
@@ -177,7 +195,9 @@
             "source": "SHB S. 152"
         },
         "Barrel": {
-            "name": ""
+            "name": "Fass",
+            "description": "<p>Ein Fass hat ein Fassungsvermögen von 160 Litern.</p>",
+            "source": "SHB S. 153"
         },
         "Basic Poison": {
             "name": "Gift, einfach",
@@ -190,85 +210,113 @@
             "source": "SHB S. 153"
         },
         "Battleaxe": {
-            "name": ""
+            "name": "Streitaxt"
         },
         "Battleaxe +1": {
-            "name": ""
+            "name": "Streitaxt +1"
         },
         "Battleaxe +2": {
-            "name": ""
+            "name": "Streitaxt +2"
         },
         "Battleaxe +3": {
-            "name": ""
+            "name": "Streitaxt +3"
         },
         "Bead of Force": {
-            "name": ""
+            "name": "Perle der Kraft",
+            "description": "<p><em>Wundersamer Gegenstand, selten</em></p>\n<p>Diese kleine schwarze Kugel hat einen Durchmesser von knapp 2,5 cm und wiegt 1 Unze. Normalerweise werden 1W4 + 4 <em>Perlen der Kraft</em> zusammen gefunden.</p>\n<p>Du kannst eine Aktion verwenden, um die Perle bis zu 18 Meter weit zu werfen. Die Perle explodiert beim Aufprall und wird zerstört. Jede Kreatur in einem 3-Meter-Radius vom Aufschlagspunkt der Perle, muss einen Geschicklichkeitsrettungswurf gegen SG 15 schaffen oder sie nimmt 5W4 Energieschaden. Eine Sphäre aus transparenter Energie umschließt anschließend den Bereich für 1 Minute. Jede Kreatur, die den Rettungswurf nicht geschafft hat und sich vollständig innerhalb des Bereichs befindet, ist in dieser Sphäre gefangen. Kreaturen, die erfolgreich gewürfelt haben oder die nur teilweise innerhalb des Bereichs sind, werden von der Mitte der Kugel weggedrückt, bis sie sich nicht länger darin befinden. Nur Luft für die Atmung kann durch die Mauer der Sphäre dringen. Weder Angriffe noch andere Effekte können hindurch. Eine gefangene Kreatur kann ihre Aktion verwenden, um gegen die Wand der Sphäre zu drücken, wobei sie die Sphäre um die Hälfte der normalen Bewegungsrate der Kreatur bewegt. Die Sphäre kann aufgehoben werden, und dank ihrer Magie wiegt sie nur 1 Pfund, unabhängig von dem Gewicht der Kreaturen im Inneren.</p>",
+            "source": "SLH S. 174"
         },
         "Bedroll": {
-            "name": ""
+            "name": "Schlafsack"
         },
         "Bell": {
-            "name": ""
+            "name": "Glocke"
         },
         "Belt of Cloud Giant Strength": {
-            "name": ""
+            "name": "Gürtel der Wolkenriesenstärke",
+            "description": "<p><em>Wundersamer Gegenstand, legendär (benötigt Einstimmung)</em></p>\n<p>Beim Tragen dieses Gürtels verändert sich dein Stärkewert zu 27. Der Gegenstand hat keine Auswirkung auf dich, wenn deine Stärke ohne den Gürtel gleich oder größer als der Wert des Gürtels ist.</p>",
+            "source": "SLH S. 163"
         },
         "Belt of Dwarvenkind": {
-            "name": ""
+            "name": "Zwergengürtel",
+            "description": "<p><em>Wundersamer Gegenstand, selten (benötigt Einstimmung)</em></p>\n<p>Während du diesen Gürtel trägst, erhältst du folgende Boni:</p>\n<ul>\n<li>Dein Konstitutionswert erhöht sich um 2, bis zu einem Maximum von 20.</li>\n<li>Du hast einen Vorteil bei Würfen auf Charisma (Überzeugen), wenn du mit Zwergen interagierst.</li>\n</ul>\n<p>Zusätzlich besteht täglich die Chance von 50%, dass dir ein Bart wächst, während du diesen Gürtel trägst, sofern du in der Lage bist, einen Bart zu haben. Hast du bereits einen Bart, wird dieser sichtlich dichter.</p>\n<p>Wenn du kein Zwerg bist, erhältst du folgende Vorteile beim Tragen des Gürtels:</p>\n<ul>\n<li>Du hast einen Vorteil auf Rettungswürfe gegen Gift und du hast Resistenz gegen Giftschaden.</li>\n<li>Du erhältst Dunkelsicht bis zu einer Entfernung von 18 Metern.</li>\n<li>Du kannst Zwergisch sprechen, verstehen, lesen und schreiben.</li>\n</ul>",
+            "source": "SLH S. 213"
         },
         "Belt of Fire Giant Strength": {
-            "name": ""
+            "name": "Gürtel der Feuerriesenstärke",
+            "description": "<p><em>Wundersamer Gegenstand, sehr selten (benötigt Einstimmung)</em></p>\n<p>Beim Tragen dieses Gürtels verändert sich dein Stärkewert zu 25. Der Gegenstand hat keine Auswirkung auf dich, wenn deine Stärke ohne den Gürtel gleich oder größer als der Wert des Gürtels ist.</p>",
+            "source": "SLH S. 163"
         },
         "Belt of Frost Giant Strength": {
-            "name": ""
+            "name": "Gürtel der Frostriesenstärke",
+            "description": "<p><em>Wundersamer Gegenstand, sehr selten (benötigt Einstimmung)</em></p>\n<p>Beim Tragen dieses Gürtels verändert sich dein Stärkewert zu 23. Der Gegenstand hat keine Auswirkung auf dich, wenn deine Stärke ohne den Gürtel gleich oder größer als der Wert des Gürtels ist.</p>",
+            "source": "SLH S. 163"
         },
         "Belt of Hill Giant Strength": {
-            "name": ""
+            "name": "Gürtel der Hügelriesenstärke",
+            "description": "<p><em>Wundersamer Gegenstand, selten (benötigt Einstimmung)</em></p>\n<p>Beim Tragen dieses Gürtels verändert sich dein Stärkewert zu 21. Der Gegenstand hat keine Auswirkung auf dich, wenn deine Stärke ohne den Gürtel gleich oder größer als der Wert des Gürtels ist.</p>",
+            "source": "SLH S. 163"
         },
         "Belt of Stone Giant Strength": {
-            "name": ""
+            "name": "Gürtel der Steinriesenstärke",
+            "description": "<p><em>Wundersamer Gegenstand, sehr selten (benötigt Einstimmung)</em></p>\n<p>Beim Tragen dieses Gürtels verändert sich dein Stärkewert zu 23. Der Gegenstand hat keine Auswirkung auf dich, wenn deine Stärke ohne den Gürtel gleich oder größer als der Wert des Gürtels ist.</p>",
+            "source": "SLH S. 163"
         },
         "Belt of Storm Giant Strength": {
-            "name": ""
+            "name": "Gürtel der Sturmriesenstärke",
+            "description": "<p><em>Wundersamer Gegenstand, legendär (benötigt Einstimmung)</em></p>\n<p>Beim Tragen dieses Gürtels verändert sich dein Stärkewert zu 29. Der Gegenstand hat keine Auswirkung auf dich, wenn deine Stärke ohne den Gürtel gleich oder größer als der Wert des Gürtels ist.</p>",
+            "source": "SLH S. 163"
         },
         "Berserker Battleaxe": {
-            "name": ""
+            "name": "Berserker Streitaxt",
+            "description": "<p><em>Waffe, selten (benötigt Einstimmung)</em></p>\n<p>Du erhältst einen Bonus von + 1 auf Angriffs- und Schadenswürfe, die mit dieser magischen Waffe ausgeführt werden. Darüber hinaus erhöht sich dein Trefferpunktemaximum, während du auf diese Waffe eingestimmt bist, um 1 für jede Stufe, die du erreicht hast.</p>\n<p><strong>Verflucht.</strong> Diese Axt ist verflucht, und dich darauf einzustimmen, verbreitet den Fluch auf dich. Solange du verflucht bleibst, bist du nicht bereit, dich von der Axt zu trennen und hältst sie zu allen Zeiten in deiner Nähe. Du hast einen Nachteil auf Angriffsund Schadenswürfe, die du mit anderen Waffen als dieser tätigst, es sei denn, es befindet sich kein Feind innerhalb von 18 Meter zu dir, den du sehen oder hören kannst.</p>\n<p>Immer, wenn eine feindliche Kreatur dir Schaden zufügt, während die Axt in deinem Besitz ist, musst du einen Weisheitsrettungswurf gegen SG 15 schaffen oder du wirst zum Berserker. Während du ein Berserker bist, musst du jede Aktion benutzen, um die Kreatur anzugreifen, die sich am nächsten zu dir und deiner Axt befindet. Wenn du zusätzliche Angriffe ausführen kannst als Teil der Angriffsaktion, verwendest du diese zusätzlichen Angriffe, um die nächste Kreatur anzugreifen, insofern du dein aktuelles Ziel zu Boden gebracht hast. Wenn du mehrere mögliche Ziele hast, greifst du willkürlich eins davon an.</p>\n<p>Du bist solange Berserker, bis sich keine Kreaturen innerhalb von 18 Meter zu dir befinden, die du sehen oder hören kannst.</p>",
+            "source": "SLH S. 153"
         },
         "Berserker Greataxe": {
-            "name": ""
+            "name": "Berserker Zweihandaxt",
+            "description": "<p><em>Waffe, selten (benötigt Einstimmung)</em></p>\n<p>Du erhältst einen Bonus von + 1 auf Angriffs- und Schadenswürfe, die mit dieser magischen Waffe ausgeführt werden. Darüber hinaus erhöht sich dein Trefferpunktemaximum, während du auf diese Waffe eingestimmt bist, um 1 für jede Stufe, die du erreicht hast.</p>\n<p><strong>Verflucht.</strong> Diese Axt ist verflucht, und dich darauf einzustimmen, verbreitet den Fluch auf dich. Solange du verflucht bleibst, bist du nicht bereit, dich von der Axt zu trennen und hältst sie zu allen Zeiten in deiner Nähe. Du hast einen Nachteil auf Angriffsund Schadenswürfe, die du mit anderen Waffen als dieser tätigst, es sei denn, es befindet sich kein Feind innerhalb von 18 Meter zu dir, den du sehen oder hören kannst.</p>\n<p>Immer, wenn eine feindliche Kreatur dir Schaden zufügt, während die Axt in deinem Besitz ist, musst du einen Weisheitsrettungswurf gegen SG 15 schaffen oder du wirst zum Berserker. Während du ein Berserker bist, musst du jede Aktion benutzen, um die Kreatur anzugreifen, die sich am nächsten zu dir und deiner Axt befindet. Wenn du zusätzliche Angriffe ausführen kannst als Teil der Angriffsaktion, verwendest du diese zusätzlichen Angriffe, um die nächste Kreatur anzugreifen, insofern du dein aktuelles Ziel zu Boden gebracht hast. Wenn du mehrere mögliche Ziele hast, greifst du willkürlich eins davon an.</p>\n<p>Du bist solange Berserker, bis sich keine Kreaturen innerhalb von 18 Meter zu dir befinden, die du sehen oder hören kannst.</p>",
+            "source": "SLH S. 153"
         },
         "Berserker Handaxe": {
-            "name": ""
+            "name": "Berserker Beil",
+            "description": "<p><em>Waffe, selten (benötigt Einstimmung)</em></p>\n<p>Du erhältst einen Bonus von + 1 auf Angriffs- und Schadenswürfe, die mit dieser magischen Waffe ausgeführt werden. Darüber hinaus erhöht sich dein Trefferpunktemaximum, während du auf diese Waffe eingestimmt bist, um 1 für jede Stufe, die du erreicht hast.</p>\n<p><strong>Verflucht.</strong> Diese Axt ist verflucht, und dich darauf einzustimmen, verbreitet den Fluch auf dich. Solange du verflucht bleibst, bist du nicht bereit, dich von der Axt zu trennen und hältst sie zu allen Zeiten in deiner Nähe. Du hast einen Nachteil auf Angriffsund Schadenswürfe, die du mit anderen Waffen als dieser tätigst, es sei denn, es befindet sich kein Feind innerhalb von 18 Meter zu dir, den du sehen oder hören kannst.</p>\n<p>Immer, wenn eine feindliche Kreatur dir Schaden zufügt, während die Axt in deinem Besitz ist, musst du einen Weisheitsrettungswurf gegen SG 15 schaffen oder du wirst zum Berserker. Während du ein Berserker bist, musst du jede Aktion benutzen, um die Kreatur anzugreifen, die sich am nächsten zu dir und deiner Axt befindet. Wenn du zusätzliche Angriffe ausführen kannst als Teil der Angriffsaktion, verwendest du diese zusätzlichen Angriffe, um die nächste Kreatur anzugreifen, insofern du dein aktuelles Ziel zu Boden gebracht hast. Wenn du mehrere mögliche Ziele hast, greifst du willkürlich eins davon an.</p>\n<p>Du bist solange Berserker, bis sich keine Kreaturen innerhalb von 18 Meter zu dir befinden, die du sehen oder hören kannst.</p>",
+            "source": "SLH S. 153"
         },
         "Blanket": {
-            "name": ""
+            "name": "Decke",
+            "description": "<p>eine Decke um dich Nachts warm zu halten.</p>",
+            "source": "SHB S. 150"
         },
         "Block and Tackle": {
-            "name": ""
+            "name": "Flaschenzug",
+            "description": "<p>Bestehend aus Seilen, Rollen und einem Holzblock, an dem ein Haken befestigt ist, dient der Flaschenzu dazu, bis zu viermal höheres Gewicht anzuheben, als dies ohne ihn möglich wäre.</p>",
+            "source": "SHB S. 151"
         },
         "Block of Incense": {
             "name": ""
         },
         "Blowgun": {
-            "name": ""
+            "name": "Blasrohr"
         },
         "Blowgun +1": {
-            "name": ""
+            "name": "Blasrohr +1"
         },
         "Blowgun +2": {
-            "name": ""
+            "name": "Blasrohr +2"
         },
         "Blowgun +3": {
-            "name": ""
+            "name": "Blasrohr +3"
         },
         "Blowgun Needle": {
-            "name": ""
+            "name": "Blasrohrpfeil"
         },
         "Bolt of Slaying": {
             "name": ""
         },
         "Book": {
-            "name": ""
+            "name": "Buch",
+            "description": "<p>Ein Buch könnte Poesie, geschichtliche Aufzeichnungen, Informationen über ein bestimmtes Fachgebiet, Diagramme und Notizen zu gnomischen Apparaten oder jeglichem anderen Inhalt enthalten, den man mit Text und Zeichnungen festhalten kann. Ein Buch mit Zaubersprüchen ist ein Zauberbuch.</p>",
+            "source": "SHB S. 151"
         },
         "Book of Lore": {
             "name": ""
@@ -277,31 +325,49 @@
             "name": ""
         },
         "Boots of Elvenkind": {
-            "name": ""
+            "name": "Stiefel der Elfen",
+            "description": "<p><em>Wundersamer Gegenstand, ungewöhnlich</em></p>\n<p>Während du diese Stiefel trägst, erzeugen deine Schritte kein Geräusch, egal auf welcher Oberfläche du läufst. Du hast außerdem einen Vorteil bei Würfen auf Geschicklichkeit (Heimlichkeit), die voraussetzen, dass man sich leise bewegt.</p>",
+            "source": "SLH S. 191"
         },
         "Boots of Levitation": {
-            "name": ""
+            "name": "Stiefel des Schwebens",
+            "description": "<p><em>Wundersamer Gegenstand, selten (benötigt Einstimmung)</em></p>\n<p>Während du diese Stiefel trägst, kannst du eine Aktion aufwenden, um den Zauber <em style=\"color: rgba(0, 0, 0, 0.7); font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.spells.MRxldJd6C4bsBo3O]{Levitate}</em> auf dich selbst zu wirken.</p>",
+            "source": "SLH S. 192"
         },
         "Boots of Speed": {
-            "name": ""
+            "name": "Stiefel der Geschwindigkeit",
+            "description": "<p><em>Wundersamer Gegenstand, selten (benötigt Einstimmung)</em></p>\n<p>Während du diese Stiefel trägst, kannst du eine Bonusaktion verwenden und die Stiefel mit den Fersen zusammenschlagen. Wenn du das tust, verdoppeln die Stiefel deine normale Bewegungsrate, und jede Kreatur, die einen Gelegenheitsangriff auf dich ausführt, hat einen Nachteil auf den Angriffswurf. Wenn du die Fersen wieder zusammenschlägst, wird der Effekt beendet. Wenn die Eigenschaft der Stiefel für insgesamt 10 Minuten verwendet wurde, hört die Magie auf zu funktionieren, bis du eine lange Rast beendet hast.</p>",
+            "source": "SLH S. 191"
         },
         "Boots of Striding and Springing": {
-            "name": ""
+            "name": "Stiefel des Schreitens und Springens",
+            "description": "<p><em>Wundersamer Gegenstand, ungewöhnlich (benötigt Einstimmung)</em></p>\n<p>Während du diese Stiefel trägst, wird deine Bewegungsrate zu Fuß zu 9 Metern, es sei denn, deine Bewegungsrate ist höher. Zudem wird sie nicht durch Belastung oder das Tragen schwerer Rüstung reduziert. Darüber hinaus kannst du dreimal soweit springen, wobei du nicht weiter springen kannst, als die restliche Bewegung erlauben würde.</p>",
+            "source": "SLH S. 192"
         },
         "Boots of the Winterlands": {
-            "name": ""
+            "name": "Stiefel der Winterlande",
+            "description": "<p><em>Wundersamer Gegenstand, ungewöhnlich (benötigt Einstimmung)</em></p>\n<p>Diese Fellstiefel sind gemütlich und fühlen sich recht warm an. Während du sie trägst, erhältst du folgenden Vorteile:</p>\n<ul>\n<li>Du hast Resistenz gegen Kälteschaden.</li>\n<li>Du kannst schwieriges Eis- und Schneeterrain ignorieren.</li>\n<li>Du kannst Temperaturen bis zu -50 Grad ohne zusätzlichen Schutz aushalten. Wenn du schwere Kleidung trägst, kannst du sogar Temperaturen bis zu -100 Grad aushalten.</li>\n</ul>",
+            "source": "SLH S. 192"
         },
         "Bowl of Commanding Water Elementals": {
-            "name": ""
+            "name": "Schale der Wasserelementar-Herrschaft",
+            "description": "<p><em>Wundersamer Gegenstand, selten</em></p>\n<p>Solange diese Schüssel mit Wasser gefüllt ist, kannst du das Befehlswort der Schale sprechen und einen <em style=\"color: rgba(0, 0, 0, 0.7); font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.namJz755U1EhvEJa]{Water Elemental}</em> beschwören, so als hättest du den Zauber <em style=\"color: rgba(0, 0, 0, 0.7); font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental}</em> dafür gewirkt. Die Schüssel kann bis zur nächsten Morgendämmerung nicht erneut verwendet werden. Die Schale hat einen Durchmesser von etwa 30 Zentimeter und ist halb so tief. Sie wiegt 3 Pfund und fasst etwa 12 Liter.</p>",
+            "source": "SLH S. 183"
         },
         "Bracers of Archery": {
-            "name": ""
+            "name": "Armschienen des Bogenschützen",
+            "description": "<p><em>Wundersamer Gegenstand, ungewöhnlich (benötigt Einstimmung)</em></p>\n<p>Während du diese Armschienen trägst, bist du geübt im Umgang mit dem Langbogen und Kurzbogen und erhältst einen Bonus + 2 auf Schadenswürfe für Fernkampfangriffe, die mit solchen Waffen ausgeführt werden.</p>",
+            "source": "SLH S. 151"
         },
         "Bracers of Defense": {
-            "name": ""
+            "name": "Armschienen der Verteidigung",
+            "description": "<p><em>Wundersamer Gegenstand, selten (benötigt Einstimmung)</em></p>\n<p>Während du diese Armschienen trägst, erhältst du einen Bonus von + 2 auf deine Rüstungsklasse, wenn du keine Rüstung und kein Schild trägst.</p>",
+            "source": "SLH S. 152"
         },
         "Brass Horn of Valhalla": {
-            "name": ""
+            "name": "Horn von Valhalla aus Messing",
+            "description": "<p><em>Wundersamer Gegenstand, selten (Silber oder Messing), sehr selten (Bronze), legendär (Eisen)</em></p>\n<p>Du kannst eine Aktion aufwenden, um das Horn zu blasen. Als Reaktion darauf erscheinen Kriegergeister von der Ebene Ysgard innerhalb von 18 Metern zu dir. Diese Geister verfügen über die Werte des Berserkers aus dem <em>Monster Manual (Monsterhandbuch)</em>. Sie kehren nach 1 Stunde nach Ysgard zurück, oder wenn sie auf O Trefferpunkte sinken. Wenn du das Horn benutzt hast, kannst du es nicht erneut benutzen, bevor 7 Tage verstrichen sind.</p>\n<p>Vier Arten des Horns von Valhalla sind als existent bekannt, jedes aus einem anderen Material geschaffen. Der Typ des Horns bestimmt, wie viele Berserker beschworen werden, sowie die Voraussetzungen für seine Benutzung. Der SL bestimmt den Typen oder lässt per Zufall entscheiden.</p>\n<table style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">\n<thead>\n<tr>\n<th>W100</th>\n<th>Horn-Art</th>\n<th>Beschworene Berserker</th>\n<th>Voraussetzung</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>01-40</td>\n<td>Silber</td>\n<td>2W4 + 2</td>\n<td>Keine</td>\n</tr>\n<tr>\n<td><strong>41-75</strong></td>\n<td><strong>Messing</strong></td>\n<td><strong>3W4 + 3</strong></td>\n<td><strong>Übung mit allen einfachen Waffen</strong></td>\n</tr>\n<tr>\n<td>76-90</td>\n<td>Bronze</td>\n<td>4W4 + 4</td>\n<td>Übung mit allen mittelschweren Rüstungen.</td>\n</tr>\n<tr>\n<td>91-00</td>\n<td>Eisen</td>\n<td>5W4 + 5</td>\n<td>Übung mit allen Kriegswaffen.</td>\n</tr>\n</tbody>\n</table>\n<p>Wenn du das Horn bläst, ohne seine Anforderung zu erfüllen, greifen dich die beschworenen Berserker an. Wenn du die Voraussetzungen erfüllst, sind sie dir und deinen Begleitern freundlich gesonnen und gehorchen deinen Befehlen.</p>",
+            "source": "SLH S. 168"
         },
         "Brazier of Commanding Fire Elementals": {
             "name": ""
@@ -325,7 +391,9 @@
             "name": ""
         },
         "Bronze Horn of Valhalla": {
-            "name": ""
+            "name": "Horn von Valhalla aus Bronze",
+            "description": "<p><em>Wundersamer Gegenstand, selten (Silber oder Messing), sehr selten (Bronze), legendär (Eisen)</em></p>\n<p>Du kannst eine Aktion aufwenden, um das Horn zu blasen. Als Reaktion darauf erscheinen Kriegergeister von der Ebene Ysgard innerhalb von 18 Metern zu dir. Diese Geister verfügen über die Werte des Berserkers aus dem <em>Monster Manual (Monsterhandbuch)</em>. Sie kehren nach 1 Stunde nach Ysgard zurück, oder wenn sie auf O Trefferpunkte sinken. Wenn du das Horn benutzt hast, kannst du es nicht erneut benutzen, bevor 7 Tage verstrichen sind.</p>\n<p>Vier Arten des Horns von Valhalla sind als existent bekannt, jedes aus einem anderen Material geschaffen. Der Typ des Horns bestimmt, wie viele Berserker beschworen werden, sowie die Voraussetzungen für seine Benutzung. Der SL bestimmt den Typen oder lässt per Zufall entscheiden.</p>\n<table style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">\n<thead>\n<tr>\n<th>W100</th>\n<th>Horn-Art</th>\n<th>Beschworene Berserker</th>\n<th>Voraussetzung</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>01-40</td>\n<td>Silber</td>\n<td>2W4 + 2</td>\n<td>Keine</td>\n</tr>\n<tr>\n<td>41-75</td>\n<td>Messing</td>\n<td>3W4 + 3</td>\n<td>Übung mit allen einfachen Waffen</td>\n</tr>\n<tr>\n<td><strong>76-90</strong></td>\n<td><strong>Bronze</strong></td>\n<td><strong>4W4 + 4</strong></td>\n<td><strong>Übung mit allen mittelschweren Rüstungen.</strong></td>\n</tr>\n<tr>\n<td>91-00</td>\n<td>Eisen</td>\n<td>5W4 + 5</td>\n<td>Übung mit allen Kriegswaffen.</td>\n</tr>\n</tbody>\n</table>\n<p>Wenn du das Horn bläst, ohne seine Anforderung zu erfüllen, greifen dich die beschworenen Berserker an. Wenn du die Voraussetzungen erfüllst, sind sie dir und deinen Begleitern freundlich gesonnen und gehorchen deinen Befehlen.</p>",
+            "source": "SLH S. 168"
         },
         "Brooch of Shielding": {
             "name": ""
@@ -337,7 +405,9 @@
             "name": ""
         },
         "Bullseye Lantern": {
-            "name": ""
+            "name": "Blendlaterne",
+            "description": "<p>Eine Blendlaterne wirft einen 18 m langen Kegel hellen Lichts, der weitere 18 m in dämmriges Licht taucht. Einmal entfacht, brennt die Laterne mit einem Fläschchen Öl(0,5l) für 6 Stunden.</p>",
+            "source": "SHB S. 152"
         },
         "Calligrapher's Supplies": {
             "name": ""
@@ -346,7 +416,9 @@
             "name": ""
         },
         "Candle": {
-            "name": ""
+            "name": "Kerze",
+            "description": "<p>Eine Kerze spendet für eine Stundes helles Licht in einem Radius von 1,50 m und dämmriges Licht in weiteren 1,50 m Entfernung.</p>",
+            "source": "SHB S. 152"
         },
         "Candle of Invocation": {
             "name": ""
@@ -370,7 +442,9 @@
             "name": ""
         },
         "Chain (10 feet)": {
-            "name": ""
+            "name": "Kette (3m)",
+            "description": "<p>Eine Kette hat 10 Trefferpunkte. Sie kann mit einem erfolgreichen Stärkewurf gegen SG 20 gesprengt werden.</p>",
+            "source": "SHB S. 152"
         },
         "Chain Mail": {
             "name": ""
@@ -415,7 +489,9 @@
             "name": ""
         },
         "Climber's Kit": {
-            "name": ""
+            "name": "Kletterausrüstung",
+            "description": "<p>Eine kletterausrüstung beinhaltet spezielle Felshaken, Steigeisen, Handschuhe und einen Klettergurt. Als Aktion kannst du die Kletterausrüstung nutzen, um dich in einer Wand zu verankern. Von dem Punkt, an dem du dich verankert hast, kanst du nicht tiefer als 7,50 m fallen und dich nicht weiter als 7,50 m entfernen, ohne die Verankerung zu lösen.</p>",
+            "source": "SHB S. 152"
         },
         "Cloak of Arachnida": {
             "name": ""
@@ -454,7 +530,9 @@
             "name": ""
         },
         "Component Pouch": {
-            "name": ""
+            "name": "Materialkomponentenbeutel",
+            "description": "<p>Ein Materialkomponentenbeutel ist eine kleine, wasserdichte Ledergürteltasche. In ihm befinden sich in separaten Fächern all jene Materialien und anderen speziellen Gegenstände, die du zum Wirken deiner Zauber benötigst. Komponenten, die in der Beschreibung des Zaubers mit Kosten aufgeführt sind, sind nicht im Beutel enthalten.</p>",
+            "source": "SHB S. 152"
         },
         "Cook's Utensils": {
             "name": ""
@@ -517,19 +595,29 @@
             "name": ""
         },
         "Dancing Greatsword": {
-            "name": ""
+            "name": "Tanzendes Zweihandschwert",
+            "description": "<p>Waffe, sehr selten (benötigt Einstimmung)</p>\n<p>Du kannst eine Bonusaktion aufwenden, um das Schwert in die Luft zu werfen und sein Befehlswort zu sprechen. Wenn du das tust, beginnt das Schwert zu schweben, fliegt bis zu 9 Meter hoch und greift eine Kreatur deiner Wahl in einem Umkreis von 1,50 Metern zu sich an. Das Schwert nutzt deinen Angriffswurf und deinen Attributsmodifikator für Schadenswürfe. Während das Schwert schwebt, kannst du eine Bonusaktion aufwenden, um es dazu zu bringen, bis zu 9 Meter hoch zu einem anderen Ort innerhalb von 9 Metern von dir zu fliegen. Als Teil der gleichen Bonusaktion kannst du dem Schwert befehlen, eine Kreatur innerhalb von 1,50 Meter zu sich anzugreifen.</p>\n<p>Nachdem das schwebende Schwert zum vierten Mal angegriffen hat, fliegt es bis zu 9 Meter und versucht, zu deiner Hand zurückzukehren. Wenn du keine Hand frei hast, fällt es zu deinen Füßen auf den Boden. Wenn das Schwert keinen unbehinderten Weg zu dir hat, bewegt es sich so nahe wie möglich zu dir hin und fällt dann zu Boden. Es hört auch auf zu schweben, wenn du es ergreifst oder mehr als 9 Meter davon entfernt bist.</p>",
+            "source": "SLH S. 193"
         },
         "Dancing Longsword": {
-            "name": ""
+            "name": "Tanzendes Langschwert",
+            "description": "<p><em>Waffe, sehr selten (benötigt Einstimmung)</em></p>\n<p>Du kannst eine Bonusaktion aufwenden, um das Schwert in die Luft zu werfen und sein Befehlswort zu sprechen. Wenn du das tust, beginnt das Schwert zu schweben, fliegt bis zu 9 Meter hoch und greift eine Kreatur deiner Wahl in einem Umkreis von 1,50 Metern zu sich an. Das Schwert nutzt deinen Angriffswurf und deinen Attributsmodifikator für Schadenswürfe. Während das Schwert schwebt, kannst du eine Bonusaktion aufwenden, um es dazu zu bringen, bis zu 9 Meter hoch zu einem anderen Ort innerhalb von 9 Metern von dir zu fliegen. Als Teil der gleichen Bonusaktion kannst du dem Schwert befehlen, eine Kreatur innerhalb von 1,50 Meter zu sich anzugreifen.</p>\n<p>Nachdem das schwebende Schwert zum vierten Mal angegriffen hat, fliegt es bis zu 9 Meter und versucht, zu deiner Hand zurückzukehren. Wenn du keine Hand frei hast, fällt es zu deinen Füßen auf den Boden. Wenn das Schwert keinen unbehinderten Weg zu dir hat, bewegt es sich so nahe wie möglich zu dir hin und fällt dann zu Boden. Es hört auch auf zu schweben, wenn du es ergreifst oder mehr als 9 Meter davon entfernt bist.</p>",
+            "source": "SLH S. 193"
         },
         "Dancing Rapier": {
-            "name": ""
+            "name": "Tanzendes Rapier",
+            "description": "<p>Waffe, sehr selten (benötigt Einstimmung)</p>\n<p>Du kannst eine Bonusaktion aufwenden, um das Schwert in die Luft zu werfen und sein Befehlswort zu sprechen. Wenn du das tust, beginnt das Schwert zu schweben, fliegt bis zu 9 Meter hoch und greift eine Kreatur deiner Wahl in einem Umkreis von 1,50 Metern zu sich an. Das Schwert nutzt deinen Angriffswurf und deinen Attributsmodifikator für Schadenswürfe. Während das Schwert schwebt, kannst du eine Bonusaktion aufwenden, um es dazu zu bringen, bis zu 9 Meter hoch zu einem anderen Ort innerhalb von 9 Metern von dir zu fliegen. Als Teil der gleichen Bonusaktion kannst du dem Schwert befehlen, eine Kreatur innerhalb von 1,50 Meter zu sich anzugreifen.</p>\n<p>Nachdem das schwebende Schwert zum vierten Mal angegriffen hat, fliegt es bis zu 9 Meter und versucht, zu deiner Hand zurückzukehren. Wenn du keine Hand frei hast, fällt es zu deinen Füßen auf den Boden. Wenn das Schwert keinen unbehinderten Weg zu dir hat, bewegt es sich so nahe wie möglich zu dir hin und fällt dann zu Boden. Es hört auch auf zu schweben, wenn du es ergreifst oder mehr als 9 Meter davon entfernt bist.</p>",
+            "source": "SLH S. 193"
         },
         "Dancing Scimitar": {
-            "name": ""
+            "name": "Tanzender Krummsäbel",
+            "description": "<p>Waffe, sehr selten (benötigt Einstimmung)</p>\n<p>Du kannst eine Bonusaktion aufwenden, um das Schwert in die Luft zu werfen und sein Befehlswort zu sprechen. Wenn du das tust, beginnt das Schwert zu schweben, fliegt bis zu 9 Meter hoch und greift eine Kreatur deiner Wahl in einem Umkreis von 1,50 Metern zu sich an. Das Schwert nutzt deinen Angriffswurf und deinen Attributsmodifikator für Schadenswürfe. Während das Schwert schwebt, kannst du eine Bonusaktion aufwenden, um es dazu zu bringen, bis zu 9 Meter hoch zu einem anderen Ort innerhalb von 9 Metern von dir zu fliegen. Als Teil der gleichen Bonusaktion kannst du dem Schwert befehlen, eine Kreatur innerhalb von 1,50 Meter zu sich anzugreifen.</p>\n<p>Nachdem das schwebende Schwert zum vierten Mal angegriffen hat, fliegt es bis zu 9 Meter und versucht, zu deiner Hand zurückzukehren. Wenn du keine Hand frei hast, fällt es zu deinen Füßen auf den Boden. Wenn das Schwert keinen unbehinderten Weg zu dir hat, bewegt es sich so nahe wie möglich zu dir hin und fällt dann zu Boden. Es hört auch auf zu schweben, wenn du es ergreifst oder mehr als 9 Meter davon entfernt bist.</p>",
+            "source": "SLH S. 193"
         },
         "Dancing Shortsword": {
-            "name": ""
+            "name": "Tanzendes Kurzschwert",
+            "description": "<p>Waffe, sehr selten (benötigt Einstimmung)</p>\n<p>Du kannst eine Bonusaktion aufwenden, um das Schwert in die Luft zu werfen und sein Befehlswort zu sprechen. Wenn du das tust, beginnt das Schwert zu schweben, fliegt bis zu 9 Meter hoch und greift eine Kreatur deiner Wahl in einem Umkreis von 1,50 Metern zu sich an. Das Schwert nutzt deinen Angriffswurf und deinen Attributsmodifikator für Schadenswürfe. Während das Schwert schwebt, kannst du eine Bonusaktion aufwenden, um es dazu zu bringen, bis zu 9 Meter hoch zu einem anderen Ort innerhalb von 9 Metern von dir zu fliegen. Als Teil der gleichen Bonusaktion kannst du dem Schwert befehlen, eine Kreatur innerhalb von 1,50 Meter zu sich anzugreifen.</p>\n<p>Nachdem das schwebende Schwert zum vierten Mal angegriffen hat, fliegt es bis zu 9 Meter und versucht, zu deiner Hand zurückzukehren. Wenn du keine Hand frei hast, fällt es zu deinen Füßen auf den Boden. Wenn das Schwert keinen unbehinderten Weg zu dir hat, bewegt es sich so nahe wie möglich zu dir hin und fällt dann zu Boden. Es hört auch auf zu schweben, wenn du es ergreifst oder mehr als 9 Meter davon entfernt bist.</p>",
+            "source": "SLH S. 193"
         },
         "Dart": {
             "name": ""
@@ -547,10 +635,13 @@
             "name": ""
         },
         "Deck of Illusions": {
-            "name": ""
+            "name": "Karten der Illusionen",
+            "description": "<p><em>Wundersamer Gegenstand, ungewöhnlich</em></p>\n<p>Diese Box enthält einen Satz Pergamentkarten. Ein voller Kartensatz hat 34 Karten. Einern Satz, welcher als Schatz gefunden wird, fehlen in der Regel 1 W20 - 1 Karten. Die Magie der Karten funktioniert nur, wenn sie zufällig gezogen werden (du kannst ein abgeändertes Kartenspiel verwenden, um diese Karten nachzuahmen). Du kannst eine Aktion verwenden, um eine zufällige Karte aus dem Stoß zu ziehen und sie an einer Stelle innerhalb von 9 m zu dir zu Boden zu werfen. Eine Illusion von einer oder mehreren Kreaturen bildet sich über der geworfenen Karte und bleibt bestehen, bis sie vertrieben wird. Eine illusionäre Kreatur erscheint real, hat die entsprechende Größe und verhält sich, als wäre sie eine echte Kreatur (wie im <em>Monster Manual (Monsterhandbuch)</em> dargestellt wird), außer dass sie keinen Schaden zufügen kann. Während du innerhalb von 36 Metern zu der Kreatur bist und sie sehen kannst, kannst du eine Aktion aufwenden, um zu veranlassen, dass die Kreatur sich auf magische Weise irgendwohin bewegt, solange es innerhalb von 9 m zu der Karte ist. Jede physische Interaktion mit der Kreatur deckt auf, dass es sich um eine Illusion handelt, da Objekte durch die Illusion dringen können. Jemand, der eine Aktion benutzt, um die Kreatur visuell zu inspizieren, identifiziert sie als Illusion, wenn er bei einem Wurf auf Intelligenz (Nachforschung) gegen SG 15 erfolgreich ist. Die Kreatur erscheint dann lichtdurchlässig.</p>\n<p>Die Illusion dauert an, bis die Karte bewegt oder die Illusion vertrieben wird. Wenn die Illusion endet, verschwindet das Bild auf der Karte, und diese Karte kann nicht erneut verwendet werden.</p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 46.5916%;\"><strong>Spielkarte</strong></td>\n<td style=\"width: 46.5916%;\"><strong>Illusion</strong></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Herz Ass</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><em style=\"color: rgba(0, 0, 0, 0.7); font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental}</em></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Herz König</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.D5UqYD1EnTrJaMTO]{Knight} und vier @Compendium[dnd5e.monsters.E9CvDPDg5dFEpVjS]{Guard}s</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Herz Dame</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Sukkubus oder Inkubus</td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Herz Bube</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.K15Yl8JmB5iPircc]{Druid}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Herz Zehn</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.Aw2wmqGIatxe2ImI]{Cloud Giant}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Herz Neun</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.KLCkHep28HBfdsky]{Ettin}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Herz Acht</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.QtJairF0h18BRhEM]{Bugbear}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Herz Zwei</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.TjWQOgI3A4UAl7lC]{Goblin}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Karo Ass</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Betrachter</td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Karo König</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.B7lBOr1AahNZs4a6]{Archmage} und Magierlehrling</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Karo Dame</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.xvh2UOKv1bh03Gih]{Night Hag}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Karo Bube</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.EMvcuOpu7ABCmBWi]{Assassin}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Karo Zehn</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.45Z5kogZEhawX1Ey]{Fire Giant}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Karo Neun</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Ogermagier</td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Karo Acht</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.R2GPY9BhRmmwZwkh]{Gnoll}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Karo Zwei</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.5ngbctIMeEnuC1p1]{Kobold}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Pik Ass</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.bfh29vIEoGzI240e]{Lich}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Pik König</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.PVD5wRdyO7iCJPs1]{Priest} und zwei @Compendium[dnd5e.monsters.CHEUjiYrVM9X0vIT]{Acolyte}en</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Pik Dame</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Medusa</td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Pik Bube</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.J8xjoG4Dxb8WkHtV]{Veteran}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Pik Zehn</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.Buxe6dDK5Mw7kxe6]{Frost Giant}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Pik Neun</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.ZHAFrnCwCz17dmLc]{Troll}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Pik Acht</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.pYXovIksKvzswLCu]{Hobgoblin}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Pik Zwei</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.TjWQOgI3A4UAl7lC]{Goblin}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Kreuz Ass</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.h98AuPfomEPcCibP]{Iron Golem}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Kreuz König</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.rb7OJt822wIO52qY]{Bandit Captain} und drei @Compendium[dnd5e.monsters.n4TEv7inVUkyZviN]{Bandit}en</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Kreuz  Dame</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.3o2rQBqpzjIHmrBW]{Erinyes}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Kreuz Bube</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.kz1t6xeXVwODpYb2]{Berserker}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Kreuz Zehn</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.9g4N9sjyh8Ql46to]{Hill Giant}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Kreuz Neun</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.eIGowKTkEBC9gUzx]{Ogre}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Kreuz Acht</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.LBf4Yyuv0i8pALW7]{Orc}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Kreuz Zwei</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\"><span style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.5ngbctIMeEnuC1p1]{Kobold}</span></td>\n</tr>\n<tr>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Joker (2)</td>\n<td style=\"width: 46.5916%; text-align: left; vertical-align: top;\">Du selbst (Besitzer des Decks)</td>\n</tr>\n</tbody>\n</table>",
+            "source": "SLH S. 170"
         },
         "Deck of Many Things": {
-            "name": ""
+            "name": "Schicksalskarten",
+            "source": "SLH S. 183"
         },
         "Defender Greatsword": {
             "name": ""
@@ -601,13 +692,19 @@
             "name": ""
         },
         "Dust of Disappearance": {
-            "name": ""
+            "name": "Staub des Verschwindens",
+            "description": "<p><em>Wundersamer Gegenstand, ungewöhnlich</em></p>\n<p>In einem kleinen Paket aufbewahrt, ähnelt dieses Pulver feinem Sand. Es gibt genug davon für einen Gebrauch. Wenn du eine Aktion verwendest, um den Staub in die Luft zu werfen, werden du und jede Kreatur und jedes Objekt innerhalb von 3 Metern zu dir für 2W4 Minuten unsichtbar. Die Dauer ist für alle Wesen und Objekte gleich, und der Staub wird aufgebraucht, wenn seine Magie einsetzt. Wenn eine durch den Staub unsichtbare Kreatur angreift oder einen Zauber wirkt, endet die Unsichtbarkeit dieser Kreatur.</p>",
+            "source": "SLH S. 191"
         },
         "Dust of Dryness": {
-            "name": ""
+            "name": "Staub der Trockenheit",
+            "description": "<p><em>Wundersamer Gegenstand, ungewöhnlich</em></p>\n<p>Dieses kleine Paket enthält 1W6 + 4 Prisen Staub. Du kannst eine Aktion verwenden, um eine Prise davon über Wasser zu streuen. Der Staub lässt einen Würfel des Wassers von 4,5 Meter Seitenlänge zu einer Kugel in Größe einer Murmel werden, die in der Nähe des verstreuten Sands schwebt oder liegt. Das Gewicht der Kugel ist unbedeutend. Jemand kann eine Aktion aufwenden, um die Kugel gegen eine harte Oberfläche zu schlagen und so zu zerbrechen, was das Wasser, das vom Sand absorbiert wurde, freisetzt. Wenn dies getan wird, endet die Magie der Kugel.</p>\n<p>Ein Elementar, welcher hauptsächlich aus Wasser besteht und einer Prise dieses Staubs ausgesetzt ist, muss einen Konstitutionsrettungswurf gegen SG 13 schaffen. Bei einem Fehlschlag nimmt er 10W6 nekrotischen Schaden und bei einem Erfolg die Hälfte davon.</p>",
+            "source": "SLH S. 191"
         },
         "Dust of Sneezing and Choking": {
-            "name": ""
+            "name": "Staub des Niesens und Erstickens",
+            "description": "<p><em>Wundersamer Gegenstand, ungewöhnlich</em></p>\n<p>Dieses Pulver, das sich in einem kleinen Behälter befindet, ähnelt feinem Sand. Es scheint sich um <em>Staub des Verschwindens</em> zu handeln, und der Zauber <em>Identifizieren</em> gibt Preis, dass es sich auch darum handelt. Es gibt genug davon für einen Gebrauch.</p>\n<p>Wenn du eine Aktion verwendest, um den Staub in die Luft zu werfen, müssen du und jede atmende Kreatur innerhalb von 9 Metern zu dir einen Konstitutionsrettungswurf gegen SG 15 schaffen, andernfalls werdet ihr nicht länger atmen können und müsst stetig unkontrolliert niesen. Eine Kreatur in diesem Zustand ist kampfunfähig und erstickt. So lange sie bei Bewusstsein ist, kann eine Kreatur den Rettungswurf jedes Mal am Ende ihres Zuges wiederholen, um den Effekt zu beenden. Der Zauber <em>Schwache Genesung</em> kann den Effekt auf eine Kreatur ebenfalls beenden.</p>",
+            "source": "SLH S. 191"
         },
         "Dwarven Plate": {
             "name": ""
@@ -622,19 +719,29 @@
             "name": ""
         },
         "Elemental Gem of Air": {
-            "name": ""
+            "name": "Elementarer Edelstein der Luft",
+            "description": "<p><em>Wundersamer Gegenstand, ungewöhnlich</em></p>\n<p>Dieser blaue Saphir enthält einen Funken elementarer Energie. Wenn du eine Aktion dazu verwendest, den Edelstein zu zerbrechen, wird ein <span style=\"color: rgba(0, 0, 0, 0.7); font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.banHjKDMCegbUwYE]{Air Elemental}</span> beschworen, so als hättest du den Zauber <span style=\"color: rgba(0, 0, 0, 0.7); font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental}</span> gewirkt, und die Magie des Edelsteins geht verloren.</p>",
+            "source": "SLH S. 158"
         },
         "Elemental Gem of Earth": {
-            "name": ""
+            "name": "Elementarer Edelstein der Erde",
+            "description": "<p><em>Wundersamer Gegenstand, ungewöhnlich</em></p>\n<p>Dieser blaue Saphir enthält einen Funken elementarer Energie. Wenn du eine Aktion dazu verwendest, den Edelstein zu zerbrechen, wird ein <span style=\"color: rgba(0, 0, 0, 0.7); font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.sApYLZj9PTZ40wJr]{Earth Elemental}</span> beschworen, so als hättest du den Zauber <span style=\"color: rgba(0, 0, 0, 0.7); font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental}</span> gewirkt, und die Magie des Edelsteins geht verloren.</p>",
+            "source": "SLH S. 158"
         },
         "Elemental Gem of Fire": {
-            "name": ""
+            "name": "Elementarer Edelstein des Feuers",
+            "description": "<p><em>Wundersamer Gegenstand, ungewöhnlich</em></p>\n<p>Dieser blaue Saphir enthält einen Funken elementarer Energie. Wenn du eine Aktion dazu verwendest, den Edelstein zu zerbrechen, wird ein <span style=\"color: rgba(0, 0, 0, 0.7); font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.8SMQl75HLjhuSeau]{Fire Elemental}</span> beschworen, so als hättest du den Zauber <span style=\"color: rgba(0, 0, 0, 0.7); font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental}</span> gewirkt, und die Magie des Edelsteins geht verloren.</p>",
+            "source": "SLH S. 158"
         },
         "Elemental Gem of Water": {
-            "name": ""
+            "name": "Elementarer Edelstein des Wassers",
+            "description": "<p><em>Wundersamer Gegenstand, ungewöhnlich</em></p>\n<p>Dieser blaue Saphir enthält einen Funken elementarer Energie. Wenn du eine Aktion dazu verwendest, den Edelstein zu zerbrechen, wird ein <span style=\"color: rgba(0, 0, 0, 0.7); font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.monsters.namJz755U1EhvEJa]{Water Elemental}</span> beschworen, so als hättest du den Zauber <span style=\"color: rgba(0, 0, 0, 0.7); font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">@Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental}</span> gewirkt, und die Magie des Edelsteins geht verloren.</p>",
+            "source": "SLH S. 158"
         },
         "Elven Chain": {
-            "name": ""
+            "name": "Elfenrüstung",
+            "description": "<p><em>Rüstung (Kettenhemd), selten</em></p>\n<p>Du erhältst einen Bonus von +1 auf deine Rüstungsklasse, während du diese Rüstung trägst. Du bist mit dieser Rüstung geübt, selbst wenn dir die Übung für mittelschwere Rüstung fehlt.</p>",
+            "source": "SLH S. 158"
         },
         "Emblem": {
             "name": ""
@@ -955,7 +1062,9 @@
             "name": ""
         },
         "Healer's Kit": {
-            "name": ""
+            "name": "Heilerausrüstung",
+            "description": "<p>Dieses Set ist ein Lederbeutel, der Bandagen, Salben und Schienen enthält. Es reicht für zehn Anwendungen. Als Aktion kannst du eine Anwendung aufbrauchen um eine Kreatur mit 0 Trefferpunkte zu stabilisieren, ohne das du einen Wurf auf Weisheit (Heilkunde) ablgegen musst.</p>",
+            "source": "SHB S. 151"
         },
         "Heavy Crossbow": {
             "name": ""
@@ -982,7 +1091,9 @@
             "name": ""
         },
         "Hempen Rope (50 ft.)": {
-            "name": ""
+            "name": "Seil aus Hanf (15m)",
+            "description": "<p>Seile, ob aus Hanf oder Seide gefertigt, haben 2 Trefferpunkte und können mit einem Stärkewurf gegen SG 17 zerrissen werden.</p>",
+            "source": "SHB S. 153"
         },
         "Herbalism Kit": {
             "name": ""
@@ -1051,46 +1162,74 @@
             "name": ""
         },
         "Ioun Stone of Absorption": {
-            "name": ""
+            "name": "Ionenstein der Absorption",
+            "description": "<p><em>Wundersamer Gegenstand, sehr selten (benötigt Einstimmung)</em></p>\n<p>Ein Ionenstein ist nach Ion benannt, der in einigen Welten als Gottheit des Wissens und der Prophezeiung verehrt wird. Viele Arten des Ionensteins existieren, jede Art hat eine eigene Kombination von Form und Farbe.</p>\n<p>Wenn du eine Aktion aufwendest, um einen dieser Steine in die Luft zu werfen, umkreist der Stein deinen Kopf in einer Entfernung von 1W3 x 0,30 Meter und bietet dir dadurch einen Vorteil. Eine andere Kreatur muss daraufhin selbst eine Aktion verwenden, um nach dem Stein zu greifen oder ihn mit einem Netz zu erfassen und ihn somit von dir zu trennen. Dies geschieht bei einem erfolgreichen Angriffswurf gegen SG 24 oder einem erfolgreichen Wurf auf Geschicklichkeit (Akrobatik) gegen SG 24. Du kannst eine Aktion verwenden, um den Stein zu ergreifen und zu verstauen, was seinen Effekt beendet. Ein Stein hat eine Rüstungsklasse von 24, 10 Trefferpunkte und Resistenz gegen alle Schadensarten. Er wird als angelegtes Objekt angesehen, wenn er um deinen Kopf kreist.</p>\n<p><strong>Absorption.</strong> Während dieser blass lavendelfarbene Ellipsoid deinen Kopf umkreist, kannst du deine Reaktion verwenden um einen Zauber des Grads 4 oder niedriger abzubrechen, wenn du die wirkende Kreatur siehst und nur du ihr Ziel bist. Sobald der Stein 20 Zaubergrade abgebrochen hat, brennt er aus und wird mattgrau, seine Magie ist verloren. Wenn du von einem Zauber erfasst wirst, dessen Grad höher ist als die verbleibenden Zaubergrade des Steins, kannst du ihn nicht abbrechen.</p>",
+            "source": "SLH S. 169"
         },
         "Ioun Stone of Agility": {
-            "name": ""
+            "name": "Ionenstein der Agilität",
+            "description": "<p><em>Wundersamer Gegenstand, sehr selten (benötigt Einstimmung)</em></p>\n<p>Ein Ionenstein ist nach Ion benannt, der in einigen Welten als Gottheit des Wissens und der Prophezeiung verehrt wird. Viele Arten des Ionensteins existieren, jede Art hat eine eigene Kombination von Form und Farbe.</p>\n<p>Wenn du eine Aktion aufwendest, um einen dieser Steine in die Luft zu werfen, umkreist der Stein deinen Kopf in einer Entfernung von 1W3 x 0,30 Meter und bietet dir dadurch einen Vorteil. Eine andere Kreatur muss daraufhin selbst eine Aktion verwenden, um nach dem Stein zu greifen oder ihn mit einem Netz zu erfassen und ihn somit von dir zu trennen. Dies geschieht bei einem erfolgreichen Angriffswurf gegen SG 24 oder einem erfolgreichen Wurf auf Geschicklichkeit (Akrobatik) gegen SG 24. Du kannst eine Aktion verwenden, um den Stein zu ergreifen und zu verstauen, was seinen Effekt beendet. Ein Stein hat eine Rüstungsklasse von 24, 10 Trefferpunkte und Resistenz gegen alle Schadensarten. Er wird als angelegtes Objekt angesehen, wenn er um deinen Kopf kreist.</p>\n<p><strong>Agilität.</strong> Dein Geschicklichkeitswert erhöht sich um 2 bis zu einem Maximum von 20, wenn diese rote Kugel um deinen Kopf kreist.</p>",
+            "source": "SLH S. 169"
         },
         "Ioun Stone of Awareness": {
-            "name": ""
+            "name": "Ionenstein der Wahrnehmung",
+            "description": "<p><em>Wundersamer Gegenstand, selten (benötigt Einstimmung)</em></p>\n<p>Ein Ionenstein ist nach Ion benannt, der in einigen Welten als Gottheit des Wissens und der Prophezeiung verehrt wird. Viele Arten des Ionensteins existieren, jede Art hat eine eigene Kombination von Form und Farbe.</p>\n<p>Wenn du eine Aktion aufwendest, um einen dieser Steine in die Luft zu werfen, umkreist der Stein deinen Kopf in einer Entfernung von 1W3 x 0,30 Meter und bietet dir dadurch einen Vorteil. Eine andere Kreatur muss daraufhin selbst eine Aktion verwenden, um nach dem Stein zu greifen oder ihn mit einem Netz zu erfassen und ihn somit von dir zu trennen. Dies geschieht bei einem erfolgreichen Angriffswurf gegen SG 24 oder einem erfolgreichen Wurf auf Geschicklichkeit (Akrobatik) gegen SG 24. Du kannst eine Aktion verwenden, um den Stein zu ergreifen und zu verstauen, was seinen Effekt beendet. Ein Stein hat eine Rüstungsklasse von 24, 10 Trefferpunkte und Resistenz gegen alle Schadensarten. Er wird als angelegtes Objekt angesehen, wenn er um deinen Kopf kreist.</p>\n<p><strong>Wahrnehmung.</strong> Du kannst nicht überrascht werden, während dieser dunkelblaue, rautenförmige Stein deinen Kopf umkreist.</p>",
+            "source": "SLH S. 169"
         },
         "Ioun Stone of Fortitude": {
-            "name": ""
+            "name": "Ionenstein der Standhaftigkeit",
+            "description": "<p><em>Wundersamer Gegenstand, sehr selten (benötigt Einstimmung)</em></p>\n<p>Ein Ionenstein ist nach Ion benannt, der in einigen Welten als Gottheit des Wissens und der Prophezeiung verehrt wird. Viele Arten des Ionensteins existieren, jede Art hat eine eigene Kombination von Form und Farbe.</p>\n<p>Wenn du eine Aktion aufwendest, um einen dieser Steine in die Luft zu werfen, umkreist der Stein deinen Kopf in einer Entfernung von 1W3 x 0,30 Meter und bietet dir dadurch einen Vorteil. Eine andere Kreatur muss daraufhin selbst eine Aktion verwenden, um nach dem Stein zu greifen oder ihn mit einem Netz zu erfassen und ihn somit von dir zu trennen. Dies geschieht bei einem erfolgreichen Angriffswurf gegen SG 24 oder einem erfolgreichen Wurf auf Geschicklichkeit (Akrobatik) gegen SG 24. Du kannst eine Aktion verwenden, um den Stein zu ergreifen und zu verstauen, was seinen Effekt beendet. Ein Stein hat eine Rüstungsklasse von 24, 10 Trefferpunkte und Resistenz gegen alle Schadensarten. Er wird als angelegtes Objekt angesehen, wenn er um deinen Kopf kreist.</p>\n<p><strong>Standhaftigkeit.</strong> Dein Konstitutionswert erhöht sich um 2 bis zu einem Maximum von 20, wenn dieser rosarote, rautenförmige Stein um deinen Kopf kreist.</p>",
+            "source": "SLH S. 169"
         },
         "Ioun Stone of Greater Absorption": {
-            "name": ""
+            "name": "Ionenstein der höheren Absorption",
+            "description": "<p><em>Wundersamer Gegenstand, legendär (benötigt Einstimmung)</em></p>\n<p>Ein Ionenstein ist nach Ion benannt, der in einigen Welten als Gottheit des Wissens und der Prophezeiung verehrt wird. Viele Arten des Ionensteins existieren, jede Art hat eine eigene Kombination von Form und Farbe.</p>\n<p>Wenn du eine Aktion aufwendest, um einen dieser Steine in die Luft zu werfen, umkreist der Stein deinen Kopf in einer Entfernung von 1W3 x 0,30 Meter und bietet dir dadurch einen Vorteil. Eine andere Kreatur muss daraufhin selbst eine Aktion verwenden, um nach dem Stein zu greifen oder ihn mit einem Netz zu erfassen und ihn somit von dir zu trennen. Dies geschieht bei einem erfolgreichen Angriffswurf gegen SG 24 oder einem erfolgreichen Wurf auf Geschicklichkeit (Akrobatik) gegen SG 24. Du kannst eine Aktion verwenden, um den Stein zu ergreifen und zu verstauen, was seinen Effekt beendet. Ein Stein hat eine Rüstungsklasse von 24, 10 Trefferpunkte und Resistenz gegen alle Schadensarten. Er wird als angelegtes Objekt angesehen, wenn er um deinen Kopf kreist.</p>\n<p><strong>Höhere Absorption.</strong> Wenn dieser lavendelfarben und grün marmorierte Ellipsoid um deinen Kopf kreist, kannst du deine Reaktion verwenden, um einen Zauber des Grads 8 oder niedriger abzubrechen, wenn du die wirkende Kreatur siehst und nur du ihr Ziel bist.</p>\n<p>Sobald der Stein 50 Zaubergrade abgebrochen hat, brennt er aus und wird mattgrau, seine Magie ist verloren. Wenn du von einem Zauber erfasst wirst, dessen Grad höher ist als die verbleibenden Zaubergrade des Steins, kannst du ihn nicht abbrechen.</p>",
+            "source": "SLH S. 169"
         },
         "Ioun Stone of Insight": {
-            "name": ""
+            "name": "Ionenstein der Erkenntnis",
+            "description": "<p><em>Wundersamer Gegenstand, sehr selten (benötigt Einstimmung)</em></p>\n<p>Ein Ionenstein ist nach Ion benannt, der in einigen Welten als Gottheit des Wissens und der Prophezeiung verehrt wird. Viele Arten des Ionensteins existieren, jede Art hat eine eigene Kombination von Form und Farbe.</p>\n<p>Wenn du eine Aktion aufwendest, um einen dieser Steine in die Luft zu werfen, umkreist der Stein deinen Kopf in einer Entfernung von 1W3 x 0,30 Meter und bietet dir dadurch einen Vorteil. Eine andere Kreatur muss daraufhin selbst eine Aktion verwenden, um nach dem Stein zu greifen oder ihn mit einem Netz zu erfassen und ihn somit von dir zu trennen. Dies geschieht bei einem erfolgreichen Angriffswurf gegen SG 24 oder einem erfolgreichen Wurf auf Geschicklichkeit (Akrobatik) gegen SG 24. Du kannst eine Aktion verwenden, um den Stein zu ergreifen und zu verstauen, was seinen Effekt beendet. Ein Stein hat eine Rüstungsklasse von 24, 10 Trefferpunkte und Resistenz gegen alle Schadensarten. Er wird als angelegtes Objekt angesehen, wenn er um deinen Kopf kreist.</p>\n<p><strong>Erkenntnis.</strong> Dein Weisheitswert erhöht sich um 2 bis zu einem Maximum von 20, wenn diese hell leuchtende, blaue Kugel um deinen Kopf kreist.</p>",
+            "source": "SLH S. 169"
         },
         "Ioun Stone of Intellect": {
-            "name": ""
+            "name": "Ionenstein des Verstands",
+            "description": "<p><em>Wundersamer Gegenstand, sehr selten (benötigt Einstimmung)</em></p>\n<p>Ein Ionenstein ist nach Ion benannt, der in einigen Welten als Gottheit des Wissens und der Prophezeiung verehrt wird. Viele Arten des Ionensteins existieren, jede Art hat eine eigene Kombination von Form und Farbe.</p>\n<p>Wenn du eine Aktion aufwendest, um einen dieser Steine in die Luft zu werfen, umkreist der Stein deinen Kopf in einer Entfernung von 1W3 x 0,30 Meter und bietet dir dadurch einen Vorteil. Eine andere Kreatur muss daraufhin selbst eine Aktion verwenden, um nach dem Stein zu greifen oder ihn mit einem Netz zu erfassen und ihn somit von dir zu trennen. Dies geschieht bei einem erfolgreichen Angriffswurf gegen SG 24 oder einem erfolgreichen Wurf auf Geschicklichkeit (Akrobatik) gegen SG 24. Du kannst eine Aktion verwenden, um den Stein zu ergreifen und zu verstauen, was seinen Effekt beendet. Ein Stein hat eine Rüstungsklasse von 24, 10 Trefferpunkte und Resistenz gegen alle Schadensarten. Er wird als angelegtes Objekt angesehen, wenn er um deinen Kopf kreist.</p>\n<p><strong>Verstand.</strong> Dein Intelligenzwert erhöht sich um 2 bis zu einem Maximum von 20, wenn diese dunkelrot und blau marmorierte Kugel um deinen Kopf kreist.</p>",
+            "source": "SLH S. 169"
         },
         "Ioun Stone of Leadership": {
-            "name": ""
+            "name": "Ionenstein der Führungskraft",
+            "description": "<p><em>Wundersamer Gegenstand, sehr selten (benötigt Einstimmung)</em></p>\n<p>Ein Ionenstein ist nach Ion benannt, der in einigen Welten als Gottheit des Wissens und der Prophezeiung verehrt wird. Viele Arten des Ionensteins existieren, jede Art hat eine eigene Kombination von Form und Farbe.</p>\n<p>Wenn du eine Aktion aufwendest, um einen dieser Steine in die Luft zu werfen, umkreist der Stein deinen Kopf in einer Entfernung von 1W3 x 0,30 Meter und bietet dir dadurch einen Vorteil. Eine andere Kreatur muss daraufhin selbst eine Aktion verwenden, um nach dem Stein zu greifen oder ihn mit einem Netz zu erfassen und ihn somit von dir zu trennen. Dies geschieht bei einem erfolgreichen Angriffswurf gegen SG 24 oder einem erfolgreichen Wurf auf Geschicklichkeit (Akrobatik) gegen SG 24. Du kannst eine Aktion verwenden, um den Stein zu ergreifen und zu verstauen, was seinen Effekt beendet. Ein Stein hat eine Rüstungsklasse von 24, 10 Trefferpunkte und Resistenz gegen alle Schadensarten. Er wird als angelegtes Objekt angesehen, wenn er um deinen Kopf kreist.</p>\n<p><strong>Führungskraft.</strong> Dein Charismawert erhöht sich um 2 bis zu einem Maximum von 20, wenn diese pink und grün marmorierte Kugel um deinen Kopf kreist.</p>",
+            "source": "SLH S. 169"
         },
         "Ioun Stone of Mastery": {
-            "name": ""
+            "name": "Ionenstein der Meisterschaft",
+            "description": "<p><em>Wundersamer Gegenstand, legendär (benötigt Einstimmung)</em></p>\n<p>Ein Ionenstein ist nach Ion benannt, der in einigen Welten als Gottheit des Wissens und der Prophezeiung verehrt wird. Viele Arten des Ionensteins existieren, jede Art hat eine eigene Kombination von Form und Farbe.</p>\n<p>Wenn du eine Aktion aufwendest, um einen dieser Steine in die Luft zu werfen, umkreist der Stein deinen Kopf in einer Entfernung von 1W3 x 0,30 Meter und bietet dir dadurch einen Vorteil. Eine andere Kreatur muss daraufhin selbst eine Aktion verwenden, um nach dem Stein zu greifen oder ihn mit einem Netz zu erfassen und ihn somit von dir zu trennen. Dies geschieht bei einem erfolgreichen Angriffswurf gegen SG 24 oder einem erfolgreichen Wurf auf Geschicklichkeit (Akrobatik) gegen SG 24. Du kannst eine Aktion verwenden, um den Stein zu ergreifen und zu verstauen, was seinen Effekt beendet. Ein Stein hat eine Rüstungsklasse von 24, 10 Trefferpunkte und Resistenz gegen alle Schadensarten. Er wird als angelegtes Objekt angesehen, wenn er um deinen Kopf kreist.</p>\n<p><strong>Meisterschaft.</strong> Dein Übungsbonus erhöht sich um 1, wenn dieses hellgrüne Prisma um deinen Kopf kreist.</p>",
+            "source": "SLH S. 169"
         },
         "Ioun Stone of Protection": {
-            "name": ""
+            "name": "Ionenstein des Schutzes",
+            "description": "<p><em>Wundersamer Gegenstand, selten (benötigt Einstimmung)</em></p>\n<p>Ein Ionenstein ist nach Ion benannt, der in einigen Welten als Gottheit des Wissens und der Prophezeiung verehrt wird. Viele Arten des Ionensteins existieren, jede Art hat eine eigene Kombination von Form und Farbe.</p>\n<p>Wenn du eine Aktion aufwendest, um einen dieser Steine in die Luft zu werfen, umkreist der Stein deinen Kopf in einer Entfernung von 1W3 x 0,30 Meter und bietet dir dadurch einen Vorteil. Eine andere Kreatur muss daraufhin selbst eine Aktion verwenden, um nach dem Stein zu greifen oder ihn mit einem Netz zu erfassen und ihn somit von dir zu trennen. Dies geschieht bei einem erfolgreichen Angriffswurf gegen SG 24 oder einem erfolgreichen Wurf auf Geschicklichkeit (Akrobatik) gegen SG 24. Du kannst eine Aktion verwenden, um den Stein zu ergreifen und zu verstauen, was seinen Effekt beendet. Ein Stein hat eine Rüstungsklasse von 24, 10 Trefferpunkte und Resistenz gegen alle Schadensarten. Er wird als angelegtes Objekt angesehen, wenn er um deinen Kopf kreist.</p>\n<p><strong>Schutz.</strong> Du erhältst einen Bonus von + 1 auf deine Rüstungsklasse, wenn dieses zartrosarote Prisma um deinen Kopf kreist.</p>",
+            "source": "SLH S. 169"
         },
         "Ioun Stone of Regeneration": {
-            "name": ""
+            "name": "Ionenstein der Regeneration",
+            "description": "<p><em>Wundersamer Gegenstand, legendär (benötigt Einstimmung)</em></p>\n<p>Ein Ionenstein ist nach Ion benannt, der in einigen Welten als Gottheit des Wissens und der Prophezeiung verehrt wird. Viele Arten des Ionensteins existieren, jede Art hat eine eigene Kombination von Form und Farbe.</p>\n<p>Wenn du eine Aktion aufwendest, um einen dieser Steine in die Luft zu werfen, umkreist der Stein deinen Kopf in einer Entfernung von 1W3 x 0,30 Meter und bietet dir dadurch einen Vorteil. Eine andere Kreatur muss daraufhin selbst eine Aktion verwenden, um nach dem Stein zu greifen oder ihn mit einem Netz zu erfassen und ihn somit von dir zu trennen. Dies geschieht bei einem erfolgreichen Angriffswurf gegen SG 24 oder einem erfolgreichen Wurf auf Geschicklichkeit (Akrobatik) gegen SG 24. Du kannst eine Aktion verwenden, um den Stein zu ergreifen und zu verstauen, was seinen Effekt beendet. Ein Stein hat eine Rüstungsklasse von 24, 10 Trefferpunkte und Resistenz gegen alle Schadensarten. Er wird als angelegtes Objekt angesehen, wenn er um deinen Kopf kreist.</p>\n<p><strong>Regeneration.</strong> Du erhältst zum Ende jeder Stunde 15 Trefferpunkte zurück, wenn diese perlweiße Spindel um deinen Kopf kreist und du mindestens 1 Trefferpunkt hast.</p>",
+            "source": "SLH S. 169"
         },
         "Ioun Stone of Reserve": {
-            "name": ""
+            "name": "Ionenstein der Reserve",
+            "description": "<p><em>Wundersamer Gegenstand, selten (benötigt Einstimmung)</em></p>\n<p>Ein Ionenstein ist nach Ion benannt, der in einigen Welten als Gottheit des Wissens und der Prophezeiung verehrt wird. Viele Arten des Ionensteins existieren, jede Art hat eine eigene Kombination von Form und Farbe.</p>\n<p>Wenn du eine Aktion aufwendest, um einen dieser Steine in die Luft zu werfen, umkreist der Stein deinen Kopf in einer Entfernung von 1W3 x 0,30 Meter und bietet dir dadurch einen Vorteil. Eine andere Kreatur muss daraufhin selbst eine Aktion verwenden, um nach dem Stein zu greifen oder ihn mit einem Netz zu erfassen und ihn somit von dir zu trennen. Dies geschieht bei einem erfolgreichen Angriffswurf gegen SG 24 oder einem erfolgreichen Wurf auf Geschicklichkeit (Akrobatik) gegen SG 24. Du kannst eine Aktion verwenden, um den Stein zu ergreifen und zu verstauen, was seinen Effekt beendet. Ein Stein hat eine Rüstungsklasse von 24, 10 Trefferpunkte und Resistenz gegen alle Schadensarten. Er wird als angelegtes Objekt angesehen, wenn er um deinen Kopf kreist.</p>\n<p><strong>Reserve.</strong> Dieses kräftig lilafarbene Prisma hat Zaubersprüche in sich gespeichert und behält diese, bis du sie benutzt. Der Stein kann Zauber für bis zu 3 Zaubergrade zeitgleich speichern. Wenn er gefunden wird, hat er 1W4-1 Zaubergrade nach Wahl des SL gespeichert.</p>\n<p>Jede Kreatur kann einen Zauber von Grad 1 bis 3 darin speichern, indem sie den Stein berührt, während der Zauber gewirkt wird. Der Zauber hat keinen Effekt, außer im Stein gespeichert zu werden. Wenn der Stein den Zauber nicht speichern kann, ist der Zauber ohne Effekt gewirkt. Der Grad des Zauberplatzes, der für den Zauber benutzt wurde, bestimmt, wie viel Platz der Zauber einnimmt.</p>\n<p>Während dieser Stein deinen Kopf umkreist, kannst du jeden Zauber wirken, der darin gespeichert ist. Der Zauber benutzt Zauberplätze, Zauberrettungswurf-SG, Zauberangriffsbonus und Zauberattribut des ursprünglichen Zauberwirkers, wird aber ansonsten so behandelt, als würdest du den Zauber wirken. Wenn der Zauber gewirkt wurde, ist er nicht länger gespeichert und gibt Platz frei.</p>",
+            "source": "SLH S. 169"
         },
         "Ioun Stone of Strength": {
-            "name": ""
+            "name": "Ionenstein der Stärke",
+            "description": "<p><em>Wundersamer Gegenstand, sehr selten (benötigt Einstimmung)</em></p>\n<p>Ein Ionenstein ist nach Ion benannt, der in einigen Welten als Gottheit des Wissens und der Prophezeiung verehrt wird. Viele Arten des Ionensteins existieren, jede Art hat eine eigene Kombination von Form und Farbe.</p>\n<p>Wenn du eine Aktion aufwendest, um einen dieser Steine in die Luft zu werfen, umkreist der Stein deinen Kopf in einer Entfernung von 1W3 x 0,30 Meter und bietet dir dadurch einen Vorteil. Eine andere Kreatur muss daraufhin selbst eine Aktion verwenden, um nach dem Stein zu greifen oder ihn mit einem Netz zu erfassen und ihn somit von dir zu trennen. Dies geschieht bei einem erfolgreichen Angriffswurf gegen SG 24 oder einem erfolgreichen Wurf auf Geschicklichkeit (Akrobatik) gegen SG 24. Du kannst eine Aktion verwenden, um den Stein zu ergreifen und zu verstauen, was seinen Effekt beendet. Ein Stein hat eine Rüstungsklasse von 24, 10 Trefferpunkte und Resistenz gegen alle Schadensarten. Er wird als angelegtes Objekt angesehen, wenn er um deinen Kopf kreist.</p>\n<p><strong>Stärke.</strong> Dein Stärkewert erhöht sich um 2 bis zu einem Maximum von 20, wenn dieser blassblaue rautenförmige tein um deinen Kopf kreist.</p>",
+            "source": "SLH S. 169"
         },
         "Ioun Stone of Sustenance": {
-            "name": ""
+            "name": "Ionenstein der Ernährung",
+            "description": "<p><em>Wundersamer Gegenstand, selten (benötigt Einstimmung)</em></p>\n<p>Ein Ionenstein ist nach Ion benannt, der in einigen Welten als Gottheit des Wissens und der Prophezeiung verehrt wird. Viele Arten des Ionensteins existieren, jede Art hat eine eigene Kombination von Form und Farbe.</p>\n<p>Wenn du eine Aktion aufwendest, um einen dieser Steine in die Luft zu werfen, umkreist der Stein deinen Kopf in einer Entfernung von 1W3 x 0,30 Meter und bietet dir dadurch einen Vorteil. Eine andere Kreatur muss daraufhin selbst eine Aktion verwenden, um nach dem Stein zu greifen oder ihn mit einem Netz zu erfassen und ihn somit von dir zu trennen. Dies geschieht bei einem erfolgreichen Angriffswurf gegen SG 24 oder einem erfolgreichen Wurf auf Geschicklichkeit (Akrobatik) gegen SG 24. Du kannst eine Aktion verwenden, um den Stein zu ergreifen und zu verstauen, was seinen Effekt beendet. Ein Stein hat eine Rüstungsklasse von 24, 10 Trefferpunkte und Resistenz gegen alle Schadensarten. Er wird als angelegtes Objekt angesehen, wenn er um deinen Kopf kreist.</p>\n<p><strong>Ernährung.</strong> Du musst weder essen noch trinken, ährend diese klare Spindel deinen Kopf umkreist.</p>",
+            "source": "SLH S. 169"
         },
         "Iron Bands of Binding": {
             "name": ""
@@ -1099,7 +1238,9 @@
             "name": ""
         },
         "Iron Horn of Valhalla": {
-            "name": ""
+            "name": "Horn von Valhalla aus Eisen",
+            "description": "<p><em>Wundersamer Gegenstand, selten (Silber oder Messing), sehr selten (Bronze), legendär (Eisen)</em></p>\n<p>Du kannst eine Aktion aufwenden, um das Horn zu blasen. Als Reaktion darauf erscheinen Kriegergeister von der Ebene Ysgard innerhalb von 18 Metern zu dir. Diese Geister verfügen über die Werte des Berserkers aus dem <em>Monster Manual (Monsterhandbuch)</em>. Sie kehren nach 1 Stunde nach Ysgard zurück, oder wenn sie auf O Trefferpunkte sinken. Wenn du das Horn benutzt hast, kannst du es nicht erneut benutzen, bevor 7 Tage verstrichen sind.</p>\n<p>Vier Arten des Horns von Valhalla sind als existent bekannt, jedes aus einem anderen Material geschaffen. Der Typ des Horns bestimmt, wie viele Berserker beschworen werden, sowie die Voraussetzungen für seine Benutzung. Der SL bestimmt den Typen oder lässt per Zufall entscheiden.</p>\n<table style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">\n<thead>\n<tr>\n<th>W100</th>\n<th>Horn-Art</th>\n<th>Beschworene Berserker</th>\n<th>Voraussetzung</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>01-40</td>\n<td>Silber</td>\n<td>2W4 + 2</td>\n<td>Keine</td>\n</tr>\n<tr>\n<td>41-75</td>\n<td>Messing</td>\n<td>3W4 + 3</td>\n<td>Übung mit allen einfachen Waffen</td>\n</tr>\n<tr>\n<td>76-90</td>\n<td>Bronze</td>\n<td>4W4 + 4</td>\n<td>Übung mit allen mittelschweren Rüstungen.</td>\n</tr>\n<tr>\n<td><strong>91-00</strong></td>\n<td><strong>Eisen</strong></td>\n<td><strong>5W4 + 5</strong></td>\n<td><strong>Übung mit allen Kriegswaffen.</strong></td>\n</tr>\n</tbody>\n</table>\n<p>Wenn du das Horn bläst, ohne seine Anforderung zu erfüllen, greifen dich die beschworenen Berserker an. Wenn du die Voraussetzungen erfüllst, sind sie dir und deinen Begleitern freundlich gesonnen und gehorchen deinen Befehlen.</p>",
+            "source": "SLH S. 168"
         },
         "Iron Pot": {
             "name": "Topf, Eisen-",
@@ -1134,7 +1275,9 @@
             "name": ""
         },
         "Lamp": {
-            "name": ""
+            "name": "Lampe",
+            "description": "<p>eine Lampe verbreitet helles Licht in einem Radius von 4,50 m und dämmriges Licht im Umkreis von weiteren 9 m. Ab dem Entfachen brennt die Lampe mit einem Fläschchen Öl (0,5 l) für 6 Stunden.</p>",
+            "source": "SHB S. 152"
         },
         "Lance": {
             "name": ""
@@ -1416,7 +1559,9 @@
             "name": ""
         },
         "Oil of Slipperiness": {
-            "name": ""
+            "name": "Öl der Glätte",
+            "description": "<p><em>Trank, ungewöhnlich</em></p>\n<p>Diese klebrige schwarze Flüssigkeit ist in ihrem Behälter dick und schwer, fließt aber schnell, wenn sie verschüttet wird. Das Öl kann eine mittelgroße oder kleinere Kreatur bedecken, inklusive der Ausrüstung, die sie am Körper oder bei sich trägt (eine zusätzliche Flasche ist für jede Größe oberhalb von mittelgroß erforderlich). Das Öl aufzutragen, dauert 10 Minuten. Die betroffene Kreatur erhält dann für 8 Stunden den Effekt des Zaubers <em>Bewegungsfreiheit</em>.</p>\n<p>Alternativ kann das Öl als Aktion auf den Boden geschüttet werden. Dort bedeckt es einen Bereich von von 3 x 3 m, in dem für 8 Stunden der Effekt des Zaubers <em>Schmieren</em> wirkt.</p>",
+            "source": "SLH S. 174"
         },
         "Orb": {
             "name": ""
@@ -1446,7 +1591,9 @@
             "name": ""
         },
         "Paper": {
-            "name": ""
+            "name": "Papier",
+            "description": "<p>Ein einzelnes Blatt Papier</p>",
+            "source": "SHB S. 150"
         },
         "Parchment": {
             "name": ""
@@ -1467,7 +1614,9 @@
             "name": ""
         },
         "Philter of Love": {
-            "name": ""
+            "name": "Liebestrank",
+            "description": "<p>Trank, ungewöhnlich</p>\n<p>Wenn du das nächste Mal eine Kreatur siehst, innerhalb von 10 Minuten nachdem du diesen Trank getrunken hast, wirst du von dieser Kreatur für 1 Stunde bezaubert. Wenn die Kreatur die Spezies und das Geschlecht hat, von der du dich normalerweise angezogen fühlst, wirst du sie als wahre Liebe ansehen, während du bezaubert bist. Die Flüssigkeit dieses rosenfarben, stets schäumenden Tranks enthält eine leicht zu übersehende  Blase, die wie ein Herz geformt ist.</p>",
+            "source": "SLH S. 173"
         },
         "Pike": {
             "name": ""
@@ -1524,103 +1673,150 @@
             "name": ""
         },
         "Potion of Acid Resistance": {
-            "name": ""
+            "name": "Trank des Säurewiderstands",
+            "description": "<p><em>Trank, ungewöhnlich</em></p>\n<p><em>Der Trank hat eine schlichte, unbestimmbare Farbe und riecht leicht faulig.</em></p>\n<p>Wenn du diesen Trank trinkst, erhältst du für 1 Stunde Resistenz gegen Säureschaden. </p>",
+            "source": "SLH S. 196"
         },
         "Potion of Animal Friendship": {
-            "name": ""
+            "name": "Trank der Tierfreundschaft",
+            "description": "<p><em>Trank, ungewöhnlich</em></p>\n<p>Wenn du diesen Trank trinkst, kannst du 1 Stunde lang nach Belieben den Zauber Tierfreundschaft (Rettungswurf SG 13) wirken. Diese schlammige Flüssigkeit umzurühren, bringt folgende Dinge zum Vorschein: eine Fischschuppe, eine Kolibrizunge, eine Katzenkralle oder ein Eichhörnchenhaar.</p>",
+            "source": "SLH S. 196"
         },
         "Potion of Clairvoyance": {
             "name": ""
         },
         "Potion of Climbing": {
-            "name": ""
+            "name": "Trank des Kletterns",
+            "description": "<p><em>Trank, gewöhnlich</em></p>\n<p>Wenn du diesen Trank trinkst, erhältst du für die Dauer von 1 Stunde eine Kletterbewegungsrate, die so hoch ist wie deine normale Bewegungsrate. Innerhalb dieser Zeitspanne hast du einen Vorteil bei Würfen auf Stärke (Athletik), die du ablegst, um zu klettern. Der Trank ist in braune, silberne und graue Schichten unterteilt und ähnelt Steinflächen. Schütteln der Flasche kann die Farben nicht vermischen.</p>",
+            "source": "SLH S. 195"
         },
         "Potion of Cloud Giant Strength": {
-            "name": ""
+            "name": "Trank der Wolkenriesenstärke",
+            "description": "<p><em>Trank, sehr selten</em></p>\n<p>Diese transparente Flüssigkeit hat einen darin schwimmenden Splitter eines Fingernagels eines Riesen des entsprechendes Typs.</p>\n<p>Wenn du diesen Trank trinkst, ändert sich dein Stärkewert zu 27 für 1 Stunde. Dieser Trank hat keinen Effekt, wenn deine Stärke bereits gleich hoch oder höher als der angegebene Wert ist.</p>",
+            "source": "SLH S. 196"
         },
         "Potion of Cold Resistance": {
-            "name": ""
+            "name": "Trank des Kältewiderstands",
+            "description": "<p><em>Trank, ungewöhnlich</em></p>\n<p><em>Der Trank hat eine schlichte, unbestimmbare Farbe und riecht leicht faulig.</em></p>\n<p>Wenn du diesen Trank trinkst, erhältst du für 1 Stunde Resistenz gegen Kälteschaden. </p>",
+            "source": "SLH S. 196"
         },
         "Potion of Diminution": {
             "name": ""
         },
         "Potion of Fire Giant Strength": {
-            "name": ""
+            "name": "Trank der Feuerriesenstärke",
+            "description": "<p><em>Trank, selten</em></p>\n<p>Diese transparente Flüssigkeit hat einen darin schwimmenden Splitter eines Fingernagels eines Riesen des entsprechendes Typs.</p>\n<p>Wenn du diesen Trank trinkst, ändert sich dein Stärkewert zu 25 für 1 Stunde. Dieser Trank hat keinen Effekt, wenn deine Stärke bereits gleich hoch oder höher als der angegebene Wert ist.</p>",
+            "source": "SLH S. 196"
         },
         "Potion of Fire Resistance": {
-            "name": ""
+            "name": "Trank des Feuerwiderstands",
+            "description": "<p><em>Trank, ungewöhnlich</em></p>\n<p><em>Der Trank hat eine schlichte, unbestimmbare Farbe und riecht leicht faulig.</em></p>\n<p>Wenn du diesen Trank trinkst, erhältst du für 1 Stunde Resistenz gegen Feuerschaden. </p>",
+            "source": "SLH S. 196"
         },
         "Potion of Flying": {
             "name": ""
         },
         "Potion of Force Resistance": {
-            "name": ""
+            "name": "Trank des Energiewiderstands",
+            "description": "<p><em>Trank, ungewöhnlich</em></p>\n<p><em>Der Trank hat eine schlichte, unbestimmbare Farbe und riecht leicht faulig.</em></p>\n<p>Wenn du diesen Trank trinkst, erhältst du für 1 Stunde Resistenz gegen Energieschaden. </p>",
+            "source": "SLH S. 196"
         },
         "Potion of Frost Giant Strength": {
-            "name": ""
+            "name": "Trank der Frostriesenstärke",
+            "description": "<p><em>Trank, selten</em></p>\n<p>Diese transparente Flüssigkeit hat einen darin schwimmenden Splitter eines Fingernagels eines Riesen des entsprechendes Typs.</p>\n<p>Wenn du diesen Trank trinkst, ändert sich dein Stärkewert zu 23 für 1 Stunde. Dieser Trank hat keinen Effekt, wenn deine Stärke bereits gleich hoch oder höher als der angegebene Wert ist.</p>",
+            "source": "SLH S. 196"
         },
         "Potion of Gaseous Form": {
             "name": ""
         },
         "Potion of Greater Healing": {
-            "name": ""
+            "name": "Trank der mächtigen Heilung",
+            "description": "<p><em>Trank, ungewöhnlich</em></p>\n<p>Die rote Flüssigkeit des Tranks schimmert, wenn sie bewegt wird.</p>\n<p>Du erhältst 4W4 + 4 Trefferpunkte, wenn du diesen Trank trinkst.</p>",
+            "source": "SLH S. 166"
         },
         "Potion of Growth": {
-            "name": ""
+            "name": "Trank des Wachstums",
+            "description": "<p><em>Trank, ungewöhnlich</em></p>\n<p>Wenn du diesen Trank trinkst, erhältst du für 1W4 Stunden den Effekt „Vergrößern\" des Zaubers <em>Vergrößern/Verkleinern</em> (keine Konzentration notwendig). Das Rot in der Flüssigkeit kontrahiert sich stetig zu einer kleinen Kugel zusammen und wird dann größer, um die farblose Flüssigkeit um es herum zu färben. Das Schütteln der Flasche kann den Effekt nicht unterbrechen.</p>",
+            "source": "SLH S. 196"
         },
         "Potion of Healing": {
-            "name": ""
+            "name": "Heiltrank",
+            "source": "SLH S. 166"
         },
         "Potion of Heroism": {
             "name": ""
         },
         "Potion of Hill Giant Strength": {
-            "name": ""
+            "name": "Trank der Hügelriesenstärke",
+            "description": "<p><em>Trank, ungewöhnlich</em></p>\n<p>Diese transparente Flüssigkeit hat einen darin schwimmenden Splitter eines Fingernagels eines Riesen des entsprechendes Typs.</p>\n<p>Wenn du diesen Trank trinkst, ändert sich dein Stärkewert zu 21 für 1 Stunde. Dieser Trank hat keinen Effekt, wenn deine Stärke bereits gleich hoch oder höher als der angegebene Wert ist.</p>",
+            "source": "SLH S. 196"
         },
         "Potion of Invisibility": {
             "name": ""
         },
         "Potion of Lightning Resistance": {
-            "name": ""
+            "name": "Trank des Blitzwiderstands",
+            "description": "<p><em>Trank, ungewöhnlich</em></p>\n<p><em>Der Trank hat eine schlichte, unbestimmbare Farbe und riecht leicht faulig.</em></p>\n<p>Wenn du diesen Trank trinkst, erhältst du für 1 Stunde Resistenz gegen Blitzschaden. </p>",
+            "source": "SLH S. 196"
         },
         "Potion of Mind Reading": {
             "name": ""
         },
         "Potion of Necrotic Resistance": {
-            "name": ""
+            "name": "Trank des nekrotischen Widerstands",
+            "description": "<p><em>Trank, ungewöhnlich</em></p>\n<p><em>Der Trank hat eine schlichte, unbestimmbare Farbe und riecht leicht faulig.</em></p>\n<p>Wenn du diesen Trank trinkst, erhältst du für 1 Stunde Resistenz gegen nekrotischen Schaden. </p>",
+            "source": "SLH S. 196"
         },
         "Potion of Poison": {
             "name": ""
         },
         "Potion of Poison Resistance": {
-            "name": ""
+            "name": "Trank des Giftwiderstands",
+            "description": "<p><em>Trank, ungewöhnlich</em></p>\n<p><em>Der Trank hat eine schlichte, unbestimmbare Farbe und riecht leicht faulig.</em></p>\n<p>Wenn du diesen Trank trinkst, erhältst du für 1 Stunde Resistenz gegen Giftschaden. </p>",
+            "source": "SLH S. 196"
         },
         "Potion of Psychic Resistance": {
-            "name": ""
+            "name": "Trank des psychischen Widerstands",
+            "description": "<p><em>Trank, ungewöhnlich</em></p>\n<p><em>Der Trank hat eine schlichte, unbestimmbare Farbe und riecht leicht faulig.</em></p>\n<p>Wenn du diesen Trank trinkst, erhältst du für 1 Stunde Resistenz gegen psychischen Schaden. </p>",
+            "source": "SLH S. 196"
         },
         "Potion of Radiant Resistance": {
-            "name": ""
+            "name": "Trank des gleißenden Widerstands",
+            "description": "<p><em>Trank, ungewöhnlich</em></p>\n<p><em>Der Trank hat eine schlichte, unbestimmbare Farbe und riecht leicht faulig.</em></p>\n<p>Wenn du diesen Trank trinkst, erhältst du für 1 Stunde Resistenz gegen gleißenden Schaden. </p>",
+            "source": "SLH S. 196"
         },
         "Potion of Speed": {
             "name": ""
         },
         "Potion of Stone Giant Strength": {
-            "name": ""
+            "name": "Trank der Steinriesenstärke",
+            "description": "<p><em>Trank, selten</em></p>\n<p>Diese transparente Flüssigkeit hat einen darin schwimmenden Splitter eines Fingernagels eines Riesen des entsprechendes Typs.</p>\n<p>Wenn du diesen Trank trinkst, ändert sich dein Stärkewert zu 23 für 1 Stunde. Dieser Trank hat keinen Effekt, wenn deine Stärke bereits gleich hoch oder höher als der angegebene Wert ist.</p>",
+            "source": "SLH S. 196"
         },
         "Potion of Storm Giant Strength": {
-            "name": ""
+            "name": "Trank der Sturmriesenstärke",
+            "description": "<p><em>Trank, legendär</em></p>\n<p>Diese transparente Flüssigkeit hat einen darin schwimmenden Splitter eines Fingernagels eines Riesen des entsprechendes Typs.</p>\n<p>Wenn du diesen Trank trinkst, ändert sich dein Stärkewert zu 29 für 1 Stunde. Dieser Trank hat keinen Effekt, wenn deine Stärke bereits gleich hoch oder höher als der angegebene Wert ist.</p>",
+            "source": "SLH S. 196"
         },
         "Potion of Superior Healing": {
-            "name": ""
+            "name": "Trank der überlegenen Heilung",
+            "description": "<p><em>Trank, selten</em></p>\n<p>Die rote Flüssigkeit des Tranks schimmert, wenn sie bewegt wird.</p>\n<p>Du erhältst 8W4 + 8 Trefferpunkte, wenn du diesen Trank trinkst.</p>",
+            "source": "SLH S. 166"
         },
         "Potion of Supreme Healing": {
-            "name": ""
+            "name": "Trank der höchsten Heilung",
+            "description": "<p><em>Trank, sehr selten</em></p>\n<p>Die rote Flüssigkeit des Tranks schimmert, wenn sie bewegt wird.</p>\n<p>Du erhältst 10W4 + 20 Trefferpunkte, wenn du diesen Trank trinkst.</p>",
+            "source": "SLH S. 166"
         },
         "Potion of Thunder Resistance": {
-            "name": ""
+            "name": "Trank des Schallwiderstands",
+            "description": "<p><em>Trank, ungewöhnlich</em></p>\n<p><em>Der Trank hat eine schlichte, unbestimmbare Farbe und riecht leicht faulig.</em></p>\n<p>Wenn du diesen Trank trinkst, erhältst du für 1 Stunde Resistenz gegen Schallschaden. </p>",
+            "source": "SLH S. 196"
         },
         "Potion of Water Breathing": {
-            "name": ""
+            "name": "Trank der Wasseratmung",
+            "description": "<p><em>Trank, ungewöhnlich</em></p>\n<p>Nachdem du diesen Trank getrunken hast, kannst du 1 Stunde lang unter Wasser atmen.</p>\n<p>Die wolkige grüne Flüssigkeit riecht nach dem Meer, und eine kleine, quallenartige Blase treibt darin.</p>",
+            "source": "SLH S. 196"
         },
         "Potter's Tools": {
             "name": ""
@@ -1635,7 +1831,9 @@
             "name": ""
         },
         "Quarterstaff": {
-            "name": ""
+            "name": "Kampfstab",
+            "description": "<p>Ein dicker Holzstab, umwickelt mit einem stabilen Griff, macht ihn nicht nur zu einem robusten Spazierstock, sondern auch zu einer äußerst funktionellen Waffe.</p>",
+            "source": "SHB S. 149"
         },
         "Quarterstaff +1": {
             "name": ""
@@ -1668,7 +1866,9 @@
             "name": ""
         },
         "Rations": {
-            "name": ""
+            "name": "Rationen",
+            "description": "<p>Rationen bestehen aus getrocknetem Essen, dass für lange Reisen geeignet ist. Darunter findet man Dörrfleisch, Trockenfrüchte, Nüsse und Hartkäse.</p>",
+            "source": "SHB S. 153"
         },
         "Reliquary": {
             "name": ""
@@ -1881,7 +2081,9 @@
             "name": ""
         },
         "Sealing Wax": {
-            "name": ""
+            "name": "Siegelwachs",
+            "description": "<p>Wachsartiges Material zur Verwendung mit Siegeln, das nach dem Schmelzen schnell aushärtet und eine Verbindung eingeht, die sich nur schwer ohne erkennbare Manipulationen lösen lässt.</p>",
+            "source": "SHB S. 150"
         },
         "Shawm": {
             "name": ""
@@ -1934,7 +2136,9 @@
             "name": ""
         },
         "Shovel": {
-            "name": ""
+            "name": "Schaufel",
+            "description": "<p>Ein spatenähnliches Werkzeug mit breiter Klinge und typischerweise umgedrehten Seiten, das zum Bewegen von Kohle, Erde, Schnee oder anderem Material verwendet wird.</p>",
+            "source": "SHB S. 150"
         },
         "Sickle": {
             "name": ""
@@ -1949,7 +2153,7 @@
             "name": ""
         },
         "Signal Whistle": {
-            "name": ""
+            "name": "Signalpfeife"
         },
         "Signet Ring": {
             "name": ""
@@ -1958,7 +2162,8 @@
             "name": ""
         },
         "Silver Horn of Valhalla": {
-            "name": ""
+            "name": "Horn von Valhalla aus Silber",
+            "description": "<p><em>Wundersamer Gegenstand, selten (Silber oder Messing), sehr selten (Bronze), legendär (Eisen)</em></p>\n<p>Du kannst eine Aktion aufwenden, um das Horn zu blasen. Als Reaktion darauf erscheinen Kriegergeister von der Ebene Ysgard innerhalb von 18 Metern zu dir. Diese Geister verfügen über die Werte des Berserkers aus dem <em>Monster Manual (Monsterhandbuch)</em>. Sie kehren nach 1 Stunde nach Ysgard zurück, oder wenn sie auf O Trefferpunkte sinken. Wenn du das Horn benutzt hast, kannst du es nicht erneut benutzen, bevor 7 Tage verstrichen sind.</p>\n<p>Vier Arten des Horns von Valhalla sind als existent bekannt, jedes aus einem anderen Material geschaffen. Der Typ des Horns bestimmt, wie viele Berserker beschworen werden, sowie die Voraussetzungen für seine Benutzung. Der SL bestimmt den Typen oder lässt per Zufall entscheiden.</p>\n<table style=\"font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; background-color: #edf0f8;\">\n<thead>\n<tr>\n<th>W100</th>\n<th>Horn-Art</th>\n<th>Beschworene Berserker</th>\n<th>Voraussetzung</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>01-40</strong></td>\n<td><strong>Silber</strong></td>\n<td><strong>2W4 + 2</strong></td>\n<td><strong>Keine</strong></td>\n</tr>\n<tr>\n<td>41-75</td>\n<td>Messing</td>\n<td>3W4 + 3</td>\n<td>Übung mit allen einfachen Waffen</td>\n</tr>\n<tr>\n<td>76-90</td>\n<td>Bronze</td>\n<td>4W4 + 4</td>\n<td>Übung mit allen mittelschweren Rüstungen.</td>\n</tr>\n<tr>\n<td>91-00</td>\n<td>Eisen</td>\n<td>5W4 + 5</td>\n<td>Übung mit allen Kriegswaffen.</td>\n</tr>\n</tbody>\n</table>\n<p>Wenn du das Horn bläst, ohne seine Anforderung zu erfüllen, greifen dich die beschworenen Berserker an. Wenn du die Voraussetzungen erfüllst, sind sie dir und deinen Begleitern freundlich gesonnen und gehorchen deinen Befehlen.</p>"
         },
         "Sledgehammer": {
             "name": ""
@@ -2000,7 +2205,9 @@
             "name": ""
         },
         "Soap": {
-            "name": ""
+            "name": "Seife",
+            "description": "<p>Wird zum Reinigen und Waschen verwendet.</p>",
+            "source": "SHB S. 150"
         },
         "Sovereign Glue": {
             "name": ""
@@ -2018,34 +2225,54 @@
             "name": ""
         },
         "Spell Scroll 1st Level": {
-            "name": ""
+            "name": "Zauberschriftrolle (Zaubergrad 1)",
+            "description": "<p><em>Schriftrolle, gewöhnlich</em></p>\n<p>Eine <em>Zauberschriftrolle</em> enthält die Worte für einen einzelnen Zauber, die in mystischen Schriftzeichen geschrieben sind. Wenn der Zauber auf der Zauberliste deiner Klasse ist, kannst du die Schriftrolle lesen und den Zauber ohne irgendwelche materiellen Komponenten wirken. Andernfalls ist dir die Schriftrolle unverständlich. Den Zauber zu wirken, indem die Schriftrolle gelesen wird, benötigt den normalen Zeitaufwand des Zaubers. Sobald der Zauber gewirkt wurde, verschwinden die Worte auf der Schriftrolle, und sie zerfällt zu Staub. Wenn der Zauber unterbrochen wurde, ist die Schriftrolle nicht verloren.</p>\n<p>Wenn der Zauberspruch auf der Zauberliste deiner Klasse steht, aber höher ist als der Grad, den du normalerweise wirken kannst, musst du einen Attributswurf auf dein Zauberattribut ablegen, um zu bestimmen, ob du den Zauber erfolgreich wirken kannst. Der SG ist 10 + der Grad des Zaubers. Wenn der Wurf misslingt, verschwindet der Zauber ohne weiteren Effekt von der Schriftrolle.</p>\n<p>Der Grad des Zaubers auf der Schriftrolle bestimmt Zauberrettungswurf-SG und Angriffsbonus sowie den Seltenheitsgrad der Schriftrolle, wie in der folgenden Zauberschriftrollen-Tabelle gezeigt wird.</p>\n<p><strong>Rettungs-SG:</strong> 13<br /><strong>Angriffsbonus:</strong> +5</p>\n<p>Ein Magier-Zauber auf einer <em>Zauberschriftrolle</em> kann kopiert werden, ebenso wie Zaubersprüche in Zauberbüchern kopiert werden können. Wenn ein Zauberspruch von einer Schriftrolle kopiert wird, muss der Kopierer einen Wurf auf Intelligenz (Arkane Kunde) gegen SG 10 + Grad des Zaubers schaffen. Bei einem Erfolg wird der Zauber erfolgreich kopiert. Unabhängig davon ob der Wurf gelingt oder nicht, ist die <em>Zauberschriftrolle</em> danach zerstört.</p>",
+            "source": "SLH S. 201"
         },
         "Spell Scroll 2nd Level": {
-            "name": ""
+            "name": "Zauberschriftrolle (Zaubergrad 2)",
+            "description": "<p><em>Schriftrolle, ungewöhnlich</em></p>\n<p>Eine <em>Zauberschriftrolle</em> enthält die Worte für einen einzelnen Zauber, die in mystischen Schriftzeichen geschrieben sind. Wenn der Zauber auf der Zauberliste deiner Klasse ist, kannst du die Schriftrolle lesen und den Zauber ohne irgendwelche materiellen Komponenten wirken. Andernfalls ist dir die Schriftrolle unverständlich. Den Zauber zu wirken, indem die Schriftrolle gelesen wird, benötigt den normalen Zeitaufwand des Zaubers. Sobald der Zauber gewirkt wurde, verschwinden die Worte auf der Schriftrolle, und sie zerfällt zu Staub. Wenn der Zauber unterbrochen wurde, ist die Schriftrolle nicht verloren.</p>\n<p>Wenn der Zauberspruch auf der Zauberliste deiner Klasse steht, aber höher ist als der Grad, den du normalerweise wirken kannst, musst du einen Attributswurf auf dein Zauberattribut ablegen, um zu bestimmen, ob du den Zauber erfolgreich wirken kannst. Der SG ist 10 + der Grad des Zaubers. Wenn der Wurf misslingt, verschwindet der Zauber ohne weiteren Effekt von der Schriftrolle.</p>\n<p>Der Grad des Zaubers auf der Schriftrolle bestimmt Zauberrettungswurf-SG und Angriffsbonus sowie den Seltenheitsgrad der Schriftrolle, wie in der folgenden Zauberschriftrollen-Tabelle gezeigt wird.</p>\n<p><strong>Rettungs-SG:</strong> 13<br /><strong>Angriffsbonus:</strong> +5</p>\n<p>Ein Magier-Zauber auf einer <em>Zauberschriftrolle</em> kann kopiert werden, ebenso wie Zaubersprüche in Zauberbüchern kopiert werden können. Wenn ein Zauberspruch von einer Schriftrolle kopiert wird, muss der Kopierer einen Wurf auf Intelligenz (Arkane Kunde) gegen SG 10 + Grad des Zaubers schaffen. Bei einem Erfolg wird der Zauber erfolgreich kopiert. Unabhängig davon ob der Wurf gelingt oder nicht, ist die <em>Zauberschriftrolle</em> danach zerstört.</p>",
+            "source": "SLH S. 201"
         },
         "Spell Scroll 3rd Level": {
-            "name": ""
+            "name": "Zauberschriftrolle (Zaubergrad 3)",
+            "description": "<p><em>Schriftrolle, ungewöhnlich</em></p>\n<p>Eine <em>Zauberschriftrolle</em> enthält die Worte für einen einzelnen Zauber, die in mystischen Schriftzeichen geschrieben sind. Wenn der Zauber auf der Zauberliste deiner Klasse ist, kannst du die Schriftrolle lesen und den Zauber ohne irgendwelche materiellen Komponenten wirken. Andernfalls ist dir die Schriftrolle unverständlich. Den Zauber zu wirken, indem die Schriftrolle gelesen wird, benötigt den normalen Zeitaufwand des Zaubers. Sobald der Zauber gewirkt wurde, verschwinden die Worte auf der Schriftrolle, und sie zerfällt zu Staub. Wenn der Zauber unterbrochen wurde, ist die Schriftrolle nicht verloren.</p>\n<p>Wenn der Zauberspruch auf der Zauberliste deiner Klasse steht, aber höher ist als der Grad, den du normalerweise wirken kannst, musst du einen Attributswurf auf dein Zauberattribut ablegen, um zu bestimmen, ob du den Zauber erfolgreich wirken kannst. Der SG ist 10 + der Grad des Zaubers. Wenn der Wurf misslingt, verschwindet der Zauber ohne weiteren Effekt von der Schriftrolle.</p>\n<p>Der Grad des Zaubers auf der Schriftrolle bestimmt Zauberrettungswurf-SG und Angriffsbonus sowie den Seltenheitsgrad der Schriftrolle, wie in der folgenden Zauberschriftrollen-Tabelle gezeigt wird.</p>\n<p><strong>Rettungs-SG:</strong> 15<br /><strong>Angriffsbonus:</strong> +7</p>\n<p>Ein Magier-Zauber auf einer <em>Zauberschriftrolle</em> kann kopiert werden, ebenso wie Zaubersprüche in Zauberbüchern kopiert werden können. Wenn ein Zauberspruch von einer Schriftrolle kopiert wird, muss der Kopierer einen Wurf auf Intelligenz (Arkane Kunde) gegen SG 10 + Grad des Zaubers schaffen. Bei einem Erfolg wird der Zauber erfolgreich kopiert. Unabhängig davon ob der Wurf gelingt oder nicht, ist die <em>Zauberschriftrolle</em> danach zerstört.</p>",
+            "source": "SLH S. 201"
         },
         "Spell Scroll 4th Level": {
-            "name": ""
+            "name": "Zauberschriftrolle (Zaubergrad 4)",
+            "description": "<p><em>Schriftrolle, selten</em></p>\n<p>Eine <em>Zauberschriftrolle</em> enthält die Worte für einen einzelnen Zauber, die in mystischen Schriftzeichen geschrieben sind. Wenn der Zauber auf der Zauberliste deiner Klasse ist, kannst du die Schriftrolle lesen und den Zauber ohne irgendwelche materiellen Komponenten wirken. Andernfalls ist dir die Schriftrolle unverständlich. Den Zauber zu wirken, indem die Schriftrolle gelesen wird, benötigt den normalen Zeitaufwand des Zaubers. Sobald der Zauber gewirkt wurde, verschwinden die Worte auf der Schriftrolle, und sie zerfällt zu Staub. Wenn der Zauber unterbrochen wurde, ist die Schriftrolle nicht verloren.</p>\n<p>Wenn der Zauberspruch auf der Zauberliste deiner Klasse steht, aber höher ist als der Grad, den du normalerweise wirken kannst, musst du einen Attributswurf auf dein Zauberattribut ablegen, um zu bestimmen, ob du den Zauber erfolgreich wirken kannst. Der SG ist 10 + der Grad des Zaubers. Wenn der Wurf misslingt, verschwindet der Zauber ohne weiteren Effekt von der Schriftrolle.</p>\n<p>Der Grad des Zaubers auf der Schriftrolle bestimmt Zauberrettungswurf-SG und Angriffsbonus sowie den Seltenheitsgrad der Schriftrolle, wie in der folgenden Zauberschriftrollen-Tabelle gezeigt wird.</p>\n<p><strong>Rettungs-SG:</strong> 15<br /><strong>Angriffsbonus:</strong> +7</p>\n<p>Ein Magier-Zauber auf einer <em>Zauberschriftrolle</em> kann kopiert werden, ebenso wie Zaubersprüche in Zauberbüchern kopiert werden können. Wenn ein Zauberspruch von einer Schriftrolle kopiert wird, muss der Kopierer einen Wurf auf Intelligenz (Arkane Kunde) gegen SG 10 + Grad des Zaubers schaffen. Bei einem Erfolg wird der Zauber erfolgreich kopiert. Unabhängig davon ob der Wurf gelingt oder nicht, ist die <em>Zauberschriftrolle</em> danach zerstört.</p>",
+            "source": "SLH S. 201"
         },
         "Spell Scroll 5th Level": {
-            "name": ""
+            "name": "Zauberschriftrolle (Zaubergrad 5)",
+            "description": "<p><em>Schriftrolle, selten</em></p>\n<p>Eine <em>Zauberschriftrolle</em> enthält die Worte für einen einzelnen Zauber, die in mystischen Schriftzeichen geschrieben sind. Wenn der Zauber auf der Zauberliste deiner Klasse ist, kannst du die Schriftrolle lesen und den Zauber ohne irgendwelche materiellen Komponenten wirken. Andernfalls ist dir die Schriftrolle unverständlich. Den Zauber zu wirken, indem die Schriftrolle gelesen wird, benötigt den normalen Zeitaufwand des Zaubers. Sobald der Zauber gewirkt wurde, verschwinden die Worte auf der Schriftrolle, und sie zerfällt zu Staub. Wenn der Zauber unterbrochen wurde, ist die Schriftrolle nicht verloren.</p>\n<p>Wenn der Zauberspruch auf der Zauberliste deiner Klasse steht, aber höher ist als der Grad, den du normalerweise wirken kannst, musst du einen Attributswurf auf dein Zauberattribut ablegen, um zu bestimmen, ob du den Zauber erfolgreich wirken kannst. Der SG ist 10 + der Grad des Zaubers. Wenn der Wurf misslingt, verschwindet der Zauber ohne weiteren Effekt von der Schriftrolle.</p>\n<p>Der Grad des Zaubers auf der Schriftrolle bestimmt Zauberrettungswurf-SG und Angriffsbonus sowie den Seltenheitsgrad der Schriftrolle, wie in der folgenden Zauberschriftrollen-Tabelle gezeigt wird.</p>\n<p><strong>Rettungs-SG:</strong> 17<br /><strong>Angriffsbonus:</strong> +9</p>\n<p>Ein Magier-Zauber auf einer <em>Zauberschriftrolle</em> kann kopiert werden, ebenso wie Zaubersprüche in Zauberbüchern kopiert werden können. Wenn ein Zauberspruch von einer Schriftrolle kopiert wird, muss der Kopierer einen Wurf auf Intelligenz (Arkane Kunde) gegen SG 10 + Grad des Zaubers schaffen. Bei einem Erfolg wird der Zauber erfolgreich kopiert. Unabhängig davon ob der Wurf gelingt oder nicht, ist die <em>Zauberschriftrolle</em> danach zerstört.</p>",
+            "source": "SLH S. 201"
         },
         "Spell Scroll 6th Level": {
-            "name": ""
+            "name": "Zauberschriftrolle (Zaubergrad 6)",
+            "description": "<p><em>Schriftrolle, sehr selten</em></p>\n<p>Eine <em>Zauberschriftrolle</em> enthält die Worte für einen einzelnen Zauber, die in mystischen Schriftzeichen geschrieben sind. Wenn der Zauber auf der Zauberliste deiner Klasse ist, kannst du die Schriftrolle lesen und den Zauber ohne irgendwelche materiellen Komponenten wirken. Andernfalls ist dir die Schriftrolle unverständlich. Den Zauber zu wirken, indem die Schriftrolle gelesen wird, benötigt den normalen Zeitaufwand des Zaubers. Sobald der Zauber gewirkt wurde, verschwinden die Worte auf der Schriftrolle, und sie zerfällt zu Staub. Wenn der Zauber unterbrochen wurde, ist die Schriftrolle nicht verloren.</p>\n<p>Wenn der Zauberspruch auf der Zauberliste deiner Klasse steht, aber höher ist als der Grad, den du normalerweise wirken kannst, musst du einen Attributswurf auf dein Zauberattribut ablegen, um zu bestimmen, ob du den Zauber erfolgreich wirken kannst. Der SG ist 10 + der Grad des Zaubers. Wenn der Wurf misslingt, verschwindet der Zauber ohne weiteren Effekt von der Schriftrolle.</p>\n<p>Der Grad des Zaubers auf der Schriftrolle bestimmt Zauberrettungswurf-SG und Angriffsbonus sowie den Seltenheitsgrad der Schriftrolle, wie in der folgenden Zauberschriftrollen-Tabelle gezeigt wird.</p>\n<p><strong>Rettungs-SG:</strong> 17<br /><strong>Angriffsbonus:</strong> +9</p>\n<p>Ein Magier-Zauber auf einer <em>Zauberschriftrolle</em> kann kopiert werden, ebenso wie Zaubersprüche in Zauberbüchern kopiert werden können. Wenn ein Zauberspruch von einer Schriftrolle kopiert wird, muss der Kopierer einen Wurf auf Intelligenz (Arkane Kunde) gegen SG 10 + Grad des Zaubers schaffen. Bei einem Erfolg wird der Zauber erfolgreich kopiert. Unabhängig davon ob der Wurf gelingt oder nicht, ist die <em>Zauberschriftrolle</em> danach zerstört.</p>",
+            "source": "SLH S. 201"
         },
         "Spell Scroll 7th Level": {
-            "name": ""
+            "name": "Zauberschriftrolle (Zaubergrad 7)",
+            "description": "<p><em>Schriftrolle, sehr selten</em></p>\n<p>Eine <em>Zauberschriftrolle</em> enthält die Worte für einen einzelnen Zauber, die in mystischen Schriftzeichen geschrieben sind. Wenn der Zauber auf der Zauberliste deiner Klasse ist, kannst du die Schriftrolle lesen und den Zauber ohne irgendwelche materiellen Komponenten wirken. Andernfalls ist dir die Schriftrolle unverständlich. Den Zauber zu wirken, indem die Schriftrolle gelesen wird, benötigt den normalen Zeitaufwand des Zaubers. Sobald der Zauber gewirkt wurde, verschwinden die Worte auf der Schriftrolle, und sie zerfällt zu Staub. Wenn der Zauber unterbrochen wurde, ist die Schriftrolle nicht verloren.</p>\n<p>Wenn der Zauberspruch auf der Zauberliste deiner Klasse steht, aber höher ist als der Grad, den du normalerweise wirken kannst, musst du einen Attributswurf auf dein Zauberattribut ablegen, um zu bestimmen, ob du den Zauber erfolgreich wirken kannst. Der SG ist 10 + der Grad des Zaubers. Wenn der Wurf misslingt, verschwindet der Zauber ohne weiteren Effekt von der Schriftrolle.</p>\n<p>Der Grad des Zaubers auf der Schriftrolle bestimmt Zauberrettungswurf-SG und Angriffsbonus sowie den Seltenheitsgrad der Schriftrolle, wie in der folgenden Zauberschriftrollen-Tabelle gezeigt wird.</p>\n<p><strong>Rettungs-SG:</strong> 18<br /><strong>Angriffsbonus:</strong> +10</p>\n<p>Ein Magier-Zauber auf einer <em>Zauberschriftrolle</em> kann kopiert werden, ebenso wie Zaubersprüche in Zauberbüchern kopiert werden können. Wenn ein Zauberspruch von einer Schriftrolle kopiert wird, muss der Kopierer einen Wurf auf Intelligenz (Arkane Kunde) gegen SG 10 + Grad des Zaubers schaffen. Bei einem Erfolg wird der Zauber erfolgreich kopiert. Unabhängig davon ob der Wurf gelingt oder nicht, ist die <em>Zauberschriftrolle</em> danach zerstört.</p>",
+            "source": "SLH S. 201"
         },
         "Spell Scroll 8th Level": {
-            "name": ""
+            "name": "Zauberschriftrolle (Zaubergrad 8)",
+            "description": "<p><em>Schriftrolle, sehr selten</em></p>\n<p>Eine <em>Zauberschriftrolle</em> enthält die Worte für einen einzelnen Zauber, die in mystischen Schriftzeichen geschrieben sind. Wenn der Zauber auf der Zauberliste deiner Klasse ist, kannst du die Schriftrolle lesen und den Zauber ohne irgendwelche materiellen Komponenten wirken. Andernfalls ist dir die Schriftrolle unverständlich. Den Zauber zu wirken, indem die Schriftrolle gelesen wird, benötigt den normalen Zeitaufwand des Zaubers. Sobald der Zauber gewirkt wurde, verschwinden die Worte auf der Schriftrolle, und sie zerfällt zu Staub. Wenn der Zauber unterbrochen wurde, ist die Schriftrolle nicht verloren.</p>\n<p>Wenn der Zauberspruch auf der Zauberliste deiner Klasse steht, aber höher ist als der Grad, den du normalerweise wirken kannst, musst du einen Attributswurf auf dein Zauberattribut ablegen, um zu bestimmen, ob du den Zauber erfolgreich wirken kannst. Der SG ist 10 + der Grad des Zaubers. Wenn der Wurf misslingt, verschwindet der Zauber ohne weiteren Effekt von der Schriftrolle.</p>\n<p>Der Grad des Zaubers auf der Schriftrolle bestimmt Zauberrettungswurf-SG und Angriffsbonus sowie den Seltenheitsgrad der Schriftrolle, wie in der folgenden Zauberschriftrollen-Tabelle gezeigt wird.</p>\n<p><strong>Rettungs-SG:</strong> 18<br /><strong>Angriffsbonus:</strong> +10</p>\n<p>Ein Magier-Zauber auf einer <em>Zauberschriftrolle</em> kann kopiert werden, ebenso wie Zaubersprüche in Zauberbüchern kopiert werden können. Wenn ein Zauberspruch von einer Schriftrolle kopiert wird, muss der Kopierer einen Wurf auf Intelligenz (Arkane Kunde) gegen SG 10 + Grad des Zaubers schaffen. Bei einem Erfolg wird der Zauber erfolgreich kopiert. Unabhängig davon ob der Wurf gelingt oder nicht, ist die <em>Zauberschriftrolle</em> danach zerstört.</p>",
+            "source": "SLH S. 201"
         },
         "Spell Scroll 9th Level": {
-            "name": ""
+            "name": "Zauberschriftrolle (Zaubergrad 9)",
+            "description": "<p><em>Schriftrolle, legendär</em></p>\n<p>Eine <em>Zauberschriftrolle</em> enthält die Worte für einen einzelnen Zauber, die in mystischen Schriftzeichen geschrieben sind. Wenn der Zauber auf der Zauberliste deiner Klasse ist, kannst du die Schriftrolle lesen und den Zauber ohne irgendwelche materiellen Komponenten wirken. Andernfalls ist dir die Schriftrolle unverständlich. Den Zauber zu wirken, indem die Schriftrolle gelesen wird, benötigt den normalen Zeitaufwand des Zaubers. Sobald der Zauber gewirkt wurde, verschwinden die Worte auf der Schriftrolle, und sie zerfällt zu Staub. Wenn der Zauber unterbrochen wurde, ist die Schriftrolle nicht verloren.</p>\n<p>Wenn der Zauberspruch auf der Zauberliste deiner Klasse steht, aber höher ist als der Grad, den du normalerweise wirken kannst, musst du einen Attributswurf auf dein Zauberattribut ablegen, um zu bestimmen, ob du den Zauber erfolgreich wirken kannst. Der SG ist 10 + der Grad des Zaubers. Wenn der Wurf misslingt, verschwindet der Zauber ohne weiteren Effekt von der Schriftrolle.</p>\n<p>Der Grad des Zaubers auf der Schriftrolle bestimmt Zauberrettungswurf-SG und Angriffsbonus sowie den Seltenheitsgrad der Schriftrolle, wie in der folgenden Zauberschriftrollen-Tabelle gezeigt wird.</p>\n<p><strong>Rettungs-SG:</strong> 19<br /><strong>Angriffsbonus:</strong> +11</p>\n<p>Ein Magier-Zauber auf einer <em>Zauberschriftrolle</em> kann kopiert werden, ebenso wie Zaubersprüche in Zauberbüchern kopiert werden können. Wenn ein Zauberspruch von einer Schriftrolle kopiert wird, muss der Kopierer einen Wurf auf Intelligenz (Arkane Kunde) gegen SG 10 + Grad des Zaubers schaffen. Bei einem Erfolg wird der Zauber erfolgreich kopiert. Unabhängig davon ob der Wurf gelingt oder nicht, ist die <em>Zauberschriftrolle</em> danach zerstört.</p>",
+            "source": "SLH S. 201"
         },
         "Spell Scroll Cantrip Level": {
-            "name": ""
+            "name": "Zauberschriftrolle (Zaubertrick)",
+            "description": "<p><em>Schriftrolle, gewöhnlich</em></p>\n<p>Eine <em>Zauberschriftrolle</em> enthält die Worte für einen einzelnen Zauber, die in mystischen Schriftzeichen geschrieben sind. Wenn der Zauber auf der Zauberliste deiner Klasse ist, kannst du die Schriftrolle lesen und den Zauber ohne irgendwelche materiellen Komponenten wirken. Andernfalls ist dir die Schriftrolle unverständlich. Den Zauber zu wirken, indem die Schriftrolle gelesen wird, benötigt den normalen Zeitaufwand des Zaubers. Sobald der Zauber gewirkt wurde, verschwinden die Worte auf der Schriftrolle, und sie zerfällt zu Staub. Wenn der Zauber unterbrochen wurde, ist die Schriftrolle nicht verloren.</p>\n<p>Wenn der Zauberspruch auf der Zauberliste deiner Klasse steht, aber höher ist als der Grad, den du normalerweise wirken kannst, musst du einen Attributswurf auf dein Zauberattribut ablegen, um zu bestimmen, ob du den Zauber erfolgreich wirken kannst. Der SG ist 10 + der Grad des Zaubers. Wenn der Wurf misslingt, verschwindet der Zauber ohne weiteren Effekt von der Schriftrolle.</p>\n<p>Der Grad des Zaubers auf der Schriftrolle bestimmt Zauberrettungswurf-SG und Angriffsbonus sowie den Seltenheitsgrad der Schriftrolle, wie in der folgenden Zauberschriftrollen-Tabelle gezeigt wird.</p>\n<p><strong>Rettungs-SG:</strong> 13<br /><strong>Angriffsbonus:</strong> +5</p>\n<p>Ein Magier-Zauber auf einer <em>Zauberschriftrolle</em> kann kopiert werden, ebenso wie Zaubersprüche in Zauberbüchern kopiert werden können. Wenn ein Zauberspruch von einer Schriftrolle kopiert wird, muss der Kopierer einen Wurf auf Intelligenz (Arkane Kunde) gegen SG 10 + Grad des Zaubers schaffen. Bei einem Erfolg wird der Zauber erfolgreich kopiert. Unabhängig davon ob der Wurf gelingt oder nicht, ist die <em>Zauberschriftrolle</em> danach zerstört.</p>",
+            "source": "SLH S. 201"
         },
         "Spellbook": {
             "name": ""
