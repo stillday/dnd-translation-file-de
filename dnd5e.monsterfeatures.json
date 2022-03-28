@@ -1,13 +1,16 @@
 {
     "entries": {
         "Aberrant Ground": {
-            "name": ""
+            "name": "Grotesker Boden",
+            "description": "<p>Der Boden in einem Radius von 3 m um das Hundertmaul ist teigartig nud somit schwieriges Gelände. Alle Kreraturen, die ihren Zug in diesem Bereich beginnen, müssen einen Stärkerettungswurf gegen SG 10 ablegen. Bei einem misslungenen Wurf wird die Bewegungsrate des Opfers bis zum Beginn seines nächsten Zuges auf 0 verringert.</p>"
         },
         "Acid Absorption": {
-            "name": ""
+            "name": "Säureabsorption",
+            "description": "<p>Wenn der Golem Säureschaden erleidet, verursacht dies keinen Schaden. Stattdessen erhält der Golem Trefferpunkte gleich dem verursachten Säureschaden zurück.</p>"
         },
         "Acid Breath": {
-            "name": ""
+            "name": "Säureodem",
+            "description": "<p>Der {type} atmet in einer Linie mit 18 m Länge und 1,5 m Breite Säure aus. Alle Kreaturen in der Linie müssen einen Geschicklichkeitsrettungswurf gegen SG 18 ablegen. Bei einem misslungenen Rettungswurf erleiden sie 54 (12W8) Säureschaden, halb so viel Schaden bei einem erfolgreichen Rettungswurf.</p>"
         },
         "Acid Spray": {
             "name": ""
@@ -119,7 +122,8 @@
             "name": ""
         },
         "Claw Attack": {
-            "name": ""
+            "name": "Klauen",
+            "description": "<p>Nahkampf-Waffenangriff: +5 auf Treffer, Reichweite 5 Fuß, ein Ziel. Treffer: 6 (1W6 + 3) Hiebschaden.</p>\n<p>Die Kreatur greift mit einer ihrer Klauen an.</p>"
         },
         "Cold Breath": {
             "name": ""
@@ -647,7 +651,8 @@
             "name": ""
         },
         "Tail Spike Regrowth": {
-            "name": ""
+            "name": "Schwanzstachel-Wachstum",
+            "description": "<p>Die Kreatur hat 24 Schwanzstacheln. Verbrauchte Stacheln wachsen nach, wenn die Kreatur eine lange Rast abschließt.</p>"
         },
         "Tail Swipe (Legendary)": {
             "name": ""

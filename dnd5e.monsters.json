@@ -2,6 +2,7 @@
     "entries": {
         "Aboleth": {
             "name": "Aboleth",
+            "description": "<p>Abolethen hausen in unterirdischen Seen oder den felsigen Tiefen des Ozeans, oft umgeben von den Ruinen einer uralten, gefallenen Abolethen-Stadt. Ein Aboleth verbringt den Großteil seiner Existenz unter Wasser und kommt nur gelegentlich an die Oberfläche, um mit Besuchern oder wahnsinnigen Anhängern zu verhandeln.</p>",
             "source": "MH S. 15"
         },
         "Acolyte": {
@@ -37,7 +38,8 @@
             "name": ""
         },
         "Adult Red Dragon": {
-            "name": ""
+            "name": "Ausgewachsener Roter Drache",
+            "source": "MH S. 70"
         },
         "Adult Silver Dragon": {
             "name": ""
@@ -247,7 +249,8 @@
             "name": ""
         },
         "Deer": {
-            "name": ""
+            "name": "Reh",
+            "source": "MH S. 327"
         },
         "Deva": {
             "name": ""
@@ -481,7 +484,7 @@
             "name": ""
         },
         "Guard": {
-            "name": ""
+            "name": "Wache"
         },
         "Guardian Naga": {
             "name": ""
@@ -550,7 +553,7 @@
             "name": ""
         },
         "Knight": {
-            "name": ""
+            "name": "Ritter"
         },
         "Kobold": {
             "name": ""
