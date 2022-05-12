@@ -1,4 +1,41 @@
 {
     "entries": {
-    }
+        "Draconic Bloodline": {
+            "name": ""
+        },
+        "Circle of the Land": {
+            "name": ""
+        },
+        "Life Domain": {
+            "name": ""
+        },
+        "Way of the Open Hand": {
+            "name": ""
+        },
+        "College of Lore": {
+            "name": ""
+        },
+        "The Fiend": {
+            "name": ""
+        },
+        "School of Evocation": {
+            "name": ""
+        },
+        "Thief": {
+            "name": ""
+        },
+        "Oath of Devotion": {
+            "name": ""
+        },
+        "Champion": {
+            "name": ""
+        },
+        "Path of the Berserker": {
+            "name": ""
+        },
+        "Hunter": {
+            "name": ""
+        }
+    },
+    "label": "Unterklassen"
 }
