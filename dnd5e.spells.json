@@ -80,7 +80,10 @@
             "source": "SHB. S. 213"
         },
         "Arcane Hand": {
-            "name": ""
+            "name": "Bigbys Hand",
+            "description": "<p>Du erschaffst eine große Hand aus schimmernder, durchsichtiger Energie in einem freien Bereich, der sich in Reichweite befindet und den du sehen kannst. Die Hand bleibt für die Wirkungsdauer des Zaubers bestehen und bewegt sich auf deinen Befehl hin. Sie ahmt die Bewegungen deiner eigenen Hand nach.</p>\n<p>Die Hand ist ein Gegenstand mit RK 20 und Trefferpunkten in Höhe deiner maximalen Trefferpunkte. Wird sie auf 0 Treffer­punkte reduziert, endet der Zauber. Sie besitzt eine Stärke von 26 (+8) und eine Geschicklichkeit von 10 (+0). Der Bereich, in dem sich die Hand befindet, gilt nicht als von ihr besetzt. In deinen folgenden Zügen kannst du die Hand als Bonusaktion bis zu 18 m weit bewegen und dann einen der folgenden Effekte auslösen.</p>\n<p><strong>Geschlossene Faust:</strong> Die Hand schlägt eine Kreatur oder einen Gegenstand innerhalb von 1,50 m um sich. Führe einen Nahkampf­-Zauberangriff durch, der deine Spielwerte verwendet. Bei einem Treffer erleidet das Ziel 4W8 Energieschaden.</p>\n<p><strong>Kraftvolle Hand:</strong> Die Hand versucht, eine Kreatur im Umkreis von 1,50 m um sich in eine Richtung deiner Wahl zu schieben. Führe einen Wettstreit zwischen der Hand und dem Ziel durch: Lege für die Hand einen Stärkewurf ab gegen den Wurf auf Stärke (Athletik) des Ziels. Ist die Größenkategorie des Ziels mittelgroß oder kleiner, bist du bei diesem Wurf im Vorteil. Wenn du erfolgreich bist, schiebt die Hand das Ziel bis zu 1,50 m + 1,50 m mal dem Modifikator deines zum Zaubern relevanten Attributs. Die Hand bewegt sich mit dem Ziel und bleibt im Abstand von 1,50 m zu ihm.</p>\n<p><strong>Greifende Hand:</strong>  Die Hand versucht, eine Kreatur der Größenkategorie riesig oder kleiner im Umkreis von 1,50 m um sich zu greifen. Lege einen Ringenwurf ab (siehe Kapitel 9 „Kampf“), wobei du den Stärkewert der Hand verwendest. Ist das Ziel mittelgroß oder kleiner, bist du bei diesem Wurf im Vorteil. Hat die Hand das Ziel ergriffen, kannst du eine Bonusaktion verwenden, damit sie es zerdrückt. Das Ziel erleidetWuchtschaden in Höhe von 2W6 + dem Modifikator deines zum Zaubern relevanten Attributs.</p>\n<p><strong>Blockierende Hand:</strong> Die Hand platziert sich zwischen dir und einer Kreatur deiner Wahl, bis du ihr einen anderen Befehl gibst. Um diese Position beizubehalten, bewegt sich die Hand, und gewährt dir so Teildeckung gegen das Ziel. Dieses kann sich nicht durch den Bereich der Hand bewegen, wenn sein Stärkewert dem der Hand entspricht oder niedriger ist. Ist der Stärkewert des Ziels höher, kann es sich durch den Bereich der Hand bewegen, behandelt diesen aber als schwieriges Gelände.</p>\n<p><strong>Auf höheren Graden:</strong> Wenn du diesen Spruch mit einem Zauberplatz des 6. oder höheren Grades wirkst, steigt der Schaden der geschlossenen Faust um 2W8 und der Schaden der greifenden Hand um 2W6 für jeden Grad über den 5. hinaus.</p>",
+            "material": "eine Eierschale und ein Handschuh aus Schlangenleder",
+            "source": "SHB S. 217"
         },
         "Arcane Lock": {
             "name": "Arkanes Schloss",
@@ -89,10 +92,16 @@
             "source": "SHB. S. 213"
         },
         "Arcane Sword": {
-            "name": ""
+            "name": "Mordenkainens Schwert",
+            "description": "<p>Du erschaffst eine schwertförmige Fläche aus magischer Energie, die in Reichweite schwebt und die für die Wirkungsdauer bestehen bleibt.</p>\n<p>Wenn das Schwert erscheint, kannst du einen Nahkampf­-Zauberangriff gegen ein Ziel deiner Wahl ausführen, das sich in nerhalb von 1,50 m um das Schwert befindet. Bei einem Treffer erleidet das Ziel 3W10 Energieschaden.</p>\n<p>Bis der Zauber endet, kannst du in jedem deiner Züge eine Bonusaktion verwenden, um das Schwert bis zu 6 m zu einem Punkt zu bewegen, den du sehen kannst, und ein Ziel deiner Wahl anzugreifen.</p>",
+            "material": "ein Miniaturschwert aus Platin mit Griff und Knauf aus Kupfer und Zinn im Wert von 250 GM",
+            "source": "SHB S. 252"
         },
         "Arcanist's Magic Aura": {
-            "name": ""
+            "name": "Nystuls Magische Aura",
+            "description": "<p>Du berührst eine Kreatur oder einen Gegenstand und legst eine Illusion auf das Ziel, sodass Erkenntniszauber falsche Informationen über es vermitteln. Das Ziel kann eine bereitwillige Kreatur oder ein Gegenstand sein, der nicht von einer anderen Kreatur getragen oder in der Hand gehalten wird.</p>\n<p>Wähle beim Wirken des Zaubers einen oder beide der folgenden Effekte, die für die Wirkungsdauer anhalten. Wenn du diesen Zauber für 30 Tage jeden Tag auf dieselbe Kreatur oder denselben Gegenstand wirkst und jedes Mal den gleichen Effekt nutzt, hält die Illusion an, bis sie gebannt wird.</p>\n<p><strong>Falsche Aura:</strong>  Du veränderst die Art, wie das Ziel für Zauber und magische Effekte erscheint, die magische Auren aufspüren (etwa Magie entdecken). Du kannst einen nicht-magischen Gegenstand als magischen erscheinen lassen, einen magischen als nicht­magischen oder die Aura eines magischen Gegenstands ändern, sodass er einer Magieschule deiner Wahl anzugehören scheint. Wenn du diesen Effekt auf einen Gegenstand wirkst, kannst du entscheiden, dass die Illusion von jeder Kreatur erkannt wird, die den Gegenstand in die Hand nimmt.</p>\n<p><strong>Maskierung:</strong> Du beeinflusst, wie das Ziel von Zaubern und magischen Effekten wahrgenommen wird, die Kreaturentypen aufspüren (etwa das Göttliche Gespür des Paladins oder der Auslöser des Zaubers Symbol). Bestimme einen Kreaturentyp, und Zauber und andere magische Effekte behandeln das Ziel, als wäre es eine entsprechende Kreatur oder von dieser Gesinnung.</p>",
+            "material": "ein kleines Quadrat aus Seide",
+            "source": "SHB S. 253"
         },
         "Astral Projection": {
             "name": "Astrale Projektion",
