@@ -51,34 +51,44 @@
             "name": ""
         },
         "Ancient Black Dragon": {
-            "name": ""
+            "name": "Uralter Schwarzer Drache",
+            "source": "MH S. 59"
         },
         "Ancient Blue Dragon": {
-            "name": ""
+            "name": "Uralter Blauer Drache",
+            "source": "MH S. 62"
         },
         "Ancient Brass Dragon": {
-            "name": ""
+            "name": "Uralter Messingdrache",
+            "source": "MH S. 76"
         },
         "Ancient Bronze Dragon": {
-            "name": ""
+            "name": "Uralter Bronzedrache",
+            "source": "MH S. 79"
         },
         "Ancient Copper Dragon": {
-            "name": ""
+            "name": "Uralter Kupferdrache",
+            "source": "MH S. 82"
         },
         "Ancient Gold Dragon": {
-            "name": ""
+            "name": "Uralter Golddrache",
+            "source": "MH S. 85"
         },
         "Ancient Green Dragon": {
-            "name": ""
+            "name": "Uralter Grüner Drache",
+            "source": "MH S. 66"
         },
         "Ancient Red Dragon": {
-            "name": ""
+            "name": "Uralter Roter Drache",
+            "source": "MH S. 69"
         },
         "Ancient Silver Dragon": {
-            "name": ""
+            "name": "Uralter Silberdrache",
+            "source": "MH S. 88"
         },
         "Ancient White Dragon": {
-            "name": ""
+            "name": "Uralter Weißer Drache",
+            "source": "MH S. 72"
         },
         "Androsphinx": {
             "name": ""
@@ -150,7 +160,8 @@
             "name": ""
         },
         "Black Dragon Wyrmling": {
-            "name": ""
+            "name": "Schwarzer Drachennestling",
+            "source": "MH S. 60"
         },
         "Black Pudding": {
             "name": ""
@@ -256,7 +267,8 @@
             "name": ""
         },
         "Dire Wolf": {
-            "name": ""
+            "name": "Schreckenswolf",
+            "source": "MH S. 335"
         },
         "Djinni": {
             "name": ""
@@ -274,7 +286,8 @@
             "name": ""
         },
         "Drider": {
-            "name": ""
+            "name": "Drinne",
+            "source": "MH S. 93"
         },
         "Drow": {
             "name": ""
@@ -694,7 +707,9 @@
             "name": ""
         },
         "Priest": {
-            "name": ""
+            "name": "Priester",
+            "description": "<p>Priester bringen dem einfachen Volk die Lehren ihres Gottes. Sie sind die spirituellen Führer von Tempeln und Schreinen und haben oft einflussreiche Positionen in ihren Gemeinschaften inne. Böse Priester könnten offen unter einem Tyrannen auftreten, oder sie könnten die Anführer religiöser Sekten sein, die sich im Schatten einer Gesellschaft guter Gesinnung verbergen und verkommene Riten überwachen.</p>\n<p>Ein Priester hat normalerweise einen oder mehrere Akolythen, die ihn bei religiösen Zeremonien und anderen heiligen Pflichten unterstützen.</p>",
+            "source": "MH S: 349"
         },
         "Pseudodragon": {
             "name": ""
@@ -706,16 +721,20 @@
             "name": ""
         },
         "Quipper": {
-            "name": ""
+            "name": "Quipper",
+            "source": "MH S. 326"
         },
         "Rakshasa": {
             "name": ""
         },
         "Rat": {
-            "name": ""
+            "name": "Ratte",
+            "source": "MH S. 327"
         },
         "Raven": {
-            "name": ""
+            "name": "Rabe",
+            "description": "",
+            "source": "MH S. 326"
         },
         "Red Dragon Wyrmling": {
             "name": ""
@@ -931,58 +950,78 @@
             "name": ""
         },
         "Will-o'-Wisp": {
-            "name": ""
+            "name": "Irrlicht",
+            "source": "MH S. 165"
         },
         "Winter Wolf": {
-            "name": ""
+            "name": "Winterwolf",
+            "description": "<p>Der in der Arktis lebende <strong>Winterwolf </strong>ist so groß wie ein Schreckenswolf, hat aber schneeweißes Fell und blass-blaue Augen. Frostriesen nutzen diese bösen Kreaturen als Wach- und Jagdbegleiter und nutzen den tödlichen Atem dieser Wölfe gegen ihre Feinde. Winterwölfe kommunizieren miteinander mit Knurr- und Bellgeräuschen, doch sprechen sie die Gemeinsprache und Riesisch gut genug, um einfache Gespräche zu führen.</p>",
+            "source": "MH S. 340"
         },
         "Wolf": {
-            "name": ""
+            "name": "Wolf",
+            "source": "MH S.340"
         },
         "Worg": {
-            "name": ""
+            "name": "Worg",
+            "description": "<p>Ein <strong>Worg </strong>ist ein böses Raubtier, das sich daran erfreut, Kreaturen, die schwächer als es selbst sind, zu jagen und zu verschlingen. Worge sind verschlagen und bösartig und streifen durch die abgelegene Wildnis oder werden von Goblins und Hobgoblins gezüchtet. Diese Kreaturen nutzen Worge als Reittiere, doch wird sich ein Worg gegen seinen Reiter wenden, wenn er sich schlecht behandelt oder unterernährt fühlt. Worge sprechen ihre eigene Sprache und Goblinisch, und manche lernen sogar, die Gemeinsprache zu sprechen.</p>",
+            "source": "MH S. 340"
         },
         "Wraith": {
             "name": ""
         },
         "Wyvern": {
-            "name": ""
+            "name": "Wyvern",
+            "source": "MH S. 302"
         },
         "Xorn": {
-            "name": ""
+            "name": "Xorn",
+            "description": "",
+            "source": "MH S. 303"
         },
         "Young Black Dragon": {
-            "name": ""
+            "name": "Junger Schwarzer Drache",
+            "source": "MH S. 60"
         },
         "Young Blue Dragon": {
-            "name": ""
+            "name": "Junger Blauer Drache",
+            "source": "MH S. 63"
         },
         "Young Brass Dragon": {
-            "name": ""
+            "name": "Junger Messingdrache",
+            "source": "MH S. 77"
         },
         "Young Bronze Dragon": {
-            "name": ""
+            "name": "Junger Bronzedrache",
+            "source": "MH S. 80"
         },
         "Young Copper Dragon": {
-            "name": ""
+            "name": "Junger Kupferdrache",
+            "source": "MH S. 83"
         },
         "Young Gold Dragon": {
-            "name": ""
+            "name": "Junger Golddrache",
+            "source": "MH S. 87"
         },
         "Young Green Dragon": {
-            "name": ""
+            "name": "Junger Grüner Drache",
+            "source": "MH S. 67"
         },
         "Young Red Dragon": {
-            "name": ""
+            "name": "Junger Roter Drache",
+            "source": "MH S. 70"
         },
         "Young Silver Dragon": {
-            "name": ""
+            "name": "Junger Silberdrache",
+            "source": "MH S. 90"
         },
         "Young White Dragon": {
-            "name": ""
+            "name": "Junger Weisser Drache",
+            "source": "MH S. 73"
         },
         "Zombie": {
-            "name": ""
+            "name": "",
+            "source": "MH S. 315"
         }
     },
     "label": "Monster (SRD)",

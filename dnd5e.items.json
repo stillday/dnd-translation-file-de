@@ -21,7 +21,7 @@
             "source": "SLH S.150"
         },
         "Adamantine Chain Shirt": {
-            "name": "Hemd mit Adamantinkette",
+            "name": "Adamantin-Kettenhemd",
             "description": "<p>Die Rüstung ist mit Adamant verstärkt, eines der härtesten Materialien, die es gibt.<br /><br />Jeder kritischer Treffer, der dich trifft, wird zu einem normalen Treffer, während du dieses Rüstung trägst.</p>",
             "source": "SLH S.150"
         },
@@ -139,7 +139,7 @@
             "description": "<p><em>Rüstung (Schild), selten (benötigt Einstimmung)</em></p>\n<p>Du erhältst einen +2 Bonus auf die Rüstungsklasse gegen Fernkampfangriffe, solange du diesen Schild trägst. Dieser Bonus kommt zu dem normalen RK-Bonus des Schildes hinzu. Darüber hinaus kannst du jedes Mal, wenn ein Angreifer auf ein Feld innerhalb von 1,50 Meter Radius von dir einen Fernkampfangriff ausführt, deine Reaktion benutzen, um selbst Ziel des Angriffs zu werden. </p>",
             "source": "SLH S. 174"
         },
-        "Arrow": {
+        "Arrows": {
             "name": "Pfeile",
             "description": "<p>Standardmunition für Bögen aller Art. Diese mondänen Pfeile bestehen aus glatten Holzschäften mit Gänsefedernbefiederung und Hammermetall-Spitzen.</p>",
             "source": "SHB S. 150"
@@ -227,7 +227,8 @@
             "source": "SLH S. 174"
         },
         "Bedroll": {
-            "name": "Schlafsack"
+            "name": "Schlafsack",
+            "description": "<p>Stoffrolle, von Reisenden zum Schlafen verwendet.</p>"
         },
         "Bell": {
             "name": "Glocke"
@@ -293,7 +294,8 @@
             "source": "SHB S. 151"
         },
         "Block of Incense": {
-            "name": ""
+            "name": "Räucherwerk",
+            "description": "<p>Wird oft von Reichen oder Religiösen verwendet, um die Luft zum Vergnügen oder für Rituale zu parfümieren.</p>"
         },
         "Blowgun": {
             "name": "Blasrohr"
@@ -322,7 +324,9 @@
             "name": ""
         },
         "Book of Shadows": {
-            "name": ""
+            "name": "Buch der Schatten",
+            "description": "<p>Ein Zauberbuch, das dir von deinem Schutzherrn gegeben wurde. Suche dir drei Zaubertricks von frei wählbaren Zauberlisten aus (es müssen nicht die gleichen sein). Solange du das Buch bei dir trägst, kannst du diese drei Zaubertricks beliebig oft wirken. Sie zählen nicht in Bezug auf die maximale Anzahl bekannter Zaubertricks. Sprüche, die nicht in der Zauberliste des Hexenmeisters enthalten sind, gelten für dich trotzdem als Hexenmeisterzaubertricks.</p>\n<p>Solltest du das Buch der Schatten verlieren, kannst du eine einstündie Zeremonie ausführen, um von deinem Schutzherrn einen Ersatz zu erhalten. Diese Zeremonie kann im Rahmen einer kurzen oder langen Rast durchgeführt werden. Dabei wird das alte Buch zerstört. Falls du stirbst, zerfällt dein Buch zu Asche.</p>",
+            "source": "SHB S. 64"
         },
         "Boots of Elvenkind": {
             "name": "Stiefel der Elfen",
@@ -373,7 +377,9 @@
             "name": ""
         },
         "Breastplate": {
-            "name": ""
+            "name": "Brustplatte",
+            "description": "<p>Diese Rüstung besteht aus einem maßgefertigten Brustteil aus Metall, das mit weichem Leder zusammen getragen wird. Obwohl sie die Arme und Beine relativ ungeschützt lässt, bietet diese Rüstung guten Schutz für die lebenswichtigen Organe des Trägers, während sie ihn in seiner Bewegung nur wenig einschränkt.</p>",
+            "source": "SHB S. 145"
         },
         "Breastplate +1": {
             "name": ""
@@ -541,13 +547,17 @@
             "name": ""
         },
         "Crossbow Bolt": {
-            "name": ""
+            "name": "Armbrustbolzen",
+            "source": "SHB S. 147"
         },
         "Crossbow Bolt +1": {
-            "name": ""
+            "name": "Armbrustbolzen +1",
+            "description": "",
+            "source": "SLHB S. 163"
         },
         "Crossbow Bolt +2": {
-            "name": ""
+            "name": "Armbrustbolzen +2",
+            "source": "SLHB S. 163"
         },
         "Crossbow Bolt +3": {
             "name": ""
@@ -620,7 +630,9 @@
             "source": "SLH S. 193"
         },
         "Dart": {
-            "name": ""
+            "name": "Wurfpfeil",
+            "description": "<p>Ein kleines Wurfgerät mit einem kurzen Holzschaft und gekreuzten Federn mit einer scharfen Holz- oder Metallspitze. Pfeile können mit ausreichender Kraft geworfen werden, um die Haut zu durchstechen.</p>",
+            "source": "SHB S. 149"
         },
         "Dart +1": {
             "name": ""
@@ -810,10 +822,14 @@
             "name": ""
         },
         "Fine Clothes": {
-            "name": ""
+            "name": "Kleidung, fein",
+            "description": "<p>Kleidung, die speziell dafür entworfen wurde, teuer zu sein und es zu zeigt.</p>",
+            "source": "SHB S. 150"
         },
         "Fishing Tackle": {
-            "name": ""
+            "name": "Angelausrüstung",
+            "description": "<p>Diese Zusammenstellung beinhaltet eine Angelrute, Angelschnur, Korkschwimmer, Stahlhaken, Bleigewichte, Seidenköder und engmaschige Netze.</p>",
+            "source": "SHB S. 151"
         },
         "Flail": {
             "name": ""
@@ -855,7 +871,9 @@
             "name": ""
         },
         "Forgery Kit": {
-            "name": ""
+            "name": "Fälscherausrüstung",
+            "description": "<p>Dieser kleine Kasten enthält ein breites Spektrum an Papieren und Pergamenten, Schreibwerkzeugen und Tinten, Siegeln und Siegelwachs, Gold- und Silberplättchen sowie andere Ausrüstung, die notwendig ist, um überzeugende Fälschungen von tatsächlichen Dokumenten zu erschaffen. Bist du im Umgang mit diesem Werkzeug geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, die mit dem Fälschen von Dokumenten in Verbindung stehen.</p>",
+            "source": "SHB S. 154"
         },
         "Frost Brand Greatsword": {
             "name": ""
@@ -1096,7 +1114,9 @@
             "source": "SHB S. 153"
         },
         "Herbalism Kit": {
-            "name": ""
+            "name": "Kräuterkundeausrüstung",
+            "description": "<p>Diese Ausrüstung enthält eine Auswahl von Instrumenten wie Pinzetten, Mörser und Stößel sowie Phiolen und Beutelchen, die von Kräuterkundigen verwendet werden, um Salben und Tränke herzustellen. Bist du im Umgang mit diesem Werkzeug geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, die mit dem Anwenden und Identifizieren von Kräutern sowie dem Herstellen von Gegengiften und Heiltränken in Verbindung stehen.</p>",
+            "source": "SHB S. 154"
         },
         "Hide Armor": {
             "name": ""
@@ -1129,7 +1149,9 @@
             "name": ""
         },
         "Hooded Lantern": {
-            "name": ""
+            "name": "Laterne, abdeckbar",
+            "description": "<p>Die abdeckbare Laterne erhellt einen Umkreis von 9 m (30 feet) mit hellem Licht und weitere 9 m mit dämmrigem Licht. Nach dem Entzünden brennt sie mit einem Fläschchen Öl (0,5l) 6 Stunden lang.<br />Im Rahmen einer Aktion kannst du die Abdeckung herunterlassen und das Licht der Laterne auf einen Radius von 1,5 m (5 feet) aus dämmrigem Licht reduzieren.</p>",
+            "source": "SHB S. 152"
         },
         "Horn": {
             "name": ""
@@ -1147,7 +1169,9 @@
             "name": ""
         },
         "Hunting Trap": {
-            "name": ""
+            "name": "Fangeisen (Falle)",
+            "description": "<p>Als Aktion kannst du das Fangeisen auslegen und einsatzbereit machen. Der Sägezahn besetzte Stahlring schnappt zusammen, sobald eine Kreatur auf die Druckplatte in dessen Mitte tritt. Die Falle wird an einer Kette an einem unbeweglichen Objekt befestigt, wie etwa einem Baum oder einem im Boden steckenden Pfahl.</p>\n<p>Eine Kreatur, die auf die Druckplatte tritt, muss einen Geschicklichkeitswurf gegen SG 13 ablegen. Bei einem Misserfolg erleidet sie 1W4 Stichschaden und ihre Bewegung ist beendet. Anschließend ist die Bewegungsfreiheit der Kreatur durch die Kette eingeschränkt, bis sie sich befreien kann.</p>\n<p>Eine Kreatur kann ihre Aktion dazu verwenden, um einen Stärkewurf gegen SG 13 abzulegen. Bei einem Erfolg kann sie sich selbst oder eine Kreatur in Reichweite befreien. Jeder erfolglose Versuch fügt der gefangenen Kreatur 1 Punkt Srichschaden zu.</p>\n<p>Die Kette ist typischerweise 1 m lang.</p>",
+            "source": "SHB S. 151"
         },
         "Immovable Rod": {
             "name": ""
@@ -1295,7 +1319,9 @@
             "name": ""
         },
         "Leather Armor": {
-            "name": ""
+            "name": "Lederrüstung",
+            "description": "<p>Der Brustpanzer und die Schulterprotektorenr dieser Rüstung bestehen aus Leder, das durch Kochen in Öl versteift wurde. Die übrigen Teile der Rüstung wurden aus weichen und flexiblen Materialien gefertigt.</p>",
+            "source": "SHB S.144"
         },
         "Leather Armor +1": {
             "name": ""
@@ -1550,7 +1576,9 @@
             "name": ""
         },
         "Oil Flask": {
-            "name": ""
+            "name": "Ölflasche",
+            "description": "<p>Öl wird üblicherweise in tönernen Flaschen verkauft, die 0,5 Liter enthalten. Als Aktion kannst du das Öl auf eine Kreatur innerhalb von 1,50 m schütten oder es bis zu 6 m weit werfen, wo das Fläschchen beim Aufprall zerbricht. In beiden Fällen führst du einen Fernkampfangriff gegen das Objekt oder die Kreatur aus, wobei das Ölfläschchen als improvisierte Waffe behandelt wird.</p>\n<p>Bei einem Treffer ist das Ziel mit Öl benetzt. Erleidet es Feuerschaden, bevor das Öl eintrocknet (nach 1 Minute), fügt ihm das Öl weitere 5 Punkte Feuerschaden zu. Du kannst ein Fläschchen auch auf dem Boden ausleeren und eine Fläche von 1,50 m x 1,50 m mit Öl bedecken, vorausgesetzt der Boden ist eben.</p>\n<p>Wird es entzündet, brennt das Öl für 2 Runden und fügt jeder Kreatur, die den Bereich betritt oder ihren Zug in diesem beendet, 5 Punkte Feuerschaden zu.</p>",
+            "source": "SHB S. 152"
         },
         "Oil of Etherealness": {
             "name": ""
@@ -1661,7 +1689,9 @@
             "name": ""
         },
         "Poisoner’s Kit": {
-            "name": ""
+            "name": "Giftmischerausrüstung",
+            "description": "<p>Die Giftmischerausrüstung enthält Phiolen, Chemikalien und andere Gegenstände, die zum Herstellen von Giften benötigt werden. Bist du im Umgang mit diesem Werkzeug geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, die mit der Herstellung und Anwendung von Giften in Verbindung stehen.</p>",
+            "source": "SHB S. 154"
         },
         "Pole": {
             "name": ""
@@ -1670,7 +1700,9 @@
             "name": ""
         },
         "Portable Ram": {
-            "name": ""
+            "name": "Tragbarer Rammbock",
+            "description": "<p>Du kannst den tragbaren Rammbock dazu verwenden, um Türen einzuschlagen. In diesem Fall erhältst du einen Bonus von +4 auf deinen Stärkewurf. Hilft dir ein weiterer Charakter, den Rammbock zu benutzen, bist du bei deinem Wurf im Vorteil.</p>",
+            "source": "SHB S. 153"
         },
         "Potion of Acid Resistance": {
             "name": "Trank des Säurewiderstands",
@@ -2386,7 +2418,9 @@
             "name": ""
         },
         "Thieves’ Tools": {
-            "name": ""
+            "name": "Diebeswerkzeug",
+            "description": "<p>Dieser Satz Werkzeuge enthält eine kleine Feile, verschiedene Dietriche, einen kleinen Spiegel mit Handgriff, unterschiedliche Scheren mit dünnen Schneiden und einige Pinzetten. Bist du im Umgang mit diesem Werkzeug geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, die mit dem Entschärfen von Fallen oder dem Öffnen von Schlössern in Verbindung stehen.</p>",
+            "source": "SHB S. 154"
         },
         "Tinderbox": {
             "name": ""
@@ -2434,7 +2468,9 @@
             "name": ""
         },
         "Unarmed Strike": {
-            "name": ""
+            "name": "Waffenlosen Schlag",
+            "description": "<p>Dabei mag es sich um einen Fausthieb, einen Tritt, einen Kopfstoß oder einen ähnlichen Angriff handeln (bei dem etwas verwendet wird, das nicht als Waffe zählt). Bei einem Treffer verursachst du Wuchtschaden in Höhe deines Stärkemodifikators +1. Du bist immer geübt in waffenlosen Schlägen.</p>",
+            "source": "SHB S. 195"
         },
         "Unarmed Strike (Monk)": {
             "name": ""
