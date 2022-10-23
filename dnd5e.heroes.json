@@ -37,23 +37,5 @@
             "name": "Zanna (Gnom Magier)"
         }
     },
-    "label": "Helden zum Starten",
-    "mapping": {
-        "alignment": {
-            "converter": "alignment",
-            "path": "data.details.alignment"
-        },
-        "biography": {
-            "converter": "biography",
-            "path": "data.details.biography.value"
-        },
-        "languages": {
-            "converter": "languages",
-            "path": "data.traits.languages.custom"
-        },
-        "race": {
-            "converter": "race",
-            "path": "data.details.race"
-        }
-    }
+    "label": "Helden zum Starten"
 }

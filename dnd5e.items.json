@@ -3983,14 +3983,9 @@
     },
     "label": "Gegenstände (SRD)",
     "mapping": {
-        "name": {
-            "converter": "itemname",
-            "path": "name"
-        },
-        "rarity": {
-            "converter": "rarity",
-            "path": "data.rarity"
-        },
-        "source": "data.source"
+        "source": {
+            "converter": "source",
+            "path": "system.source"
+        }
     }
 }

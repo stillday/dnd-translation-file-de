@@ -63,6 +63,9 @@
     },
     "label": "Klassen (SRD)",
     "mapping": {
-        "source": "data.source"
+        "source": {
+            "converter": "source",
+            "path": "system.source"
+        }
     }
 }

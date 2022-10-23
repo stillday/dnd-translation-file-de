@@ -1787,22 +1787,18 @@
     },
     "label": "Zauber (SRD)",
     "mapping": {
-        "material": "data.materials.value",
+        "material": "system.materials.value",
         "range": {
             "converter": "range",
-            "path": "data.range"
+            "path": "system.range"
         },
         "source": {
-            "path": "data.source",
-            "converter": "spellsource"
+            "converter": "source",
+            "path": "system.source"
         },
         "target": {
             "converter": "target",
-            "path": "data.target"
-        },
-        "name": {
-            "path": "name",
-            "converter": "spellname"
+            "path": "system.target"
         }
     }
 }

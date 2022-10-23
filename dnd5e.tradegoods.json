@@ -118,10 +118,9 @@
     },
     "label": "Handelsgüter (SRD)",
     "mapping": {
-        "rarity": {
-            "converter": "rarity",
-            "path": "data.rarity"
-        },
-        "source": "data.source"
+        "source": {
+            "converter": "source",
+            "path": "system.source"
+        }
     }
 }

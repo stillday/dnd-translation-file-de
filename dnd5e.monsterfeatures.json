@@ -763,5 +763,15 @@
             "name": ""
         }
     },
-    "label": "Monsterfähigkeiten (SRD)"
+    "label": "Monsterfähigkeiten (SRD)",
+    "mapping": {
+        "source": {
+            "converter": "source",
+            "path": "system.source"
+        },
+        "requirements": {
+            "converter": "classRequirements",
+            "path": "system.requirements"
+        }
+    }
 }

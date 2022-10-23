@@ -1186,5 +1186,15 @@
             "source": "SHB S. 58"
         }
     },
-    "label": "Klassenfähigkeiten (SRD)"
+    "label": "Klassenfähigkeiten (SRD)",
+    "mapping": {
+        "source": {
+            "converter": "source",
+            "path": "system.source"
+        },
+        "requirements": {
+            "converter": "classRequirements",
+            "path": "system.requirements"
+        }
+    }
 }
